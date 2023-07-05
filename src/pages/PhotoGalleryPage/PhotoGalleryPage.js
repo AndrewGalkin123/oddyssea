@@ -5,6 +5,7 @@ import { useContext } from "react";
 import { LanguageContext } from "../../contexts/LanguageContext"
 import translations from "../../translations.json"
 
+
 const PhotoGalleryPage = () => {
     const { currentLanguage } = useContext(LanguageContext);
     const photoGalleryPageTranslations = translations.photoGalleryPage[currentLanguage];
@@ -59,6 +60,7 @@ const PhotoGalleryPage = () => {
                     className="photogallery_item_container"
                     style={{ position: "relative", marginBottom: "100px" }}
                 >
+                   
                     <div class="photogallery_item">
                         <figure class="photogallery_effect">
                             <img src={odessaFerrisWheel} alt="odessaferriswheel" />
