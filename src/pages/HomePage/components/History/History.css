@@ -1,0 +1,31 @@
+.box {
+
+    font-family: 'Poppins', sans-serif;
+  
+    text-align: center;
+}
+
+.box img {
+    border-radius: 10px;
+  
+}
+
+.box p{ 
+    text-align: left;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+}
+
+.box h2{ 
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 22px;
+}
+
+
+
+
+@media (max-width: 970px) {
+    .box:nth-child(-n+2) {
+        display: none;
+    }
+}

@@ -1,0 +1,344 @@
+{
+  "header": {
+    "ru": {
+      "history": "История",
+      "culture": "Культура",
+      "photogallery": "Фотогалерея"
+    },
+    "uk": {
+      "history": "Історія",
+      "culture": "Культура",
+      "photogallery": "Фотогалерея"
+    },
+    "en": {
+      "history": "History",
+      "culture": "Culture",
+      "photogallery": "Photo Gallery"
+    }
+  },
+  "footer": {
+    "ru": {
+      "companyHistory": "История компании",
+      "contactInformation": "Контактная информация",
+      "aboutUs": "О нас",
+      "ourTeam": "Наша команда",
+      "projectHistory": "История проекта",
+      "contacts": "Контакты",
+      "cityInfo": "Информация о городе и достопримечательности",
+      "cityInfoDesc": "Информация о городе",
+      "cityAttractions": "Городские достопримечательности",
+      "placesToVisit": "Места для посещения",
+      "linksAndInfo": "Ссылки и дополнительная информация",
+      "usefulLinks": "Полезные ссылки",
+      "termsOfUse": "Условия использования",
+      "privacyPolicy": "Политика конфиденциальности",
+      "copyright": "Авторские права",
+      "faq": "Вопросы и ответы (FAQ)",
+      "socialLinks": "Наши соцсети"
+    },
+    "uk": {
+      "companyHistory": "Історія компанії",
+      "contactInformation": "Контактна інформація",
+      "aboutUs": "Про нас",
+      "ourTeam": "Наша команда",
+      "projectHistory": "Історія проекту",
+      "contacts": "Контакти",
+      "cityInfo": "Інформація про місто та визначні місця",
+      "cityInfoDesc": "Інформація про місто",
+      "cityAttractions": "Визначні місця міста",
+      "placesToVisit": "Місця для відвідування",
+      "linksAndInfo": "Посилання та додаткова інформація",
+      "usefulLinks": "Корисні посилання",
+      "termsOfUse": "Умови використання",
+      "privacyPolicy": "Політика конфіденційності",
+      "copyright": "Авторські права",
+      "faq": "Питання та відповіді (FAQ)",
+      "socialLinks": "Наші соціальні мережі"
+    },
+    "en": {
+      "companyHistory": "Company History",
+      "contactInformation": "Contact Information",
+      "aboutUs": "About Us",
+      "ourTeam": "Our Team",
+      "projectHistory": "Project History",
+      "contacts": "Contacts",
+      "cityInfo": "City Information and Attractions",
+      "cityInfoDesc": "City Information",
+      "cityAttractions": "City Attractions",
+      "placesToVisit": "Places to Visit",
+      "linksAndInfo": "Links and Additional Information",
+      "usefulLinks": "Useful Links",
+      "termsOfUse": "Terms of Use",
+      "privacyPolicy": "Privacy Policy",
+      "copyright": "Copyright",
+      "faq": "Frequently Asked Questions (FAQ)",
+      "socialLinks": "Our Social Links"
+    }
+  },
+  "aboutOdessa": {
+    "ru": {
+      "informationAboutOdessa": "Информация про Одессу",
+      "welcomeToOdessa": "Добро пожаловать в Одессу – жемчужину Черного моря! Этот уникальный город, с его богатой историей и неповторимой атмосферой, приглашает вас на захватывающее путешествие, полное открытий и впечатлений.",
+      "odessaHistory": "История Одессы простирается на протяжении веков, и каждый уголок города отражает свой собственный эпизод этой богатой истории. Прогулка по историческому центру уносит вас во времена величественных зданий, узких переулков и романтических двориков. Одесский оперный театр, Потемкинская лестница, Дерибасовская улица – каждая достопримечательность рассказывает свою увлекательную историю.",
+      "websiteDescription": "Наш сайт Oddyssea создан, чтобы помочь вам раскрыть все тайны и прелести Одессы. Мы собрали для вас самую полезную и интересную информацию о городе – от его исторических достопримечательностей до уютных кафе и ресторанов, от местных традиций и культуры до прекрасных пляжей и развлечений.",
+      "artAndCulture": "Одесса – это также город искусства и культуры. Музеи, галереи, выставки, театры – здесь каждый найдет что-то по своему вкусу. Погрузитесь в мир искусства, посетите выставки современных художников или насладитесь оперным спектаклем в одном из самых красивых театров страны.",
+      "gastronomicDelights": "Не упустите возможность познакомиться с гастрономическими изысками Одессы. Местная кухня поразит вас разнообразием вкусов и ароматов. Попробуйте изысканные рыбные блюда, свежие морепродукты и настоящие одесские деликатесы. В ресторанах и кафе города вы сможете отведать уникальные блюда и насладиться гостеприимством одесской кухни.",
+      "promenadeAlongTheSeaside": "Отправьтесь на прогулку по Приморскому бульвару, наслаждаясь прекрасными видами Черного моря и архитектурой старых зданий. Загляните в местные магазины, где вы найдете уникальные сувениры и товары, отражающие дух Одессы.",
+      "oddysseaGuide": "Oddyssea – ваш проводник в этом захватывающем путешествии по Одессе. На нашем сайте вы найдете полезную информацию о городе, достопримечательностях, советы по путешествиям, культурным мероприятиям и многому другому. Мы собрали для вас самые интересные места, уникальные фотографии и вдохновляющие истории, чтобы помочь вам полностью погрузиться в атмосферу Одессы.",
+      "welcomeToOdessaInspiration": "Добро пожаловать в Одессу – город, который станет для вас не только пунктом назначения, но и источником вдохновения и незабываемых впечатлений. Приготовьтесь к невероятным открытиям и приключениям вместе с Oddyssea!"
+    },
+    "en": {
+      "informationAboutOdessa": "Information About Odessa",
+      "welcomeToOdessa": "Welcome to Odessa, the pearl of the Black Sea! This unique city, with its rich history and distinctive atmosphere, invites you to an exciting journey full of discoveries and impressions.",
+      "odessaHistory": "Odessa's history spans centuries, and every corner of the city reflects its own episode of this rich history. A walk through the historic center takes you back to the times of grand buildings, narrow alleys, and romantic courtyards. Odessa Opera House, Potemkin Stairs, and Deribasovskaya Street - each landmark tells its fascinating story.",
+      "websiteDescription": "Our website Oddyssea is designed to help you uncover all the secrets and charms of Odessa. We have gathered the most useful and interesting information about the city - from its historical landmarks to cozy cafes and restaurants, from local traditions and culture to beautiful beaches and entertainment.",
+      "artAndCulture": "Odessa is also a city of art and culture. Museums, galleries, exhibitions, theaters - here everyone will find something to their liking. Immerse yourself in the world of art, visit exhibitions of contemporary artists, or enjoy an opera performance in one of the most beautiful theaters in the country.",
+      "gastronomicDelights": "Don't miss the opportunity to explore the gastronomic delights of Odessa. The local cuisine will impress you with a variety of flavors and aromas. Try exquisite fish dishes, fresh seafood, and authentic Odessa delicacies. In the city's restaurants and cafes, you can taste unique dishes and enjoy the hospitality of Odessa cuisine.",
+      "promenadeAlongTheSeaside": "Take a stroll along the Primorsky Boulevard, enjoying the beautiful views of the Black Sea and the architecture of old buildings. Visit local shops, where you will find unique souvenirs and products reflecting the spirit of Odessa.",
+      "oddysseaGuide": "Oddyssea is your guide on this exciting journey through Odessa. On our website, you will find useful information about the city, landmarks, travel tips, cultural events, and much more. We have gathered the most interesting places, unique photographs, and inspiring stories to help you fully immerse yourself in the atmosphere of Odessa.",
+      "welcomeToOdessaInspiration": "Welcome to Odessa, a city that will not only be your destination but also a source of inspiration and unforgettable experiences. Get ready for incredible discoveries and adventures with Oddyssea!"
+    },
+    "uk": {
+      "informationAboutOdessa": "Інформація про Одесу",
+      "welcomeToOdessa": "Ласкаво просимо до Одеси, перлини Чорного моря! Це унікальне місто з багатою історією та неповторною атмосферою запрошує вас на захоплюючу подорож, повну відкриттів та вражень.",
+      "odessaHistory": "Історія Одеси налічує століття, і кожний куточок міста відображає свій власний епізод цієї багатої історії. Прогулянка через історичний центр переносить вас у часи величних будівель, вузьких провулків та романтичних подвір'їв. Одеський оперний театр, Потьомкінські сходи, вулиця Дерибасівська - кожна визначна пам'ятка розповідає свою захоплюючу історію.",
+      "websiteDescription": "Наш веб-сайт Oddyssea призначений допомогти вам розкрити всі таємниці та чари Одеси. Ми зібрали найкориснішу та цікаву інформацію про місто - від його історичних пам'яток до затишних кафе та ресторанів, від місцевих традицій та культури до прекрасних пляжів та розваг.",
+      "artAndCulture": "Одеса - це також місто мистецтва та культури. Музеї, галереї, виставки, театри - тут кожен знайде щось до свого смаку. Зануртесь у світ мистецтва, відвідайте виставки сучасних художників або насолодіться оперним виступом у одному з найкрасивіших театрів країни.",
+      "gastronomicDelights": "Не пропустіть можливість познайомитися з гастрономічними витонченостями Одеси. Місцева кухня вас зачарує різноманіттям смаків і ароматів. Спробуйте вишукані рибні страви, свіжі морепродукти та справжні одеські делікатеси. У ресторанах та кафе міста ви зможете скуштувати унікальні страви та насолодитися гостинністю одеської кухні.",
+      "promenadeAlongTheSeaside": "Прогуляйтесь по Приморському бульвару, насолоджуючись чудовими видами Чорного моря та архітектурою старих будівель. Загляньте в місцеві магазини, де ви знайдете унікальні сувеніри та товари, які відображають дух Одеси.",
+      "oddysseaGuide": "Oddyssea - це ваш провідник у цій захоплюючій подорожі через Одесу. На нашому веб-сайті ви знайдете корисну інформацію про місто, визначні місця, поради щодо подорожей, культурних подій та багато іншого. Ми зібрали найцікавіші місця, унікальні фотографії та натхненні історії, щоб допомогти вам повністю погрузитися у атмосферу Одеси.",
+      "prepareForDiscoveries": "Приготуйтеся до неймовірних відкриттів та пригод разом з Oddyssea!",
+      "welcomeToOdessaInspiration": "Ласкаво просимо до Одеси – міста, яке стане для вас не лише пунктом призначення, а й джерелом натхнення та незабутніх вражень. Приготуйтеся до неймовірних відкриттів та пригод разом з Oddyssea!"
+    }
+  },
+  "aboutBlock": {
+    "en": {
+      "projectOddyssea": "Project Oddyssea",
+      "welcomeMessage": "Welcome to the world of Oddyssea - your virtual guide to the amazing city of Odessa! We have created this website to share with you the rich history, unique culture, and captivating charm of this city.",
+      "whyChooseOddyssea": "● Why choose Oddyssea?",
+      "virtualExperience": "With us, you will find everything you need for an exciting journey through Odessa without leaving your home. We offer you a unique virtual travel experience that saves your time and money. You can explore the history and culture of Odessa, visit landmarks, and immerse yourself in the city's atmosphere without leaving your chair. With a user-friendly interface and detailed materials, you will gain maximum information about every corner of Odessa. We also provide recommendations and tips to make your physical journey through the city even more interesting and fulfilling.",
+      "understandYourNeeds": "● We understand your needs:",
+      "personalizedRoutes": "We realize that each person has their own interests and challenges when planning trips. You may have limited time and want to make the most of it during your visit. You may find it difficult to choose from Odessa's rich cultural heritage what suits you personally. We are ready to assist you in such situations. Oddyssea offers unique curated routes and guides tailored to various interests and preferences. We provide information about museums, historical sites, architectural landmarks, restaurants, and entertainment venues, so you can choose exactly what meets your expectations and preferences.",
+      "startVirtualJourney": "● Are you ready to start your virtual journey through Odessa?",
+      "contactUs": "Contact us to get more information or consultation from our team. You can also leave your phone number or ask any questions using the feedback form on our website. We are always ready to help you choose routes, provide recommendations on the best places to visit, and share our knowledge about Odessa. Don't miss the opportunity to embark on an exciting virtual journey and experience the atmosphere of Odessa right now!",
+      "projectHistory": "Project history",
+      "inspiredByOdessa": "Inspired by the unique atmosphere of Odessa, the history of this city and its cultural heritage, we decided to make this experience accessible to everyone. We wanted to create a virtual platform which will allow people from anywhere in the world to immerse themselves in the world of Odessa, learn its history, enrich themselves with knowledge and experience its unique atmosphere without leaving home.",
+      "researchAndConsultation": "We have conducted numerous studies, turned to historical and cultural experts, and also consulted with local residents to create a full-fledged virtual guide to Odessa.And today, thanks to our efforts,Oddyssea provides a unique opportunity to immerse yourself in the wonderful world of Odessa and expand your horizons.",
+      "joinUsOnOddyssea": "Join us at Oddyssea and be part of our virtual journey through the city of Odessa.Embark on amazing adventures and discover everything that makes this city so special.We look forward to your participation and the opportunity to help you create unforgettable memories about your virtual trip to Odessa."
+    },
+    "ru": {
+      "projectOddyssea": "Проект Oddyssea",
+      "welcomeMessage": "Добро пожаловать в мир Oddyssea - вашего виртуального проводника по удивительному городу Одесса! Мы создали этот сайт, чтобы поделиться с вами богатой историей, уникальной культурой и неповторимым очарованием этого города.",
+      "whyChooseOddyssea": "● Почему стоит выбрать Oddyssea?",
+      "virtualExperience": "У нас вы найдете все необходимое для захватывающего путешествия по Одессе, не выходя из дома. Мы предлагаем вам уникальный опыт виртуального путешествия, который сэкономит ваше время и деньги. Вы сможете изучить историю и культуру Одессы, осмотреть достопримечательности и почувствовать атмосферу города, не выходя из своего кресла. Благодаря удобному интерфейсу и подробным материалам, вы получите максимум информации о каждом уголке Одессы. Мы также предоставляем рекомендации и советы, которые помогут сделать ваше физическое путешествие по городу еще более интересным и насыщенным.",
+      "understandYourNeeds": "● Мы понимаем ваши потребности:",
+      "personalizedRoutes": "Мы осознаем, что каждый человек имеет свои интересы и проблемы при планировании путешествий. Может быть, у вас ограниченное время, и вы хотите наиболее эффективно использовать его во время поездки. Может быть, вам сложно выбрать из богатого культурного наследия Одессы именно то, что подходит вам лично. Мы готовы помочь вам в таких ситуациях. Oddyssea предлагает уникальные кураторские маршруты и путеводители, разработанные с учетом различных интересов и предпочтений. Мы предоставляем информацию о музеях, исторических местах, памятниках архитектуры, ресторанах и развлечениях, чтобы вы могли выбрать именно то, что отвечает вашим ожиданиям и предпочтениям.",
+      "startVirtualJourney": "● Вы уже готовы начать свое виртуальное путешествие по Одессе?",
+      "contactUs": "Пишите нам, чтобы получить дополнительную информацию или консультацию от нашей команды.Вы также можете оставить свой номер телефона или задать любые вопросы, используя форму обратной связи на нашем сайте.Мы всегда готовы помочь вам с выбором маршрутов, дать рекомендации о лучших местах для посещения и поделиться нашими знаниями о Одессе.Не упустите возможность совершить увлекательное виртуальное путешествие и ощутить атмосферу Одессы прямо сейчас!",
+      "projectHistory": "История проекта",
+      "inspiredByOdessa": "Вдохновленные уникальной атмосферой Одессы, историей этого города и его культурным наследием, мы решили сделать этот опыт доступным для всех. Мы хотели создать виртуальную платформу, которая позволит людям из любой точки мира погрузиться в мир Одессы, узнать ее историю, обогатиться знаниями и ощутить ее уникальную атмосферу, не выходя из дома.",
+      "researchAndConsultation": "Мы провели многочисленные исследования, обращались к историческим и культурным экспертам, а также консультировались с местными жителями, чтобы создать полноценный виртуальный гид по Одессе. И сегодня, благодаря нашим усилиям, Oddyssea предоставляет уникальную возможность погрузиться в удивительный мир Одессы и расширить свои горизонты.",
+      "joinUsOnOddyssea": "Присоединяйтесь к нам на Oddyssea и станьте частью нашего виртуального путешествия по городу Одесса.Отправляйтесь в удивительные приключения и откройте для себя все, что делает этот город таким особенным.Мы с нетерпением ждем вашего участия и возможности помочь вам создать незабываемые воспоминания о вашем виртуальном путешествии по Одессе."
+    },
+    "uk": {
+      "projectOddyssea": "Проект Oddyssea",
+      "welcomeMessage": "Ласкаво просимо до світу Oddyssea - вашого віртуального провідника у чудове місто Одеса! Ми створили цей веб-сайт, щоб поділитися з вами багатою історією, унікальною культурою та чарівністю цього міста.",
+      "whyChooseOddyssea": "● Чому варто обрати Oddyssea?",
+      "virtualExperience": "З нами ви знайдете все необхідне для захоплюючої подорожі по Одесі, не виходячи з дому. Ми пропонуємо вам унікальний досвід віртуальної подорожі, який заощадить ваш час і гроші. Ви зможете дослідити історію та культуру Одеси, відвідати пам'ятки та відчути атмосферу міста, не покидаючи свого крісла. Зручний інтерфейс та детальні матеріали дозволять вам отримати максимальну кількість інформації про кожний куточок Одеси. Ми також надаємо рекомендації та поради, які зроблять вашу фізичну подорож ще цікавішою й насиченішою.",
+      "understandYourNeeds": "● Ми розуміємо ваші потреби:",
+      "personalizedRoutes": "Ми усвідомлюємо, що у кожної людини свої інтереси та виклики при плануванні поїздок. Ви можете мати обмежений час і хочете максимально його використати під час вашого візиту. Вам може бути важко вибрати з багатої культурної спадщини Одеси те, що саме вам підходить. Ми готові допомогти вам у таких ситуаціях. Oddyssea пропонує унікальні особисті маршрути та гідів, які враховують різні інтереси та вподобання. Ми надаємо інформацію про музеї, історичні пам'ятки, архітектурні визначні місця, ресторани та розважальні заклади, щоб ви могли обрати саме те, що відповідає вашим очікуванням і пріоритетам.",
+      "startVirtualJourney": "● Ви готові розпочати вашу віртуальну подорож по Одесі?",
+      "contactUs": "Звертайтеся до нас, щоб отримати додаткову інформацію або консультацію від нашої команди. Ви також можете залишити свій номер телефону або задати будь-які питання за допомогою форми зворотного зв'язку на нашому веб-сайті. Ми завжди готові допомогти вам обрати маршрути, надати рекомендації щодо найкращих місць для відвідування та поділитися нашими знаннями про Одесу. Не пропустіть можливість здійснити захоплюючу віртуальну подорож та відчути атмосферу Одеси прямо зараз!",
+      "projectHistory": "Історія проекту",
+      "inspiredByOdessa": "Натхненні унікальною атмосферою Одеси, історією цього міста та його культурною спадщиною, ми вирішили зробити цей досвід доступним всім. Ми хотіли створити віртуальну платформу, яка дозволить людям з будь-якої точки світу поринути у світ Одеси, дізнатися її історію, збагатитися знаннями та відчути її унікальну атмосферу, не виходячи із дому.",
+      "researchAndConsultation": "Ми провели численні дослідження, зверталися до історичних та культурних експертів,а також консультувалися із місцевими жителями, щоб створити повноцінний віртуальний гід по Одесі.І сьогодні, завдяки нашим зусиллям,Oddyssea надає унікальну можливість поринути у дивовижний світ Одеси та розширити свої горизонти.",
+      "joinUsOnOddyssea": "Приєднуйтесь до нас на Oddyssea та станьте частиною нашої віртуальної подорожі містом Одеса.Вирушайте в дивовижні пригоди та відкрийте для себе все, що робить це місто таким особливим.Ми з нетерпінням чекаємо на вашу участь і можливість допомогти вам створити незабутні спогади про вашу віртуальну подорож Одесою."
+    }
+  },
+  "contactsPage": {
+    "en": { 
+      "location": "Odessa, Ukraine",
+      "workTime": "Mon - Fri 10:00 - 18:00",
+      "yourNamePlaceHolder": "Your Name",
+      "yourEmailPlaceHolder": "Your Email",
+      "yourMessagePlaceHolder": "Your Message",
+      "send": "Send"
+    },
+    "uk": { 
+      "location": "Одеса, Україна",
+      "workTime": "Пн - Пт 10:00 - 18:00",
+      "yourNamePlaceHolder": "Ваше ім'я",
+      "yourEmailPlaceHolder": "Ваша електронна адреса",
+      "yourMessagePlaceHolder": "Ваше повідомлення",
+      "send": "Надіслати"
+    },
+    "ru": { 
+      "location": "Одесса, Украина",
+      "workTime": "Пн - Пт 10:00 - 18:00 ",
+      "yourNamePlaceHolder": "Ваше имя",
+      "yourEmailPlaceHolder": "Ваша почта",
+      "yourMessagePlaceHolder": "Ваше сообщение",
+      "send": "Отправить"
+    }
+  },
+  "faqPage": { 
+    "en": { 
+      "frequentlyAskedQuestions": "Most frequently asked questions",
+      "question1": "What is Oddyssea?",
+      "answer1": "Oddyssea is an online platform dedicated to the city of Odessa. We offer information about history, culture, sights and atmosphere of the city.",
+      "question2": "What is the purpose of Oddyssea?",
+      "answer2": "Our goal is to provide visitors with all the information they need about Odessa to help them plan their trip, study history and culture of the city, as well as enjoy the unique atmosphere Odessa.",
+      "question3": "How can I use Oddyssea?",
+      "answer3": "You can use Oddyssea for information about sights of Odessa, acquaintance with historical facts, learning about local culture, viewing photos andother materials, as well as to plan your trip to Odessa.",
+      "question4": "I want to know more about a particular attraction. Where can I find detailed information?",
+      "answer4": "On our site you will find separate pages for each attraction, where detailed information, photos, history and other interesting facts.Select the attraction you are interested in and go to the corresponding page.",
+      "question5": "I have my own photos of Odessa. Can I share them on Oddyssea?",
+      "answer5": "Certainly! We'd love to see your input. You can send your photos of Odessa to our email oddyssea@gmail.com with your name and a brief description of the photos. We will consider the possibility posting them on the site.",
+      "question6": "How can I contact the Oddyssea team?",
+      "answer6": "If you have questions, suggestions or feedback, you can contact us, by filling out the feedback form on our website. We will try to answer you as soon as possible.",
+      "question7": "What information is available on the 'History of Odessa' page?",
+      "answer7": "On the page 'History of Odessa' you will find fascinating stories about the past of the city, its foundation, key events, famous people and much more. We try to present the history of Odessa in an interesting and accessible way.",
+      "question8": "I am planning a trip to Odessa. What places are worth visiting?",
+      "answer8": "We have compiled a list of recommended places to visit in Odessa. On the 'Photo gallery. Best Collections' page you will find information about the most popular attractions, parks, beaches, museums and other interesting places worth visiting during your trip.",
+      "question9": "I want to share my experience about visiting Odessa. How can I do it?",
+      "answer9": "We are always happy to hear feedback and stories about trips to Odessa. You can send your feedback to our email oddyssea@gmail.com or on the feedback form indicating your name and your experience. We may publish your review on our website.",
+      "question10": "What languages ​​are available on Oddyssea?",
+      "answer10": "Our content is available in multiple languages, including English, Ukrainian and Russian. You can select your preferred language on the site.",
+      "question11": "What museums are worth visiting in Odessa?",
+      "answer11": "There are many interesting museums in Odessa, including the Odessa Literary Museum, the Museum of the History of Odessa, Art Museum and others. We provide information about each museum, its exhibits and opening hours.",
+      "question12": "Which beaches in Odessa can I visit?",
+      "answer12": "There are many beaches in Odessa, including Lanzheron, Arcadia, Dolphin, Gold Coast and others. On our website you will find detailed information about each beach, its location, conditions and amenities."
+    },
+    "uk": { 
+      "frequentlyAskedQuestions": "Найчастіші запитання",
+      "question1": "Що таке Oddyssea?",
+      "answer1": "Oddyssea – онлайн-платформа, присвячена місту Одеса. Ми пропонуємо інформацію про історію, культуру, пам'ятки та атмосферу міста.",
+      "question2": "Яка мета Oddyssea?",
+      "answer2": "Наша мета - надати відвідувачам всю необхідну інформацію про Одесу, щоб допомогти їм спланувати свою подорож, вивчити історію та культуру міста, а також насолодитися унікальною атмосферою Одеси.",
+      "question3": "Як я можу використовувати Oddyssea?",
+      "answer3": "Ви можете використовувати Oddyssea для отримання інформації про визначні місця Одеси, ознайомлення з історичними фактами, вивчення місцевої культури, перегляду фотографій та інших матеріалів, а також для планування поїздки до Одеси.",
+      "question4": "Я хочу дізнатися більше про певну пам'ятку. Де я можу знайти детальну інформацію?",
+      "answer4": "На нашому сайті для кожної пам'ятки ви знайдете окремі сторінки, де детальна інформація, фотографії, історія та інші цікаві факти. Виберіть пам'ятку, яка вас цікавить, і перейдіть на відповідну сторінку.",
+      "question5": "У мене є свої фотографії Одеси. Чи можу я поділитися ними на Oddyssea?",
+      "answer5": "Звичайно! Ми будемо раді бачити ваш внесок. Ви можете надсилати свої фотографії Одеси на нашу електронну пошту oddyssea@gmail.com із своїм ім'ям та коротким описом фотографій. Розглянемо можливість розміщення їх на сайті.",
+      "question6": "Як я можу зв’язатися з командою Oddyssea?",
+      "answer6": "Якщо у вас є запитання, пропозиції чи відгуки, ви можете зв’язатися з нами, заповнивши форму зворотного зв’язку на нашому сайті. Ми постараємося відповісти вам якомога швидше.",
+      "question7": "Яка інформація міститься на сторінці 'Історія Одеси'?",
+      "answer7": "На сторінці 'Історія Одеси' ви знайдете захоплюючі розповіді про минуле міста, його заснування, ключові події, видатних людей та багато іншого. Ми намагаємося подати історію Одеси цікаво та доступно.",
+      "question8": "Я планую поїздку в Одесу. Які місця варто відвідати?",
+      "answer8": "Ми склали список рекомендованих місць для відвідування в Одесі. На сторінці 'Фотогалерея. Найкращі колекції' ви знайдете інформацію про найпопулярніші пам'ятки, парки, пляжі, музеї та інші цікаві місця, які варто відвідати під час вашої подорожі.",
+      "question9": "Хочу поділитися враженнями від відвідування Одеси. Як я можу це зробити?",
+      "answer9": "Ми завжди раді почути відгуки та розповіді про поїздки до Одеси. Ви можете надіслати свій відгук на нашу електронну адресу oddyssea@gmail.com або через форму зворотнього зв’язку, вказавши своє ім’я та свій досвід. Ми можемо опублікувати ваш відгук на нашому веб-сайті.",
+      "question10": "Які мови доступні на Oddyssea?",
+      "answer10": "Наш контент доступний кількома мовами, включаючи англійську, українську та російську. Ви можете вибрати бажану мову на сайті.",
+      "question11": "Які музеї варто відвідати в Одесі?",
+      "answer11": "В Одесі багато цікавих музеїв, серед яких Одеський літературний музей, Музей історії Одеси, Художній музей та інші. Ми надаємо інформацію про кожен музей, його експонати та години роботи.",
+      "question12": "Які пляжі в Одесі можна відвідати?",
+      "answer12": "В Одесі багато пляжів, серед яких Ланжерон, Аркадія, Дельфін, Голд-Кост та інші. На нашому сайті ви знайдете детальну інформацію про кожен пляж, його розташування, умови та зручності."
+    },
+    "ru": { 
+      "frequentlyAskedQuestions": "Самые часто задаваемые вопросы",
+      "question1": "Что такое Oddyssea?",
+      "answer1": "Oddyssea - это онлайн-платформа, посвященная городу Одессе. Мы предлагаем информацию о истории, культуре, достопримечательностях и атмосфере города.",
+      "question2": "Какая цель Oddyssea?",
+      "answer2": "Наша цель - предоставить посетителям всю необходимую информацию об Одессе, чтобы помочь им планировать поездку, изучать историю и культуру города, а также наслаждаться уникальной атмосферой Одессы.",
+      "question3": "Как я могу использовать Oddyssea?",
+      "answer3": "Вы можете использовать Oddyssea для получения информации о достопримечательностях Одессы, ознакомления с историческими фактами, изучения местной культуры, просмотра фотографий и других материалов, а также для планирования своей поездки в Одессу.",
+      "question4": "Я хочу узнать больше о конкретной достопримечательности. Где я могу найти подробную информацию?",
+      "answer4": "На нашем сайте вы найдете отдельные страницы для каждой достопримечательности, где представлена подробная информация, фотографии, история и другие интересные факты. Выберите достопримечательность, которая вас интересует, и перейдите на соответствующую страницу.",
+      "question5": "У меня есть собственные фотографии Одессы. Могу ли я поделиться ими на Oddyssea?",
+      "answer5": "Конечно! Мы будем рады увидеть ваш вклад. Вы можете отправить свои фотографии Одессы на нашу электронную почту oddyssea@gmail.com с указанием вашего имени и краткого описания фотографий. Мы рассмотрим возможность размещения их на сайте.",
+      "question6": "Как связаться с командой Oddyssea?",
+      "answer6": "Если у вас есть вопросы, предложения или отзывы, вы можете связаться с нами, заполнив форму обратной связи на нашем сайте. Мы постараемся ответить вам в кратчайшие сроки.",
+      "question7": "Какая информация доступна на странице 'История Одессы'?",
+      "answer7": "На странице 'История Одессы' вы найдете увлекательные рассказы о прошлом города, его основании, ключевых событиях, известных личностях и многое другое. Мы стараемся представить историю Одессы в интересной и доступной форме.",
+      "question8": "Я планирую поездку в Одессу. Какие места стоит посетить?",
+      "answer8": "Мы составили список рекомендуемых мест для посещения в Одессе. На странице 'Фотогалерея. Лучшие коллекции' вы найдете информацию о самых популярных достопримечательностях, парках, пляжах, музеях и других интересных местах, которые стоит посетить во время вашей поездки.",
+      "question9": "Я хочу поделиться своим опытом о посещении Одессы. Как я могу сделать это?",
+      "answer9": "Мы всегда рады услышать отзывы и рассказы о поездках в Одессу. Вы можете отправить свой отзыв на нашу электронную почту oddyssea@gmail.com или же на форме обратной связи с указанием вашего имени и вашего опыта. Мы можем опубликовать ваш отзыв на нашем сайте.",
+      "question10": "Какие языки доступны на Oddyssea?",
+      "answer10": "Наши материалы доступны на нескольких языках, включая английский, украинский и русский. Вы можете выбрать предпочитаемый язык на сайте.",
+      "question11": "Какие музеи стоит посетить в Одессе?",
+      "answer11": "В Одессе есть множество интересных музеев, включая Одесский литературный музей, Музей истории Одессы, Художественный музей и другие. Мы предоставляем информацию о каждом музее, его экспозициях и рабочих часах.",
+      "question12": "Какие пляжи в Одессе я могу посетить?",
+      "answer12": "В Одессе есть множество пляжей, включая Ланжерон, Аркадия, Дельфин, Золотой берег и другие. На нашем сайте вы найдете подробную информацию о каждом пляже,его расположении, условиях и удобствах."
+    }
+  },
+  "burgerMenu": { 
+    "en": { 
+      "aboutUs": "About Us",
+      "projectHistory":"Project History",
+      "informationAboutOdessa":"Information About Odessa",
+      "ourTeam": "Our Team",
+      "usefulLinks": "Useful Links",
+      "feedback": "Contact us",
+      "frequentlyAskedQuestions": "Questions and answers (FAQ)",
+      "termsOfUse": "Terms of Use",
+      "copyright": "Copyright"
+    },
+    "ru": { 
+      "aboutUs": "О нас",
+      "projectHistory": "История проекта",
+      "informationAboutOdessa": "Информация про Одессу",
+      "ourTeam": "Наша команда",
+      "usefulLinks": "Полезные ссылки",
+      "feedback": "Связаться с нами",
+      "frequentlyAskedQuestions": "Вопросы и ответы (FAQ)",
+      "termsOfUse": "Условия Использования",
+      "copyright": "Авторские права"
+    },
+    "uk": { 
+      "aboutUs": "Про нас",
+      "projectHistory": "Історія проекту",
+      "informationAboutOdessa": "Інформація про Одесу",
+      "ourTeam": "Наша команда",
+      "usefulLinks": "Корисні посилання",
+      "feedback": "Зв'язатися з нами",
+      "frequentlyAskedQuestions": "Питання та відповіді (FAQ)",
+      "termsOfUse": "Умови використання",
+      "copyright": "Авторські права"
+    }
+  },
+  "culturePage": {
+    "en": { 
+      "shortTitle": "360° Photo",
+      "title": "360° Photo.Culture"
+    },
+    "ru": { 
+      "title": "360° Фото.Культура",
+      "shortTitle": "360° Фото"
+    },
+    "uk": { 
+      "title": "360° Фото.Культура",
+      "shortTitle": "360° Фото"
+    }
+  },
+  "historyPage": { 
+    "en": { 
+      "shortTitle": "360° Photo",
+      "title": "360° Photo.History"
+    },
+    "ru": { 
+      "title": "360° Фото.История",
+      "shortTitle": "360° Фото"
+    },
+    "uk": { 
+      "title": "360° Фото.Історія",
+      "shortTitle": "360° Фото"
+    }
+  },
+  "photoGalleryPage": { 
+    "en": { 
+      "shortTitle": "Best Collections",
+      "title": "360° Photo.Best Collections"
+    },
+    "ru": { 
+      "title": "360° Фотогалерея.Лучшие коллекции",
+      "shortTitle": "Лучшие коллекции"
+    },
+    "uk": { 
+      "title": "360° Фотогалерея.Кращі колекції",
+      "shortTitle": "Кращі колекції"
+    }
+  }
+}

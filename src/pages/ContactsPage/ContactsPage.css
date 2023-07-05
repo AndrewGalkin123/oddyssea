@@ -1,0 +1,137 @@
+.contacts-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 40px;
+}
+
+.contact-page {
+    width: 100%;
+    max-width: 1400px;
+    padding: 50px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.contact-page::before {
+    background: url(odessa.jpg) no-repeat center;
+    background-size: cover;
+    filter: blur(5px);
+    content: '';
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    filter: blur(10px);
+}
+
+.contact-page h2 {
+    width: 100%;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+    color: #322;
+    color: #fff;
+    font-size: 60px;
+  
+}
+
+.contact-info{
+    flex: 1;
+    background-color: #3494db;
+    width: 200px;
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+.contact-form{ 
+    flex: 1;
+    margin-top: 10px;
+}
+.item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+  
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    background-color: #3494db;
+    text-align: center;
+    color: #fff;
+    border-radius: 50%;
+    margin-right: 16px;
+}
+
+.contact-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.textb {
+    width: calc(50% - 10px);
+    height: 50px;
+    padding: 12px;
+    background-color: #222;
+    border: none;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    min-height: 200px;
+    max-height: 400px;
+    resize: vertical;
+    padding: 12px;
+    background-color: #222;
+    border: none;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.btn { 
+    width: 120px;
+    height: 40px;
+    margin-left: auto;
+    background-color: #3494db;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 2px solid #3494db;
+    transition: .3s linear;
+}
+
+.btn:hover { 
+    background-color: transparent;
+    color: #3494db;
+}
+
+@media screen and (max-width: 980px){
+    .contact-page { 
+        max-width: 800px;
+    }
+    .contact-page h2 { 
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .contact-info,.contact-form { 
+        flex: 100%;
+        margin-bottom: 30px;
+    }
+    .textb { 
+        width: 100%;
+    }
+}

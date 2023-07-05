@@ -1,0 +1,21 @@
+.photos_link {
+    display: inline-block;
+    cursor: pointer;
+    background-color: #38b434;
+    padding: 0 20px 0 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 38px;
+    border-radius: 4px;
+    color: #fff;
+    text-decoration: none;
+    width: 240px;
+    height: 40px;
+    border: none;
+    margin-bottom: 25px;
+   
+}
+
+.photos_link:hover {
+    background-color: #3ec73a;
+}

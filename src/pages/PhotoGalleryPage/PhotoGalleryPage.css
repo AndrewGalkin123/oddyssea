@@ -1,0 +1,119 @@
+.photogallery_item_container {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+.photogallery_item {
+	overflow: hidden;
+	margin: 0;
+	width: 15%;
+    min-height: 250px;
+    min-width: 250px;
+	list-style: none;
+	text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.photogallery_item figure {
+	position: relative;
+	z-index: 1;
+	display: inline-block;
+	overflow: hidden;
+	text-align: center;
+	cursor: pointer;
+}
+.photogallery_item figure img {
+	position: relative;
+	display: block;
+	width: 100%;
+}
+.photogallery_item figure figcaption {
+	padding: 2em;
+	color: #fff;
+	
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+.photogallery_item figure figcaption::before,
+.photogallery_item figure figcaption::after {
+	pointer-events: none;
+}
+.photogallery_item figure figcaption{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.photogallery_item figure p {
+	margin: 0;
+}
+.photogallery_item figure p {
+	
+	font-size: 16px;
+}
+
+/* Эффект при наведении */
+figure.photogallery_effect figcaption::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: -webkit-linear-gradient(top, rgba(72,76,97,0) 0%, rgba(100, 103, 118, 0.6) 80%);
+	background: linear-gradient(to bottom, rgba(72,76,97,0) 0%, rgba(100, 103, 118, 0.6) 80%);
+	content: '';
+	opacity: 0;
+	-webkit-transform: translate3d(0,50%,0);
+	transform: translate3d(0,50%,0);
+}
+
+figure.photogallery_effect figcaption::before,
+figure.photogallery_effect p {
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+}
+figure.photogallery_effect p {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 2em;
+	width: 100%;
+	opacity: 0;
+	-webkit-transform: translate3d(0,10px,0);
+	transform: translate3d(0,10px,0);
+}
+
+figure.photogallery_effect:hover figcaption::before ,
+figure.photogallery_effect:hover p {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+@media (max-width:1550px) {
+    .photogallery_item {
+        width: 23%;
+    }
+}
+
+@media (max-width:1260px) {
+    .photogallery_item {
+        width: 30%;
+    }
+}
+
+@media (max-width:970px) {
+     .photogallery_item {
+        width: 45%;
+    }
+}
+
+@media (max-width:550px) {
+    .photogallery_item {
+        width: 92%;
+        margin-right: 0;
+    }
+}

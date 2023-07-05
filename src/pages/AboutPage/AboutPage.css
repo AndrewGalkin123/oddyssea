@@ -1,0 +1,32 @@
+.about-block {
+    position: relative;
+    top: 100px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.avatar {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    min-height: 500px;
+    object-fit: cover;
+    margin-right: 20px;
+    float: left;
+}
+
+@media (max-width: 992px) {
+    .avatar {
+        float: none;
+        margin-right: 0;
+        margin-bottom: 20px;
+        max-width: 100%;
+    }
+    
+}
+
+@media (max-width: 768px) {
+    .about-block {
+        top: 50px;
+    }
+}

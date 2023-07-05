@@ -1,0 +1,49 @@
+
+
+.photo_item_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+@media screen and (max-width: 550px) {
+    .photo_item {
+        margin-right: 0;
+    }
+}
+
+.filters {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    
+
+}
+
+#square_list_type img {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    margin-right: 6px;
+
+}
+
+#square_list_type:hover {
+    cursor: pointer;
+}
+
+#list_type img {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+
+}
+
+#list_type:hover {
+    cursor: pointer;
+}
+

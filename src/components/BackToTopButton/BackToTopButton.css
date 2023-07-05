@@ -1,0 +1,17 @@
+.back-to-top {
+    background: #38b434;
+    border-radius: 10%;
+    position: fixed;
+    bottom: -70px;
+    padding: 10px 12px;
+    right: 30px;
+    cursor: pointer;
+    transition: 0.3s all;
+    
+}
+
+.back-to-top.active {
+    background: #38b434;
+    bottom: 70px;
+    transition: 0.3s all;
+}
