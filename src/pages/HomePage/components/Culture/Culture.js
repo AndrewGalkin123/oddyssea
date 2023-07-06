@@ -77,7 +77,7 @@ const Culture = () => {
         </div>
 
         <p style={{ textAlign: "center" }}>
-          <RedirectButton to="/culture">Смотреть все фото (10)</RedirectButton>
+          <RedirectButton to="/culture">{cultureBlockTranslations["redirectButtonText"]}</RedirectButton>
         </p>
       </div>
     </div>

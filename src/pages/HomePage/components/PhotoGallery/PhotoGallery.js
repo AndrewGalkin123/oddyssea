@@ -149,7 +149,7 @@ const PhotoGallery = () => {
         </div>
 
         <p style={{ textAlign: "center" }}>
-          <RedirectButton to="/photogallery">Смотреть все фото (10)</RedirectButton>
+          <RedirectButton to="/photogallery">{photoGalleryBlockTranslations["redirectButtonText"]}</RedirectButton>
         </p>
 
       </div>

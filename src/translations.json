@@ -343,30 +343,37 @@
   },
   "cultureBlock": {
     "en": {
-      "title": "Culture"
+      "title": "Culture",
+      "redirectButtonText": "See all photos (10)"
     },
     "ru": {
-      "title": "Культура"
+      "title": "Культура",
+      "redirectButtonText": "Смотреть все фото (10)"
     },
     "uk": {
-      "title": "Культура"
+      "title": "Культура",
+      "redirectButtonText": "Дивитись всі фото (10)"
     }
   },
   "photogalleryBlock": {
     "en": {
-      "title": "Photo Gallery"
+      "title": "Photo Gallery",
+      "redirectButtonText": "See all photos (10)"
     },
     "ru": {
-      "title": "Фотогалерея"
+      "title": "Фотогалерея",
+      "redirectButtonText": "Смотреть все фото (10)"
     },
     "uk": {
-      "title": "Фотогалерея"
+      "title": "Фотогалерея",
+      "redirectButtonText": "Дивитись всі фото (10)"
     }
   },
   "odessaBlock": {
     "en": {
       "title": "Map of Odessa. Filming Locations",
       "shortTitle": "Map of Odessa"
+      
     },
     "ru": {
       "title": "Карта Одессы. Места съемок",
@@ -378,6 +385,41 @@
     }
   },
   "historyBlock": {
-    
+    "en": {
+      "title": "History",
+      "lutheranChurch": "Lutheran Church",
+      "lutheranChurchInfo": "The greatness of faith and architectural splendor. St. Paul's Cathedral in Odessa is not only a religious center, but also a symbol of the city's historical and cultural heritage, delighting visitors with its majesty and unique architecture.",
+      "sailor'sWife": "Monument to the sailor's wife",
+      "sailor'sWifeInfo": "A touching love story embodied in bronze. This magnificent sculpture symbolizes the devotion and strength of a woman waiting for the sailor's return. Look into the eyes of this statue and feel the magic and emotional attachment it conveys.",
+      "lighthouse": "Vorontsovsky lighthouse",
+      "lighthouseInfo": "Historical symbol and maritime landmark. This lighthouse, built in the 19th century, provides an unforgettable view of the Black Sea. It serves as a landmark for navigators and inspires visitors with its beauty and romance of the sea atmosphere.",
+      "theaterGarden": "Theater garden",
+      "theaterGardenInfo": "Unique oasis greenery in the city center. This beautiful park is a place of recreation and cultural events. Here you can walk among the beautiful fountains, enjoy theatrical performances and tune in to the wave of art.",
+      "redirectButtonText": "See all photos (10)"
+    },
+    "ru": {
+      "title": "История",
+      "lutheranChurch": "Лютеранская церковь",
+      "lutheranChurchInfo": "Величие веры и архитектурное великолепие. Кафедральный собор святого Павла в Одессе является не только религиозным центром, но и символом исторического и культурного наследия города, восхищающим посетителей своей величественностью и уникальной архитектурой.",
+      "sailor'sWife": "Памятник жене моряка",
+      "sailor'sWifeInfo": "Трогательная история любви, запечатленная в бронзе. Эта великолепная скульптура символизирует преданность и силу женщины, ожидающей возвращения моряка. Загляните в глаза этой статуи и почувствуйте магию и эмоциональную привязанность, которые она передает.",
+      "lighthouse": "Воронцовский маяк",
+      "lighthouseInfo": "Исторический символ и морская достопримечательность. Этот маяк, построенный в 19 веке, предоставляет незабываемый вид на Чёрное море.Он служит ориентиром для мореплавателей и вдохновляет посетителей своей красотой и романтикой морской атмосферы.",
+      "theaterGarden": "Театральный сад",
+      "theaterGardenInfo": "Уникальная оазисная зелень в центре города. Этот прекрасный парк является местом отдыха и культурных мероприятий. Здесь можно прогуляться среди красивых фонтанов, насладиться театральными представлениями и настроиться на волну искусства.",
+      "redirectButtonText": "Смотреть все фото (10)"
+    },
+    "uk": {
+      "title": "Історія",
+      "lutheranChurch": "Лютеранська церква",
+      "lutheranChurchInfo": "Велич віри та архітектурна пишність. Кафедральний собор святого Павла в Одесі є не лише релігійним центром, а й символом історичної та культурної спадщини міста, який захоплює відвідувачів своєю величністю та унікальною архітектурою.",
+      "sailor'sWife": "Пам'ятник дружині моряка",
+      "sailor'sWifeInfo": "Зворушлива історія кохання, зображена в бронзі. Ця чудова скульптура символізує відданість і силу жінки, яка чекає на повернення моряка. Загляньте в очі цієї статуї та відчуйте магію та емоційну прихильність, які вона передає.",
+      "lighthouse": "Воронцовський маяк",
+      "lighthouseInfo": "Історичний символ і морської пам'ятки. Цей маяк, побудований у 19 столітті, надає незабутній вид на Чорне море. Він служить орієнтиром для мореплавців і надихає відвідувачів своєю красою та романтикою морської атмосфери.",
+      "theaterGarden": "Театральний сад",
+      "theaterGardenInfo": "Унікальна оазисна зелень у центрі міста. Цей чудовий парк є місцем відпочинку та культурних заходів. Тут можна прогулятися серед гарних фонтанів, насолодитися театральними виставами та налаштуватися на хвилю мистецтва.",
+      "redirectButtonText": "Дивитись всі фото (10)"
+    }
   }
 }

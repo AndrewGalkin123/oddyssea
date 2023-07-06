@@ -3,6 +3,7 @@ import "./RedirectButton.css"
 import { useNavigate } from "react-router-dom";
 
 const RedirectButton = ({ to, children }) => {
+ 
   const navigate = useNavigate();
 
   const handleClick = () => {
