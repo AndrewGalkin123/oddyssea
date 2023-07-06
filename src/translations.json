@@ -156,7 +156,7 @@
     }
   },
   "contactsPage": {
-    "en": { 
+    "en": {
       "location": "Odessa, Ukraine",
       "workTime": "Mon - Fri 10:00 - 18:00",
       "yourNamePlaceHolder": "Your Name",
@@ -164,7 +164,7 @@
       "yourMessagePlaceHolder": "Your Message",
       "send": "Send"
     },
-    "uk": { 
+    "uk": {
       "location": "Одеса, Україна",
       "workTime": "Пн - Пт 10:00 - 18:00",
       "yourNamePlaceHolder": "Ваше ім'я",
@@ -172,7 +172,7 @@
       "yourMessagePlaceHolder": "Ваше повідомлення",
       "send": "Надіслати"
     },
-    "ru": { 
+    "ru": {
       "location": "Одесса, Украина",
       "workTime": "Пн - Пт 10:00 - 18:00 ",
       "yourNamePlaceHolder": "Ваше имя",
@@ -181,8 +181,8 @@
       "send": "Отправить"
     }
   },
-  "faqPage": { 
-    "en": { 
+  "faqPage": {
+    "en": {
       "frequentlyAskedQuestions": "Most frequently asked questions",
       "question1": "What is Oddyssea?",
       "answer1": "Oddyssea is an online platform dedicated to the city of Odessa. We offer information about history, culture, sights and atmosphere of the city.",
@@ -209,7 +209,7 @@
       "question12": "Which beaches in Odessa can I visit?",
       "answer12": "There are many beaches in Odessa, including Lanzheron, Arcadia, Dolphin, Gold Coast and others. On our website you will find detailed information about each beach, its location, conditions and amenities."
     },
-    "uk": { 
+    "uk": {
       "frequentlyAskedQuestions": "Найчастіші запитання",
       "question1": "Що таке Oddyssea?",
       "answer1": "Oddyssea – онлайн-платформа, присвячена місту Одеса. Ми пропонуємо інформацію про історію, культуру, пам'ятки та атмосферу міста.",
@@ -236,7 +236,7 @@
       "question12": "Які пляжі в Одесі можна відвідати?",
       "answer12": "В Одесі багато пляжів, серед яких Ланжерон, Аркадія, Дельфін, Голд-Кост та інші. На нашому сайті ви знайдете детальну інформацію про кожен пляж, його розташування, умови та зручності."
     },
-    "ru": { 
+    "ru": {
       "frequentlyAskedQuestions": "Самые часто задаваемые вопросы",
       "question1": "Что такое Oddyssea?",
       "answer1": "Oddyssea - это онлайн-платформа, посвященная городу Одессе. Мы предлагаем информацию о истории, культуре, достопримечательностях и атмосфере города.",
@@ -264,11 +264,11 @@
       "answer12": "В Одессе есть множество пляжей, включая Ланжерон, Аркадия, Дельфин, Золотой берег и другие. На нашем сайте вы найдете подробную информацию о каждом пляже,его расположении, условиях и удобствах."
     }
   },
-  "burgerMenu": { 
-    "en": { 
+  "burgerMenu": {
+    "en": {
       "aboutUs": "About Us",
-      "projectHistory":"Project History",
-      "informationAboutOdessa":"Information About Odessa",
+      "projectHistory": "Project History",
+      "informationAboutOdessa": "Information About Odessa",
       "ourTeam": "Our Team",
       "usefulLinks": "Useful Links",
       "feedback": "Contact us",
@@ -276,7 +276,7 @@
       "termsOfUse": "Terms of Use",
       "copyright": "Copyright"
     },
-    "ru": { 
+    "ru": {
       "aboutUs": "О нас",
       "projectHistory": "История проекта",
       "informationAboutOdessa": "Информация про Одессу",
@@ -287,7 +287,7 @@
       "termsOfUse": "Условия Использования",
       "copyright": "Авторские права"
     },
-    "uk": { 
+    "uk": {
       "aboutUs": "Про нас",
       "projectHistory": "Історія проекту",
       "informationAboutOdessa": "Інформація про Одесу",
@@ -300,45 +300,84 @@
     }
   },
   "culturePage": {
-    "en": { 
+    "en": {
       "shortTitle": "360° Photo",
       "title": "360° Photo.Culture"
     },
-    "ru": { 
+    "ru": {
       "title": "360° Фото.Культура",
       "shortTitle": "360° Фото"
     },
-    "uk": { 
+    "uk": {
       "title": "360° Фото.Культура",
       "shortTitle": "360° Фото"
     }
   },
-  "historyPage": { 
-    "en": { 
+  "historyPage": {
+    "en": {
       "shortTitle": "360° Photo",
       "title": "360° Photo.History"
     },
-    "ru": { 
+    "ru": {
       "title": "360° Фото.История",
       "shortTitle": "360° Фото"
     },
-    "uk": { 
+    "uk": {
       "title": "360° Фото.Історія",
       "shortTitle": "360° Фото"
     }
   },
-  "photoGalleryPage": { 
-    "en": { 
+  "photoGalleryPage": {
+    "en": {
       "shortTitle": "Best Collections",
       "title": "360° Photo.Best Collections"
     },
-    "ru": { 
+    "ru": {
       "title": "360° Фотогалерея.Лучшие коллекции",
       "shortTitle": "Лучшие коллекции"
     },
-    "uk": { 
+    "uk": {
       "title": "360° Фотогалерея.Кращі колекції",
       "shortTitle": "Кращі колекції"
     }
+  },
+  "cultureBlock": {
+    "en": {
+      "title": "Culture"
+    },
+    "ru": {
+      "title": "Культура"
+    },
+    "uk": {
+      "title": "Культура"
+    }
+  },
+  "photogalleryBlock": {
+    "en": {
+      "title": "Photo Gallery"
+    },
+    "ru": {
+      "title": "Фотогалерея"
+    },
+    "uk": {
+      "title": "Фотогалерея"
+    }
+  },
+  "odessaBlock": {
+    "en": {
+      "title": "Map of Odessa. Filming Locations",
+      "shortTitle": "Map of Odessa"
+    },
+    "ru": {
+      "title": "Карта Одессы. Места съемок",
+      "shortTitle": "Карта Одессы"
+    },
+    "uk": {
+      "title": "Мапа Одеси. Місця зйомок",
+      "shortTitle": "Мапа Одеси"
+    }
+  },
+  "historyBlock": {
+    
   }
 }

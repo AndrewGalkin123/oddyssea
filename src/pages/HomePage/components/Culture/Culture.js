@@ -2,15 +2,19 @@ import React, { useState, useEffect } from "react";
 import "./Culture.css";
 import RedirectButton from "../../../../components/RedirectButton/RedirectButton";
 import odessaFerrisWheel from "../../../../assets/cultureImages/odessa-ferris-wheel.jpg";
+import { useContext } from "react";
+import { LanguageContext } from "../../../../contexts/LanguageContext";
+import translations from "../../../../translations.json"
 
 const Culture = () => {
-
+  const { currentLanguage } = useContext(LanguageContext);
+  const cultureBlockTranslations  = translations.cultureBlock[currentLanguage];
   return (
     <div id="culture">
       <br />
       <div className="title">
         <hr />
-        <span>Культура</span>
+        <span>{cultureBlockTranslations["title"]}</span>
       </div>
       <br />
       <br />

@@ -2,16 +2,21 @@ import React from 'react';
 import "./PhotoGallery.css"
 import RedirectButton from "../../../../components/RedirectButton/RedirectButton"
 import descentCoast from "../../../../assets/photoGalleryImages/descent-coast.jpg"
+import { useContext } from "react";
+import { LanguageContext } from "../../../../contexts/LanguageContext";
+import translations from "../../../../translations.json"
 
 
 const PhotoGallery = () => {
+  const { currentLanguage } = useContext(LanguageContext);
+  const photoGalleryBlockTranslations  = translations.photogalleryBlock[currentLanguage];
   return (
     <div style={{ justifyContent: 'center' }} id="photoGallery">
       <div>
         <br />
         <div className="title">
           <hr />
-          <span>Фотогалерея</span>
+          <span>{photoGalleryBlockTranslations["title"]}</span>
         </div>
         <br />
         <br />

@@ -1,6 +1,11 @@
 import React, { useState, useEffect } from "react";
+import { useContext } from "react";
+import { LanguageContext } from "../../../../contexts/LanguageContext";
+import translations from "../../../../translations.json"
 
 const OdessaMap = () => {
+  const { currentLanguage } = useContext(LanguageContext);
+  const odessaBlockTranslations  = translations.odessaBlock[currentLanguage];
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
   useEffect(() => {
@@ -17,9 +22,9 @@ const OdessaMap = () => {
 
   const getTitleText = () => {
     if (windowWidth <= 500) {
-      return "Карта Одессы";
+      return odessaBlockTranslations["shortTitle"];
     } else {
-      return "Карта Одессы. Места съемок";
+      return odessaBlockTranslations["title"];
     }
   };
 

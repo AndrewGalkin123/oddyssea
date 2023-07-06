@@ -5,8 +5,13 @@ import pavelCathedral from '../../../../assets/historyImages/pavelCathedral.jpg'
 import sailorWife from '../../../../assets/historyImages/sailorWife.jpg'
 import vorontsovLighthouse from '../../../../assets/historyImages/lighthouse.jpg'
 import RedirectButton from "../../../../components/RedirectButton/RedirectButton"
+import { useContext } from "react";
+import { LanguageContext } from "../../../../contexts/LanguageContext";
+import translations from "../../../../translations.json"
 
 const History = () => {
+    const { currentLanguage } = useContext(LanguageContext);
+    const historyBlockTranslations  = translations.photogalleryBlock[currentLanguage];
     return (
         <div id="history" >
             <br></br>
