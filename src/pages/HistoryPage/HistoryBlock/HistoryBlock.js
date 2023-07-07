@@ -78,7 +78,7 @@ const HistoryBlock = () => {
             className="photo_item_container"
             style={{ position: "relative", marginBottom: "100px" }}
           >
-             <a className="photo_item">
+             <a className="photo_item" href="/theater-garden">
               <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>

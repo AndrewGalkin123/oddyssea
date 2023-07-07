@@ -13,6 +13,7 @@ import AboutOdessa from './pages/AboutOdessaPage/AboutOdessa';
 import Header from './components/common/Header/Header';
 import Footer from './components/common/Footer/Footer';
 import BackToTopButton from './components/BackToTopButton/BackToTopButton';
+import TheaterGardenPage from './pages/TheaterGardenPage/TheaterGardenPage';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -33,6 +34,7 @@ function App() {
             <Route path="/privacypolicy" element={<PrivacyPolicy />} />
             <Route path="/termsofuse" element={<UseTerms />} />
             <Route path='/aboutodessa' element={<AboutOdessa />} />
+            <Route path='/theater-garden' element={<TheaterGardenPage />} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />
