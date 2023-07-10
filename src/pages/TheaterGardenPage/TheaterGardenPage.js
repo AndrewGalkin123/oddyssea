@@ -1,12 +1,11 @@
 import React, { useEffect, useState } from "react";
-import { Environment, Sphere } from "react-360-web";
 import image from "../../assets/historyImages/little-planet.jpg";
 
 const TheaterGardenPage = () => {
   const [rotation, setRotation] = useState(0);
 
   const handleMouseMove = (event) => {
-    const { movementX, movementY } = event;
+    const { movementX } = event;
     setRotation((prevRotation) => prevRotation - movementX * 0.5);
   };
 
@@ -21,17 +20,15 @@ const TheaterGardenPage = () => {
   return (
     <div>
       <div className="content" style={{ maxWidth: "1300px", top: "100px" }}>
-        <Environment>
-          <Sphere
-            radius={20}
-            widthSegments={32}
-            heightSegments={32}
-            texture={image}
+        <div className="environment">
+          <div
+            className="sphere"
             style={{
               transform: `rotateY(${rotation}deg)`,
+              backgroundImage: image,
             }}
-          />
-        </Environment>
+          ></div>
+        </div>
       </div>
     </div>
   );
