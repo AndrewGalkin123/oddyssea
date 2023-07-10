@@ -1,32 +1,37 @@
-import React, { useContext } from "react";
-import { LanguageContext } from "../../contexts/LanguageContext";
-import translations from "../../translations.json";
-import "aframe";
-import "aframe-particle-system-component";
-import { Entity, Scene } from "aframe-react";
-import littlePlanet from "../../assets/historyImages/little-planet.jpg";
-import littlePlanet1 from "../../assets/historyImages/little-planet1.png";
-import "./TheaterGardenPage.css";
+import React, { useEffect, useState } from "react";
+import { Environment, Sphere } from "react-360-web";
+import image from "../../assets/historyImages/little-planet.jpg";
 
 const TheaterGardenPage = () => {
-  const { currentLanguage } = useContext(LanguageContext);
-  const theaterGardenTranslations = translations.theaterGarden[currentLanguage];
+  const [rotation, setRotation] = useState(0);
 
+  const handleMouseMove = (event) => {
+    const { movementX, movementY } = event;
+    setRotation((prevRotation) => prevRotation - movementX * 0.5);
+  };
+
+  useEffect(() => {
+    document.addEventListener("mousemove", handleMouseMove);
+
+    return () => {
+      document.removeEventListener("mousemove", handleMouseMove);
+    };
+  }, []);
 
   return (
     <div>
-      <Scene>
-        <Entity
-        
-          primitive="a-sky"
-          src={littlePlanet}
-          rotation="0 -90 0"
-        />
-        
-        {/* Добавьте другие компоненты A-Frame */}
-      </Scene>
       <div className="content" style={{ maxWidth: "1300px", top: "100px" }}>
-        {/* Добавьте другой контент */}
+        <Environment>
+          <Sphere
+            radius={20}
+            widthSegments={32}
+            heightSegments={32}
+            texture={image}
+            style={{
+              transform: `rotateY(${rotation}deg)`,
+            }}
+          />
+        </Environment>
       </div>
     </div>
   );
