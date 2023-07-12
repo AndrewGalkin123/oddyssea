@@ -373,7 +373,6 @@
     "en": {
       "title": "Map of Odessa. Filming Locations",
       "shortTitle": "Map of Odessa"
-      
     },
     "ru": {
       "title": "Карта Одессы. Места съемок",
@@ -425,15 +424,33 @@
   "amusementPark": {
     "ru": {
       "title": "Лунапарк Одесса",
-      "aboutParkStart": "Добро пожаловать в волшебный мир Одесского Лунапарка, где дети и взрослые веселятся и создают незабываемые воспоминания! Это место, где радость, смех и адреналин сочетаются в уникальной атмосфере праздника."
-    },
-    "en": {
-      "title": "Лунапарк Одеса",
-      "aboutParkStart": "Театральний сад"
+      "aboutParkStart": "Добро пожаловать в волшебный мир Одесского Лунапарка, где дети и взрослые веселятся и создают незабываемые воспоминания! Это место, где радость, смех и адреналин сочетаются в уникальной атмосфере праздника.",
+      "parkLocationInfo": "Одесский Лунапарк расположен на побережье Черного моря, и его яркие аттракционы привлекают туристов со всех уголков мира. Когда вы впервые войдете в парк, ощутите волнение и ажиотаж, витающие в воздухе. Шары, разноцветные огни и звуки смеха окружат вас, создавая атмосферу праздника, которая никого не оставляет равнодушным.",
+      "parkOffers": "Лунапарк предлагает широкий выбор аттракционов для любого вкуса и возраста. От ярких и веселых каруселей для самых маленьких до захватывающих аттракционов с острыми ощущениями для настоящих любителей адреналина. Вы сможете испытать свою смелость на колесе обозрения, насладиться увлекательными горками и окунуться в мир веселья на разнообразных площадках.",
+      "parkAtmosphere": "Одесский Лунапарк не только предлагает аттракционы, но и создает настоящую атмосферу праздника. Здесь вы сможете насладиться ароматом свежей ваты и сладостей, попробовать разнообразные закуски и напитки, которые оживят ваше воображение и дадут вам силы для новых приключений.",
+      "aboutOddyssea": "Приглашаем вас посетить наш веб-сайт Oddyssea, где вы сможете виртуально путешествовать по Одессе и ощутить атмосферу Лунапарка уже сейчас. Мы предлагаем уникальную возможность зарядиться энергией этого чудесного места и узнать больше о других достопримечательностях города.",
+      "aboutParkEnding": "Так что не упускайте возможность посетить Одесский Лунапарк и окунуться в мир веселья и радости. Собирайте свою семью и друзей, чтобы насладиться незабываемым днем в этом уникальном месте. Приходите и оставайтесь волшебными воспоминаниями на всю жизнь!",
+      "otherContentTitle": "Советуем к просмотру"
     },
     "uk": {
+      "title": "Лунапарк Одеса",
+      "aboutParkStart": "Ласкаво просимо у чарівний світ Одеського Лунапарку, де діти та дорослі розважаються та створюють незабутні спогади! Це місце, де радість, сміх і адреналін поєднуються в унікальній атмосфері свята.",
+      "parkLocationInfo": "Одеський Лунапарк розташований на узбережжі Чорного моря, і його яскраві атракціони приваблюють туристів з усіх куточків світу. Коли ви вперше увійдете до парку, відчуєте збудження і затишок, що зависають у повітрі. Кулі, різнокольорове світло і звуки сміху оточать вас, створюючи атмосферу свята, яка не залишить байдужим жодного.",
+      "parkOffers": "Лунапарк пропонує широкий вибір атракціонів на будь-який смак і вік. Від яскравих і веселих каруселей для найменших до захоплюючих атракціонів з гострими відчуттями для справжніх шанувальників адреналіну. Ви зможете випробувати свою сміливість на колесі огляду, насолодитися захоплюючими гірками та зануритися у світ розваг на різноманітних площадках.",
+      "parkAtmosphere": "Одеський Лунапарк не лише пропонує атракціони, але й створює справжню атмосферу свята. Тут ви зможете насолодитися ароматом свіжої вати та солодощів, спробувати різноманітні закуски і напої, які оживлять вашу уяву і нададуть вам сил для нових пригод.",
+      "aboutOddyssea": "Запрошуємо вас відвідати наш веб-сайт Oddyssea, де ви зможете віртуально подорожувати по Одесі та відчути атмосферу Лунапарку вже зараз. Ми пропонуємо унікальну можливість зарядитися енергією цього дивовижного місця і дізнатися більше про інші визначні місця міста.",
+      "aboutParkEnding": "Тож не пропустіть можливість відвідати Одеський Лунапарк та зануритися у світ веселощів і радості. Збирайте свою сім'ю та друзів, щоб насолодитися незабутнім днем у цьому унікальному місці. Завітайте та залиштеся чарівними спогадами на все життя!",
+      "otherContentTitle": "Радимо переглядати"
+    },
+    "en": {
       "title": "Lunapark Odessa",
-      "aboutParkStart": "Театральний сад"
+      "aboutParkStart": "Welcome to the enchanting world of Odessa Lunapark, where children and adults have fun and create unforgettable memories! This is a place where joy, laughter, and adrenaline come together in a unique festive atmosphere.",
+      "parkLocationInfo": "Odessa Lunapark is located on the coast of the Black Sea, and its vibrant attractions attract tourists from all corners of the world. As you enter the park for the first time, you will feel the excitement and buzz in the air. Balloons, colorful lights, and sounds of laughter surround you, creating a festive atmosphere that captivates everyone.",
+      "parkOffers": "Lunapark offers a wide range of attractions for all tastes and ages. From bright and cheerful carousels for the little ones to thrilling adrenaline-pumping rides for the daredevils. You can test your courage on the Ferris wheel, enjoy exciting roller coasters, and dive into a world of fun on various playgrounds.",
+      "parkAtmosphere": "Odessa Lunapark not only offers attractions but also creates a true festive atmosphere. Here you can enjoy the aroma of fresh cotton candy and treats, taste a variety of snacks and drinks that will awaken your imagination and give you energy for new adventures.",
+      "aboutOddyssea": "We invite you to visit our website, Oddyssea, where you can virtually travel through Odessa and experience the atmosphere of Luna Park right now. We offer a unique opportunity to recharge with the energy of this magical place and learn more about other city attractions.",
+      "aboutParkEnding": "So don't miss the chance to visit Odessa Luna Park and immerse yourself in a world of fun and joy. Gather your family and friends to enjoy an unforgettable day in this unique place. Come and create magical memories that will last a lifetime!",
+      "otherContentTitle": "Recommended for viewing"
     }
   }
 }

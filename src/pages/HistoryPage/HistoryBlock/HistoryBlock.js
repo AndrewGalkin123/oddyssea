@@ -76,7 +76,7 @@ const HistoryBlock = () => {
         {!showHistoryListType && (
           <div
             className="photo_item_container"
-            style={{ position: "relative", marginBottom: "100px" }}
+            style={{ position: "relative"}}
           >
              <a className="photo_item" href="/amusement-park">
               <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
