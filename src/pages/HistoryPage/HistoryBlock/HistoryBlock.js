@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
-import odessaFerrisWheel from "../../../assets/cultureImages/odessa-ferris-wheel.jpg";
+import viewFromOdessaFerrisWheel from "../../../assets/cultureImages/odessa-ferris-wheel.jpg";
+import odessaFerrisWheel from "../../../assets/historyImages/picturepicture15282_22973.jpg"
+import vorontsovskyLighthouse from "../../../assets/historyImages/lighthouse.jpg"
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -8,9 +10,11 @@ import { useContext } from "react";
 import { LanguageContext } from "../../../contexts/LanguageContext"
 import translations from "../../../translations.json"
 
+
 const HistoryBlock = () => {
   const { currentLanguage } = useContext(LanguageContext);
   const historyBlockTranslations  = translations.historyPage[currentLanguage];
+  const general = translations.general[currentLanguage];
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
   const [showHistoryListType, setShowHistoryListType] = useState(false);
 
@@ -81,153 +85,153 @@ const HistoryBlock = () => {
              <a className="photo_item" href="/amusement-park">
               <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["lunapark"]}</span>
+            </a>
+            <a className="photo_item" href="/vorontsov-lighthouse">
+              <img className="picture" src={vorontsovskyLighthouse} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">{general["vorontsovLighthouse"]}</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-
-
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
 
+
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
 
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+
+            <a className="photo_item">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
               <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>  <a className="photo_item">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>

@@ -20,7 +20,7 @@ const Culture = () => {
       <br />
       <br />
 
-      <div className="content" style={{ maxWidth: "1290px" }}>
+      <div className="content" style={{ maxWidth: "1350px" }}>
         <div
           id="culture_photos_index"
           style={{

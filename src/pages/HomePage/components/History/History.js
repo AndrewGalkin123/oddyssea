@@ -33,7 +33,7 @@ const History = () => {
                     <h2>{historyBlockTranslations["sailor'sWife"]}</h2>
                     <p>{historyBlockTranslations["sailor'sWifeInfo"]}</p>
                 </a>
-                <a href="/history" className="box" style={{ margin: "15px 15px 0 15px", flex: "1 1 320px", minWidth: "300px", maxWidth: "100%", textDecoration: "none", color: "black" }}>
+                <a href="/vorontsov-lighthouse" className="box" style={{ margin: "15px 15px 0 15px", flex: "1 1 320px", minWidth: "300px", maxWidth: "100%", textDecoration: "none", color: "black" }}>
                     <img src={vorontsovLighthouse} style={{ width: "100%", height: "470px", objectFit: "cover", objectPosition: "top" }} />
                     <h2>{historyBlockTranslations["lighthouse"]}</h2>
                     <p>{historyBlockTranslations["lighthouseInfo"]}</p>

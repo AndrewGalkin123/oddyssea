@@ -14,6 +14,7 @@ import Header from './components/common/Header/Header';
 import Footer from './components/common/Footer/Footer';
 import BackToTopButton from './components/BackToTopButton/BackToTopButton';
 import AmusementParkPage from './pages/AmusementParkPage/AmusementParkPage';
+import VorontsovskyLighthouse from './pages/VorontsovskyLighthousePage/VorontsovskyLighthouse';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -35,6 +36,7 @@ function App() {
             <Route path="/termsofuse" element={<UseTerms />} />
             <Route path='/aboutodessa' element={<AboutOdessa />} />
             <Route path='/amusement-park' element={<AmusementParkPage />} />
+            <Route path='/vorontsov-lighthouse' element={<VorontsovskyLighthouse />} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

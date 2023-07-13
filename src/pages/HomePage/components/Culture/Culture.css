@@ -10,6 +10,7 @@
     overflow: hidden;
     border-radius: 2px;
     font-size: 0;
+
 }
 
 .photo_item>img.picture {
@@ -17,7 +18,8 @@
     left: 0;
     top: 0;
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
 }
 
 
@@ -53,8 +55,8 @@
     font-family: Arial;
     letter-spacing: normal !important;
     color: #FFFFFF;
-    font-size: 15px;
-    font-weight: 300;
+    font-size: 17px;
+    font-weight: 500;
     line-height: 20px;
     text-align: center;
     z-index: 2;

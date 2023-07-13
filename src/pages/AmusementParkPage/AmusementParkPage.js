@@ -1,14 +1,13 @@
 import React, { useContext, useRef } from "react";
 import { LanguageContext } from "../../contexts/LanguageContext";
 import translations from "../../translations.json";
-import "./AmusementParkPage.css";
 import viewFromOdessaFerrisWheel from "../../assets/cultureImages/odessa-ferris-wheel.jpg"
 import odessaFerrisWheel from "../../assets/historyImages/picturepicture15282_22973.jpg"
 
 const AmusementParkPage = () => {
   const { currentLanguage } = useContext(LanguageContext);
   const amusementParkTranslations = translations.amusementPark[currentLanguage];
-
+  const general = translations.general[currentLanguage];
   const textContentRef = useRef(null);
 
   const handleScrollButtonClick = () => {
@@ -25,9 +24,9 @@ const AmusementParkPage = () => {
         referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
       <div className="buttons">
-        <button className="scroll-button" onClick={handleScrollButtonClick}>{amusementParkTranslations["readTextButton"]}</button>
+        <button className="scroll-button" onClick={handleScrollButtonClick}>{general["readTextButton"]}</button>
         <a href="/contacts">
-          <button className="redirect-button">{amusementParkTranslations["shareEmotionsButton"]}</button>
+          <button className="redirect-button">{general["shareEmotionsButton"]}</button>
         </a>
       </div>
       <div
@@ -49,13 +48,13 @@ const AmusementParkPage = () => {
           <p>{amusementParkTranslations["aboutParkStart"]}</p><br></br>
           <p>{amusementParkTranslations["parkLocationInfo"]}</p>
           <p>{amusementParkTranslations["parkOffers"]}</p><br></br>
-          <img className="ferris_wheel" src={odessaFerrisWheel}></img><br></br><br></br>
+          <img className="article_images" src={odessaFerrisWheel}></img><br></br><br></br>
           <p>{amusementParkTranslations["parkAtmosphere"]}</p>
           <p>{amusementParkTranslations["aboutOddyssea"]}</p><br></br>
           <p>{amusementParkTranslations["aboutParkEnding"]}</p>
         </div>
         <div className="otherContent">
-            <p className="title">{amusementParkTranslations["otherContentTitle"]}</p>
+            <p className="title">{general["otherContentTitle"]}</p>
             <div
             className="photo_item_container"
             style={{ position: "relative", marginBottom: "100px" }}
