@@ -28,18 +28,22 @@
 }
 
 
-
 .scroll-button:hover,
 .redirect-button:hover {
     cursor: pointer;
     background-color: #4371c1;
 }
 
+.textContent { 
+    width: 800px;
+    margin-right: 100px;
+}
+
 .otherContent {
     border: 2px solid #b2b5ba;
     min-width: 350px;
     width: 400px;
-    height: auto;
+    height: 1110px;
     margin-top: 40px;
     border-radius: 3px;
     background-color: #e2e5ed;
@@ -53,9 +57,14 @@
 }
 
 .otherContent .title { 
-    margin-top: 10px;
     font-size: 18px;
-    margin-bottom: 10px;
+    margin-top: 50px;
+    margin-bottom:20px;
+}
+
+.ferris_wheel { 
+    max-width: 850px;
+    border-radius: 4px;
 }
 
 @media screen and (max-width: 900px) {

@@ -2,7 +2,8 @@ import React, { useContext, useRef } from "react";
 import { LanguageContext } from "../../contexts/LanguageContext";
 import translations from "../../translations.json";
 import "./AmusementParkPage.css";
-import odessaFerrisWheel from "../../assets/cultureImages/odessa-ferris-wheel.jpg"
+import viewFromOdessaFerrisWheel from "../../assets/cultureImages/odessa-ferris-wheel.jpg"
+import odessaFerrisWheel from "../../assets/historyImages/picturepicture15282_22973.jpg"
 
 const AmusementParkPage = () => {
   const { currentLanguage } = useContext(LanguageContext);
@@ -24,11 +25,9 @@ const AmusementParkPage = () => {
         referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
       <div className="buttons">
-        <button className="scroll-button" onClick={handleScrollButtonClick}>
-          Читать статью
-        </button>
+        <button className="scroll-button" onClick={handleScrollButtonClick}>{amusementParkTranslations["readTextButton"]}</button>
         <a href="/contacts">
-          <button className="redirect-button">Поделиться эмоциями</button>
+          <button className="redirect-button">{amusementParkTranslations["shareEmotionsButton"]}</button>
         </a>
       </div>
       <div
@@ -50,6 +49,7 @@ const AmusementParkPage = () => {
           <p>{amusementParkTranslations["aboutParkStart"]}</p><br></br>
           <p>{amusementParkTranslations["parkLocationInfo"]}</p>
           <p>{amusementParkTranslations["parkOffers"]}</p><br></br>
+          <img className="ferris_wheel" src={odessaFerrisWheel}></img><br></br><br></br>
           <p>{amusementParkTranslations["parkAtmosphere"]}</p>
           <p>{amusementParkTranslations["aboutOddyssea"]}</p><br></br>
           <p>{amusementParkTranslations["aboutParkEnding"]}</p>
@@ -61,16 +61,21 @@ const AmusementParkPage = () => {
             style={{ position: "relative", marginBottom: "100px" }}
           >
              <a className="photo_item" href="/amusement-park">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
             <a className="photo_item" href="/amusement-park">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
-        
+            <a className="photo_item" href="/amusement-park">
+              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+              <span className="photo_block-item"></span>
+              <span className="photo_item_title">Одесса, Черноморск</span>
+            </a>
+           
           </div>
         </div>
       </div>

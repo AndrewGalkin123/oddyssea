@@ -430,7 +430,9 @@
       "parkAtmosphere": "Одесский Лунапарк не только предлагает аттракционы, но и создает настоящую атмосферу праздника. Здесь вы сможете насладиться ароматом свежей ваты и сладостей, попробовать разнообразные закуски и напитки, которые оживят ваше воображение и дадут вам силы для новых приключений.",
       "aboutOddyssea": "Приглашаем вас посетить наш веб-сайт Oddyssea, где вы сможете виртуально путешествовать по Одессе и ощутить атмосферу Лунапарка уже сейчас. Мы предлагаем уникальную возможность зарядиться энергией этого чудесного места и узнать больше о других достопримечательностях города.",
       "aboutParkEnding": "Так что не упускайте возможность посетить Одесский Лунапарк и окунуться в мир веселья и радости. Собирайте свою семью и друзей, чтобы насладиться незабываемым днем в этом уникальном месте. Приходите и оставайтесь волшебными воспоминаниями на всю жизнь!",
-      "otherContentTitle": "Советуем к просмотру"
+      "otherContentTitle": "Советуем к просмотру",
+      "readTextButton": "Читать статью",
+      "shareEmotionsButton": "Поделиться эмоциями"
     },
     "uk": {
       "title": "Лунапарк Одеса",
@@ -440,7 +442,9 @@
       "parkAtmosphere": "Одеський Лунапарк не лише пропонує атракціони, але й створює справжню атмосферу свята. Тут ви зможете насолодитися ароматом свіжої вати та солодощів, спробувати різноманітні закуски і напої, які оживлять вашу уяву і нададуть вам сил для нових пригод.",
       "aboutOddyssea": "Запрошуємо вас відвідати наш веб-сайт Oddyssea, де ви зможете віртуально подорожувати по Одесі та відчути атмосферу Лунапарку вже зараз. Ми пропонуємо унікальну можливість зарядитися енергією цього дивовижного місця і дізнатися більше про інші визначні місця міста.",
       "aboutParkEnding": "Тож не пропустіть можливість відвідати Одеський Лунапарк та зануритися у світ веселощів і радості. Збирайте свою сім'ю та друзів, щоб насолодитися незабутнім днем у цьому унікальному місці. Завітайте та залиштеся чарівними спогадами на все життя!",
-      "otherContentTitle": "Радимо переглядати"
+      "otherContentTitle": "Радимо переглядати",
+      "readTextButton": "Читати статтю",
+      "shareEmotionsButton": "Поділитися емоціями"
     },
     "en": {
       "title": "Lunapark Odessa",
@@ -450,7 +454,9 @@
       "parkAtmosphere": "Odessa Lunapark not only offers attractions but also creates a true festive atmosphere. Here you can enjoy the aroma of fresh cotton candy and treats, taste a variety of snacks and drinks that will awaken your imagination and give you energy for new adventures.",
       "aboutOddyssea": "We invite you to visit our website, Oddyssea, where you can virtually travel through Odessa and experience the atmosphere of Luna Park right now. We offer a unique opportunity to recharge with the energy of this magical place and learn more about other city attractions.",
       "aboutParkEnding": "So don't miss the chance to visit Odessa Luna Park and immerse yourself in a world of fun and joy. Gather your family and friends to enjoy an unforgettable day in this unique place. Come and create magical memories that will last a lifetime!",
-      "otherContentTitle": "Recommended for viewing"
+      "otherContentTitle": "Recommended for viewing",
+      "readTextButton": "Read article",
+      "shareEmotionsButton": "Share emotions"
     }
   }
 }
