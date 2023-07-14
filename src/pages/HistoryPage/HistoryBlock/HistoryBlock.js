@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import viewFromOdessaFerrisWheel from "../../../assets/cultureImages/odessa-ferris-wheel.jpg";
 import odessaFerrisWheel from "../../../assets/historyImages/picturepicture15282_22973.jpg"
+import theaterGarden from "../../../assets/historyImages/opera.jpg"
 import vorontsovskyLighthouse from "../../../assets/historyImages/lighthouse.jpg"
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
@@ -92,10 +93,10 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["vorontsovLighthouse"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/theater-garden">
+              <img className="picture" src={theaterGarden} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["theaterGarden"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
