@@ -108,7 +108,7 @@ const HistoryBlock = () => {
             <a className="photo_item" href="/sailor-wife">
               <img className="picture" src={sailorWife} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["sailor'sWife"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />

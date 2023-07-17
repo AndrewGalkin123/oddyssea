@@ -545,7 +545,37 @@
       "spirituality": "Однак, церква святого Павла - це не тільки архітектурний шедевр, але і святе місце, де люди знаходять духовну підтримку та натхнення. Внутрішнє прикрашення собору зачаровує своєю красою та витонченістю. Величезні склепи, прикрашені фресками, створюють відчуття величі та благоговіння. Біля алтаря розташовані коштовні історичні реліквії, які мають особливу цінність для віруючих та шанувальників історії.",
       "events": "Відвідування церкви святого Павла - це незабутній досвід, який залишить глибокі враження та розбудить духовні емоції. Це місце, де ви зможете зануритися в історію, насолодитися прекрасною архітектурою та внутрішнім прикрасою собору, а також відчути вплив духовності та мистецтва на вашу душу."
     }
+  },  
+  "sailorWife": {
+    "ru": {
+      "title": "Памятник 'Жена моряка' в Одессе",
+      "description": "В Одессе, на прекрасной Приморской площади, возвышается удивительный памятник — 'Жена моряка'. Эта скульптура стала одной из самых известных и любимых достопримечательностей города, привлекая туристов и местных жителей своей элегантностью и символическим значением.",
+      "year": "Памятник 'Жена моряка' был установлен в 1966 году и стал символом женского ожидания и верности морякам, которые отправляются в дальние морские плавания. Скульптура изображает женщину, стоящую на высоком пьедестале, смотрящую вдаль с надеждой и любовью. Она держит в руках морскую фару, которая светит дорогу морякам и символизирует безопасность и возвращение домой.",
+      "hospitality": "Он также является знаком гостеприимства Одессы. Множество людей с удовольствием фотографируются рядом с памятником, оставляя свои пожелания и надежды на морскую удачу. Вокруг памятника всегда царит особая атмосфера — морской бриз и любовь, которые наполняют сердца посетителей.",
+      "culturalSignificance": "Памятник 'Жена моряка' имеет культурное значение для Одессы. Рядом с ним часто проводятся концерты и культурные мероприятия, привлекая людей своим уникальным расположением в центре города и красотой окружающего ландшафта.",
+      "sailorWifeEnding": "Не только туристы, но и местные жители любят и уважают памятник. Он напоминает о важной роли, которую женщины играют в жизни моряков, поддерживая их дух и ожидая их возвращения. Памятник стал символом семейных ценностей, любви и надежды, которые объединяют людей вокруг морской тематики."
+    },
+    "uk": {
+      "title": "Пам'ятник 'Дружина моряка' у Одесі",
+      "description": "У Одесі, на прекрасній Приморській площі, височіє дивовижний пам'ятник - 'Дружина моряка'. Ця скульптура стала однією з найвідоміших і улюблених визначних місць міста, привертаючи туристів та місцевих жителів своєю елегантністю та символічним значенням.",
+      "year": "Пам'ятник 'Дружина моряка' був встановлений у 1966 році і став символом жіночого очікування та вірності морякам, які вирушають у далекі морські плавання. Скульптура зображує жінку, що стоїть на високому постаменті і дивиться вдаль з надією та любов'ю. Вона тримає в руках морський маяк, який освітлює дорогу морякам і символізує безпеку та повернення додому.",
+      "hospitality": "Він також є знаком гостинності Одеси. Багато людей з задоволенням фотографуються поряд із пам'ятником, залишаючи свої побажання та сподівання на морське щастя. Навколо пам'ятника завжди панує особлива атмосфера - морський бриз та любов, які наповнюють серця відвідувачів.",
+      "culturalSignificance": "Пам'ятник 'Дружина моряка' має культурне значення для Одеси. Поряд з ним часто проводяться концерти та культурні події, привертаючи людей своїм унікальним розташуванням в центрі міста та красою навколишнього ландшафту.",
+      "sailorWifeEnding": "Не тільки туристи, але й місцеві жителі люблять та поважають пам'ятник. Він нагадує про важливу роль, яку жінки відіграють в житті моряків, підтримуючи їх дух та очікуючи їх повернення. Пам'ятник став символом сімейних цінностей, любові та сподівання, які об'єднують людей навколо морської тематики."
+    },
+    "en": {
+      "title": "Monument of 'The Sailor's Wife' in Odessa",
+      "description": "In Odessa, on the beautiful Primorsky Boulevard, stands a remarkable monument - 'The Sailor's Wife.' This sculpture has become one of the most famous and beloved landmarks of the city, attracting tourists and locals alike with its elegance and symbolic significance.",
+      "year": "The monument 'The Sailor's Wife' was erected in 1966 and has become a symbol of women's waiting and faithfulness to sailors who embark on long sea voyages. The sculpture depicts a woman standing on a high pedestal, gazing into the distance with hope and love. She holds a lighthouse in her hands, which guides the sailors and symbolizes safety and homecoming.",
+      "hospitality": "The monument 'The Sailor's Wife' also serves as a sign of Odessa's hospitality. Many people enjoy taking photos next to the monument, leaving their wishes and hopes for maritime success. The area around the monument always has a special atmosphere - a sea breeze and love that fill the hearts of visitors.",
+      "culturalSignificance": "The monument 'The Sailor's Wife' has cultural significance for Odessa. Concerts and cultural events are often held nearby, attracting people with its unique location in the city center and the beauty of the surrounding landscape.",
+      "sailorWifeEnding": "The monument is loved and respected not only by tourists but also by local residents. It reminds us of the important role that women play in the lives of sailors, supporting their spirits and awaiting their return. The monument has become a symbol of family values, love, and hope that unite people around the maritime theme."
+    }
   },
+
+
+
+
   "general": {
     "ru": {
       "readTextButton": "Читать статью",
@@ -554,7 +584,8 @@
       "lunapark": "Лунапарк",
       "vorontsovLighthouse": "Воронцовский маяк",
       "theaterGarden": "Театральный сад",
-      "stPaulChurch": "Кирха Святого Павла"
+      "stPaulChurch": "Кирха Святого Павла",
+      "sailor'sWife": "Памятник жене моряка"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -563,7 +594,8 @@
       "lunapark": "Лунапарк",
       "vorontsovLighthouse": "Воронцовський маяк",
       "theaterGarden": "Театральний сад",
-      "stPaulChurch": "Церква святого Павла"
+      "stPaulChurch": "Церква святого Павла",
+      "sailor'sWife": "Пам'ятник дружині моряка"
     },
     "en": {
       "readTextButton": "Read article",
@@ -572,7 +604,8 @@
       "lunapark": "Lunapark",
       "vorontsovLighthouse": "Vorontsov Lighthouse",
       "theaterGarden": "Theater garden",
-      "stPaulChurch": "St. Paul's Church"
+      "stPaulChurch": "St. Paul's Church",
+      "sailor'sWife":"Monument to the sailor's wife"
     }
   }
 }
