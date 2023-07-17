@@ -16,6 +16,8 @@ import BackToTopButton from './components/BackToTopButton/BackToTopButton';
 import AmusementParkPage from './pages/AmusementParkPage/AmusementParkPage';
 import VorontsovskyLighthouse from './pages/VorontsovskyLighthousePage/VorontsovskyLighthouse';
 import TheaterGarden from './pages/TheaterGardenPage/TheaterGarden';
+import PaulChurch from './pages/PaulChurchPage/PaulChurch';
+import SailorWife from './pages/SailorWifePage/SailorWife';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -39,6 +41,8 @@ function App() {
             <Route path='/amusement-park' element={<AmusementParkPage />} />
             <Route path='/vorontsov-lighthouse' element={<VorontsovskyLighthouse />} />
             <Route path='/theater-garden' element={<TheaterGarden />} />
+            <Route path='/paul-church' element={<PaulChurch />} />
+            <Route path='/sailor-wife' element={<SailorWife />} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

@@ -3,6 +3,8 @@ import viewFromOdessaFerrisWheel from "../../../assets/cultureImages/odessa-ferr
 import odessaFerrisWheel from "../../../assets/historyImages/picturepicture15282_22973.jpg"
 import theaterGarden from "../../../assets/historyImages/opera.jpg"
 import vorontsovskyLighthouse from "../../../assets/historyImages/lighthouse.jpg"
+import pavelCathedral from "../../../assets/historyImages/pavelCathedral.jpg"
+import sailorWife from "../../../assets/historyImages/sailorWife.jpg"
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -98,15 +100,13 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["theaterGarden"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/paul-church">
+              <img className="picture" src={pavelCathedral} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["stPaulChurch"]}</span>
             </a>
-
-
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/sailor-wife">
+              <img className="picture" src={sailorWife} alt="descent coast" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">Одесса, Черноморск</span>
             </a>
