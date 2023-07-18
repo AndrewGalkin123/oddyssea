@@ -18,6 +18,7 @@ import VorontsovskyLighthouse from './pages/VorontsovskyLighthousePage/Vorontsov
 import TheaterGarden from './pages/TheaterGardenPage/TheaterGarden';
 import PaulChurch from './pages/PaulChurchPage/PaulChurch';
 import SailorWife from './pages/SailorWifePage/SailorWife';
+import Opera from './pages/OperaPage/Opera';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -43,6 +44,7 @@ function App() {
             <Route path='/theater-garden' element={<TheaterGarden />} />
             <Route path='/paul-church' element={<PaulChurch />} />
             <Route path='/sailor-wife' element={<SailorWife />} />
+            <Route path='/opera' element={<Opera />} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />
