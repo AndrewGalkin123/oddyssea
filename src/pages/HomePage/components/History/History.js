@@ -23,12 +23,12 @@ const History = () => {
             <br></br>
             <br></br>
             <div className="content" style={{ maxWidth: "1500px", display: "flex", flexWrap: "wrap", justifyContent: "space-around", padding: "0 15px" , marginBottom: "20px"}}>
-                <a href="/history" className="box" style={{ margin: "15px 15px 0 15px", flex: "1 1 320px", minWidth: "300px", maxWidth: "100%", textDecoration: "none", color: "black" }}>
+                <a href="/paul-church" className="box" style={{ margin: "15px 15px 0 15px", flex: "1 1 320px", minWidth: "300px", maxWidth: "100%", textDecoration: "none", color: "black" }}>
                     <img src={pavelCathedral} style={{ width: "100%", height: "470px", objectFit: "cover", objectPosition: "center" }} />
                     <h2>{historyBlockTranslations["lutheranChurch"]}</h2>
                     <p>{historyBlockTranslations["lutheranChurchInfo"]}</p>
                 </a>
-                <a href="/history" className="box" style={{ margin: "15px 15px 0 15px", flex: "1 1 320px", minWidth: "300px", maxWidth: "100%", textDecoration: "none", color: "black" }}>
+                <a href="/sailor-wife" className="box" style={{ margin: "15px 15px 0 15px", flex: "1 1 320px", minWidth: "300px", maxWidth: "100%", textDecoration: "none", color: "black" }}>
                     <img src={sailorWife} style={{ width: "100%", height: "470px", objectFit: "cover", objectPosition: "top" }} />
                     <h2>{historyBlockTranslations["sailor'sWife"]}</h2>
                     <p>{historyBlockTranslations["sailor'sWifeInfo"]}</p>
