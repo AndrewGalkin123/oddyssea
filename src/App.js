@@ -20,6 +20,7 @@ import PaulChurch from './pages/PaulChurchPage/PaulChurch';
 import SailorWife from './pages/SailorWifePage/SailorWife';
 import PotemkinStairs from './pages/PotemkinStairsPage/PotemkinStairs';
 import Opera from './pages/OperaPage/Opera';
+import DukeMonument from './pages/DukeMonumentPage/DukeMonument';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -47,6 +48,7 @@ function App() {
             <Route path='/sailor-wife' element={<SailorWife />} />
             <Route path='/opera' element={<Opera />} />
             <Route path='/potemkin-stairs' element={<PotemkinStairs />} />
+            <Route path='/duke-monument' element={<DukeMonument />} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />
