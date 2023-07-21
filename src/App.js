@@ -22,6 +22,7 @@ import PotemkinStairs from './pages/PotemkinStairsPage/PotemkinStairs';
 import Opera from './pages/OperaPage/Opera';
 import DukeMonument from './pages/DukeMonumentPage/DukeMonument';
 import VorontsovPalace from './pages/VorontsovPalacePage/VorontsovPalace';
+import PushkinMonument from './pages/PushkinMonumentPage/PushkinMonument';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -51,6 +52,7 @@ function App() {
             <Route path='/potemkin-stairs' element={<PotemkinStairs />} />
             <Route path='/duke-monument' element={<DukeMonument />} />
             <Route path='/vorontsov-palace' element={<VorontsovPalace/>} />
+            <Route path='/pushkin-monument' element={<PushkinMonument/>} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

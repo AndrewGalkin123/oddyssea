@@ -9,6 +9,7 @@ import opera from "../../../assets/historyImages/d2646277-0a23-4b43-bda9-ddd5dfa
 import potemkinStairs from "../../../assets/historyImages/1672697476_pro-dachnikov-com-p-potemkinskaya-lestnitsa-v-odesse-skolko-st-2.jpg";
 import dukeMonument from "../../../assets/historyImages/55721a66-22b2-43bf-8eb6-315e5be369c6.jpeg"
 import vorontsovPalace from "../../../assets/historyImages/36673ce0-abb7-4a65-a7ac-8200a41af649.jpeg"
+import pushkinMonument from "../../../assets/historyImages/fb69fd5d-6c77-4c18-9deb-7d64479ddd3f.jpeg";
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -135,10 +136,10 @@ const HistoryBlock = () => {
               <span className="photo_item_title">{general["vorontsovPalace"]}</span>
             </a>
 
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="pushkin-monument">
+              <img className="picture" src={pushkinMonument} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["pushkinMonument"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
