@@ -10,7 +10,7 @@ import vorontsovPalaceImage2 from "../../assets/historyImages/dff5d961-f4da-4cbf
 
 const VorontsovPalace = () => {
     const { currentLanguage } = useContext(LanguageContext);
-    const vorontsovPalaceTraslations = translations.vorontsovPalace[currentLanguage];
+    const vorontsovPalaceTranslations = translations.vorontsovPalace[currentLanguage];
     const general = translations.general[currentLanguage];
 
     const textContentRef = useRef(null);
@@ -43,16 +43,16 @@ const VorontsovPalace = () => {
                 <div className="textContent" style={{ maxWidth: "900px" }} ref={textContentRef}>
                     <br></br>
                     <br></br>
-                    <h1>{vorontsovPalaceTraslations["title"]}</h1>
+                    <h1>{vorontsovPalaceTranslations["title"]}</h1>
                     <br />
-                    <p>{vorontsovPalaceTraslations["history"]}</p><br></br>
-                    <p>{vorontsovPalaceTraslations["historicalSignificance"]}</p><br></br>
+                    <p>{vorontsovPalaceTranslations["history"]}</p><br></br>
+                    <p>{vorontsovPalaceTranslations["historicalSignificance"]}</p><br></br>
                     <img className="article_images" src={vorontsovPalaceImage1}></img><br></br><br></br>
-                    <p>{vorontsovPalaceTraslations["architectureStyle"]}</p><br></br>
-                    <p>{vorontsovPalaceTraslations["glamorousVenue"]}</p>
-                    <p>{vorontsovPalaceTraslations["modernTimes"]}</p><br></br>
+                    <p>{vorontsovPalaceTranslations["architectureStyle"]}</p><br></br>
+                    <p>{vorontsovPalaceTranslations["glamorousVenue"]}</p>
+                    <p>{vorontsovPalaceTranslations["modernTimes"]}</p><br></br>
                     <img className="article_images" src={vorontsovPalaceImage2}></img><br></br><br></br>
-                    <p>{vorontsovPalaceTraslations["journeyThroughTime"]}</p><br></br>
+                    <p>{vorontsovPalaceTranslations["journeyThroughTime"]}</p><br></br>
                    
                 </div>
                 <div className="otherContent">

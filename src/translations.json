@@ -683,8 +683,8 @@
       "glamorousVenue": "Воронцовский дворец служил резиденцией для различных государственных деятелей и аристократов, привлекая внимание известных личностей своего времени. Это было местом проведения роскошных балов, вечеринок и культурных событий, которые добавляли дворцу еще больше престижа и славы. Здесь останавливались исторические деятели и искусствоведы, устраивались творческие встречи и культурные салоны. Воронцовский дворец стал не только центром культурной жизни Одессы, но и символом роскоши и изысканности.",
       "modernTimes": "В современные времена Воронцовский дворец стал одним из наиболее популярных и посещаемых туристических мест в Одессе. Он привлекает не только своей архитектурной красотой, но и своей многогранной историей, которая удивляет и восхищает. Это место, где можно окунуться в историческую атмосферу, узнать об удивительных людях и событиях, связанных с дворцом, и насладиться великолепием его интерьеров.",
       "journeyThroughTime": "Посещение Воронцовского дворца - это уникальная возможность сделать шаг назад во времени и узнать о великих событиях и ярких личностях прошлого. Это также возможность насладиться красотой и роскошью этого величественного здания, увидеть уникальные архитектурные детали и узнать об интересных фактах его истории. Воронцовский дворец ждет своих гостей, чтобы подарить им удивительные впечатления и великолепные воспоминания о посещении этого культурного сокровища Одессы."
-      },
-    "en": { 
+    },
+    "en": {
       "title": "Vorontsov Palace in Odessa: Grandeur of Architecture and Centuries-Long History, Inviting Us to Visit",
       "history": "Vorontsov Palace, located in the heart of Odessa, is not only one of the most remarkable architectural landmarks of the city but also a magnificent testament to its long and rich history. This palace is one of the most significant cultural treasures of Odessa, attracting tourists and historical enthusiasts from all over the world. Visiting this splendid architectural masterpiece is a unique opportunity to step back in time and learn about the centuries-long history of this place.",
       "historicalSignificance": "The history of Vorontsov Palace spans several centuries and begins with the great Empress Catherine II, who ordered the construction of this palace for Count Mikhail Semenovich Vorontsov, a prominent Russian statesman and Governor-General of Novorossiya. The construction of the palace started in 1827 and lasted for several decades, captivating the eyes of all who saw its grandeur. Vorontsov Palace became one of the most luxurious buildings of its time and an embodiment of refined style and grandeur.",
@@ -693,7 +693,7 @@
       "modernTimes": "In modern times, the Vorontsov Palace has become one of the most popular and visited tourist places in Odessa. It attracts not only with its architectural beauty, but also with its multifaceted history that surprises and delights. This is a place where you can plunge into the historical atmosphere, learn about the amazing people and events associated with the palace, and enjoy the splendor of its interiors.",
       "journeyThroughTime": "A visit to the Vorontsov Palace is a unique opportunity to take a step back in time and learn about the great events and outstanding personalities of the past. It is also an opportunity to enjoy the beauty and luxury of this majestic building, see unique architectural details and learn about interesting facts about its history. The Vorontsov Palace is waiting for its guests to give them amazing experiences and great memories of visiting this cultural treasure of Odessa."
     },
-    "uk": { 
+    "uk": {
       "title": "Воронцовський палац у Одесі: Велич архітектури та багатовікова історія, що запрошує нас до відвідання",
       "history": "Воронцовський палац, розташований у самому серці Одеси, не є лише однією з найвидатніших архітектурних пам'яток міста, а й величезним свідченням його довгої та багатої історії. Цей палац є однією з найважливіших культурних скарбниць Одеси, яка приваблює туристів та історичних ентузіастів зі всього світу. Відвідування цього великолепного архітектурного шедевра - це унікальна можливість зануритися у минуле та дізнатися про багатовікову історію цього місця.",
       "historicalSignificance": "Історія Воронцовського палацу налічує кілька століть і починається з великої імператриці Єкатерини II, яка наказала звести цей палац для графа Михайла Семеновича Воронцова, відомого російського державного діяча та генерал-губернатора Новоросійського краю. Будівництво палацу розпочалося у 1827 році і тривало кілька десятиліть, захоплюючи погляди всіх, хто бачив його величність. Воронцовський палац став одним із найрозкішніших споруд свого часу та втіленням вишуканого стилю та величі.",
@@ -738,7 +738,41 @@
       "outstandingWork": "Таким чином, бронзовий пам'ятник А. С. Пушкіну на гранітному п'єдесталі в Одесі є не лише видатним твором скульптури, а й символом вічного натхнення, яке його творчість приносить кожному з нас. Це місце, де культура та мистецтво зливаються, де ми можемо вшанувати пам'ять великого поета та знайти натхнення для своїх власних досягнень. Одеса з гордістю зберігає цей пам'ятник і передає його майбутнім поколінням, щоб зберегти історію та спадщину великого російського поета."
     }
   },
-
+  "odessaPassage": {
+    "ru": {
+      "title": "Пассаж в Одессе: Исторический Шедевр и Жемчужина Культуры",
+      "description": "Пассаж, именуемый также Пассажем Пантелеймона, был построен во второй половине XIX века и сразу стал центром городской жизни и культурной активности. Это историческое здание с многовековой историей является свидетельством процветания Одессы в прошлые века и воплощением гламура и элегантности.",
+      "insideInfo": "Пассаж - это не просто архитектурное сооружение, это целый комплекс, объединяющий в себе роскошные магазины, рестораны, кафе и различные предприятия, которые привлекают множество посетителей каждый день. Великолепные фасады и украшенные стеклом арки создают уникальную атмосферу роскоши и уюта.",
+      "architectureStyle": "Архитектурный стиль сочетает в себе элементы неоклассицизма и ампирного стиля, что делает здание особенно привлекательным для гостей города. Великолепные детали и изысканные украшения на фасаде здания приковывают внимание и вызывают восхищение у каждого, кто ступает на его территорию.",
+      "culturalCenter": "Особенностью является его уникальная атмосфера и дух прошлых времен. Здесь можно пройтись по историческим коридорам, окунуться в атмосферу старинного Одесского города и насладиться архитектурой, которая перенесет вас в эпоху величия и культурного разнообразия.",
+      "culturalHub": "В течение многих лет Пассаж был центром культурной и общественной жизни Одессы. Здесь проводились культурные мероприятия, литературные вечера, а также модные показы и выставки. Пассаж был местом, где сходились знаменитости, искусствоведы, артисты и писатели, обсуждая творчество и обмениваясь идеями.",
+      "culturalSymbol": "Сегодня он остается одним из главных культурных символов Одессы. Он привлекает туристов и жителей, предоставляя возможность насладиться атмосферой прошлого и ощутить дух великого города. Здесь можно погрузиться в творчество и культурное наследие Одессы, прикоснуться к истории и насладиться уникальной атмосферой города.",
+      "uniqueExperience": "Посещение - это уникальный опыт, который приносит радость и восхищение каждому, кто открывает для себя это чудо архитектуры. Здесь можно почувствовать, как живет и дышит Одесса, узнать о ее богатой истории и увидеть величие и красоту, которая привлекала людей на протяжении многих лет.",
+      "passageEnding": "Таким образом, Пассаж в Одессе - это не просто здание, это исторический шедевр и символ культурного богатства города. Он приглашает всех насладиться его уникальной атмосферой и стать частью великой истории Одессы. Это место, где время останавливается, а душа находит свое вдохновение и гармонию."
+    },
+    "en": { 
+      "title": "Passage in Odessa: Historical Masterpiece and Cultural Gem",
+      "description": "The Passage, also known as the Panteleimon Passage, was built in the second half of the 19th century and immediately became the heart of city life and cultural activity. This historical building with its centuries-old history is a testament to Odessa's prosperity in past centuries and a embodiment of glamour and elegance.",
+      "insideInfo": "The Passage is not just an architectural structure; it is a whole complex that houses luxurious shops, restaurants, cafes, and various businesses, attracting numerous visitors every day. Magnificent facades and glass-covered archways create a unique atmosphere of luxury and comfort.",
+      "architectureStyle": "The architectural style combines elements of neoclassicism and empire style, making the building particularly attractive to city guests. Splendid details and exquisite decorations on the facade capture the attention and admiration of everyone who steps foot on its territory.",
+      "culturalCenter": "The uniqueness lies in its atmosphere and the spirit of bygone times. Here, one can stroll through historical corridors, immerse oneself in the atmosphere of old Odessa, and enjoy the architecture that transports you to an era of grandeur and cultural diversity.",
+      "culturalHub": "For many years, the Passage was the center of Odessa's cultural and social life. Cultural events, literary evenings, as well as fashion shows and exhibitions were held here. The Passage was a place where celebrities, art connoisseurs, artists, and writers gathered, discussing creativity and exchanging ideas.",
+      "culturalSymbol": "Today, it remains one of Odessa's main cultural symbols. It attracts tourists and residents alike, providing an opportunity to relish the atmosphere of the past and feel the spirit of this great city. Here, one can immerse themselves in the creativity and cultural heritage of Odessa, touch the history, and enjoy the city's unique atmosphere.",
+      "uniqueExperience": "Visiting is a unique experience that brings joy and admiration to anyone who discovers this architectural marvel. Here, one can feel how Odessa lives and breathes, learn about its rich history, and witness the grandeur and beauty that has fascinated people for many years.",
+      "passageEnding": "In conclusion, the Passage in Odessa is not just a building; it is a historical masterpiece and a symbol of the city's cultural wealth. It invites everyone to enjoy its unique atmosphere and become part of Odessa's great history. It is a place where time stands still, and the soul finds inspiration and harmony."
+    },
+    "uk": {
+      "title": "Пасаж у Одесі: Історичний шедевр та культурний скарб",
+      "description": "Пасаж, також відомий як Пасаж Пантелеймона, був побудований у другій половині XIX століття та одразу став серцем міського життя та культурної активності. Ця історична будівля із багатовіковою історією є свідченням процвітання Одеси у минулі століття та втіленням гламуру та елегантності.",
+      "insideInfo": "Пасаж - це не просто архітектурна споруда; це цілий комплекс, що об'єднує розкішні магазини, ресторани, кафе та різноманітні підприємства, які приваблюють численних відвідувачів щоденно. Величні фасади та прикрашені склом арки створюють унікальну атмосферу розкіші та затишку.",
+      "architectureStyle": "Архітектурний стиль поєднує в собі елементи неокласицизму та імперського стилю, що робить будівлю особливо привабливою для гостей міста. Величні деталі та витончені прикраси на фасаді здобувають увагу та захоплюють кожного, хто ступає на його територію.",
+      "culturalCenter": "Унікальність полягає у його атмосфері та дусі минулих часів. Тут можна прогулятися по історичних коридорах, зануритися в атмосферу старовинного Одеського міста та насолодитися архітектурою, яка перенесе вас в епоху величі та культурного різноманіття.",
+      "culturalHub": "Протягом багатьох років Пасаж був центром культурного та громадського життя Одеси. Тут проводилися культурні заходи, літературні вечори, а також модні покази та виставки. Перехід був місцем, де збирались знаменитості, митецькі ентузіасти, артисти та письменники, обговорюючи творчість та обмінюючись ідеями.",
+      "culturalSymbol": "Сьогодні він залишається одним із головних культурних символів Одеси. Він приваблює туристів та місцевих жителів, надаючи можливість насолодитися атмосферою минулого та відчути дух великого міста. Тут можна зануритися в творчість та культурну спадщину Одеси, доторкнутися до історії та насолодитися унікальною атмосферою міста.",
+      "uniqueExperience": "Відвідування - це унікальний досвід, який приносить радість та захват кожному, хто відкриває для себе цей архітектурний шедевр. Тут можна відчути, як живе та дихає Одеса, дізнатися про її багату історію та побачити велич міста, що зачаровувала людей протягом багатьох років.",
+      "passageEnding": "Отже, Пасаж у Одесі - це не просто будівля, це історичний шедевр та символ культурного скарбу міста. Він запрошує всіх насолодитися його унікальною атмосферою та стати частиною великої історії Одеси. Це місце, де час зупиняється, а душа знаходить своє натхнення та гармонію."
+    }
+  },
 
 
 
@@ -756,7 +790,8 @@
       "potemkinStairs": "Потемкинская лестница",
       "dukeMonument": "Памятник Дюку де Ришелье",
       "vorontsovPalace": "Воронцовский дворец",
-      "pushkinMonument": "Памятник А.С.Пушкину"
+      "pushkinMonument": "Памятник А.С.Пушкину",
+      "odessaPassage": "Пассаж"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -771,7 +806,8 @@
       "potemkinStairs": "Потьомкінська сходинка",
       "dukeMonument": "Пам'ятник Герцогу де Рішельє",
       "vorontsovPalace": "Воронцовський палац",
-      "pushkinMonument": "Пам'ятник А.С.Пушкіну"
+      "pushkinMonument": "Пам'ятник А.С.Пушкіну",
+      "odessaPassage": "Пасаж"
     },
     "en": {
       "readTextButton": "Read article",
@@ -786,7 +822,8 @@
       "potemkinStairs": "Potemkin Stairs",
       "dukeMonument": "Monument to Duke de Richelieu",
       "vorontsovPalace": "Vorontsov Palace",
-      "pushkinMonument": "Monument to A.S. Pushkin"
+      "pushkinMonument": "Monument to A.S. Pushkin",
+      "odessaPassage": "Passage"
     }
   }
 }

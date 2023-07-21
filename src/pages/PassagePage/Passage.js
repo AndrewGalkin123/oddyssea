@@ -4,13 +4,13 @@ import translations from "../../translations.json";
 import potemkinStairs from "../../assets/historyImages/1672697476_pro-dachnikov-com-p-potemkinskaya-lestnitsa-v-odesse-skolko-st-2.jpg";
 import dukeMonument from "../../assets/historyImages/55721a66-22b2-43bf-8eb6-315e5be369c6.jpeg"
 import vorontsovPalace from "../../assets/historyImages/36673ce0-abb7-4a65-a7ac-8200a41af649.jpeg"
-import pushkinMonumentImage1 from "../../assets/historyImages/4f57c8f6-9b11-4c96-978c-4188dda99662.jpeg"
-import pushkinMonumentImage2 from "../../assets/historyImages/82b12c25-e226-4a67-bae6-208414765ec7.jpeg"
+import passageImage1 from "../../assets/historyImages/0c2de272-c17e-4308-ad92-08b565d2e26c.jpeg"
+import passageImage2 from "../../assets/historyImages/14a7a43f-18d4-4842-b6c1-74d9d5aedd27.jpeg"
+import passageImage3 from "../../assets/historyImages/f8493e1f-aefc-4e00-8e2c-35e1b8a8f219.jpeg"
 
-
-const PushkinMonument = () => {
+const Passage = () => {
     const { currentLanguage } = useContext(LanguageContext);
-    const pushkinMonumentTranslations = translations.pushkinMonument[currentLanguage];
+    const passageTranslations = translations.odessaPassage[currentLanguage];
     const general = translations.general[currentLanguage];
 
     const textContentRef = useRef(null);
@@ -21,8 +21,8 @@ const PushkinMonument = () => {
     return (
         <div>
             <iframe
-                className="location"
-                src="https://www.google.com/maps/embed?pb=!4v1689951256938!6m8!1m7!1sCAoSLEFGMVFpcE42bEY5YWdhd090cFlDZ0FTNVFVZ1RsbG04bmpKQkdMb3VLZUhq!2m2!1d46.48618043103587!2d30.74354950573845!3f150.74277158480106!4f5.272216711655929!5f0.6526350657713837" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            className="location"
+            src="https://www.google.com/maps/embed?pb=!4v1689954610225!6m8!1m7!1sCAoSLEFGMVFpcE5udTRDd3N6aDJaY3h1OFVZT0ViY3Q0NmZWbW5hUUg2QTlKdFhu!2m2!1d46.48414445732981!2d30.73271004169271!3f233.75853296992602!4f18.557992974614322!5f0.4000000000000002" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             <div className="buttons">
                 <button className="scroll-button" onClick={handleScrollButtonClick}>{general["readTextButton"]}</button>
                 <a href="/contacts">
@@ -43,18 +43,19 @@ const PushkinMonument = () => {
                 <div className="textContent" style={{ maxWidth: "900px" }} ref={textContentRef}>
                     <br></br>
                     <br></br>
-                    <h1>{pushkinMonumentTranslations["title"]}</h1>
+                    <h1>{passageTranslations["title"]}</h1>
                     <br />
-                    <p>{pushkinMonumentTranslations["description"]}</p><br></br>
-                    <p>{pushkinMonumentTranslations["history"]}</p><br></br>
-                    <img className="article_images" src={pushkinMonumentImage1}></img><br></br><br></br>
-                    <p>{pushkinMonumentTranslations["poeticGenius"]}</p><br></br>
-                    <p>{pushkinMonumentTranslations["sculpturalComposition"]}</p>
-                    <p>{pushkinMonumentTranslations["symbolOfMonument"]}</p><br></br>
-                    <img className="article_images" src={pushkinMonumentImage2}></img><br></br><br></br>
-                    <p>{pushkinMonumentTranslations["partOfCity"]}</p><br></br>
-                    <p>{pushkinMonumentTranslations["culturalHeritage"]}</p>
-                    <p>{pushkinMonumentTranslations["outstandingWork"]}</p>
+                    <p>{passageTranslations["description"]}</p><br></br>
+                    <p>{passageTranslations["insideInfo"]}</p><br></br>
+                    <img className="article_images" src={passageImage1}></img><br></br><br></br>
+                    <p>{passageTranslations["architectureStyle"]}</p>
+                    <p>{passageTranslations["culturalCenter"]}</p><br></br>
+                    <p>{passageTranslations["culturalHub"]}</p><br></br>
+                    <img className="article_images" src={passageImage2}></img><br></br><br></br>
+                    <p>{passageTranslations["culturalSymbol"]}</p><br></br>
+                    <img className="article_images" src={passageImage3}></img>
+                    <p>{passageTranslations["uniqueExperience"]}</p>
+                    <p>{passageTranslations["passageEnding"]}</p>
 
                 </div>
                 <div className="otherContent">
@@ -83,8 +84,7 @@ const PushkinMonument = () => {
                 </div>
             </div>
         </div>
-
     )
 }
 
-export default PushkinMonument;
+export default Passage;
