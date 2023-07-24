@@ -802,6 +802,44 @@
       "patriotism": "Крила Перемоги не тільки втілюють пам'ять про минулі події, але й є місцем виховання патріотизму та почуття гордості за свою країну. Вони нагадують кожному, що мир є дорогим і цінним, і його захист потребує єдності та сили всіх народів. Цей монумент став святим місцем для багатьох поколінь і буде продовжувати надихати майбутні покоління зберігати мир і гармонію у своїй країні та у світі."
     }
   },
+  "victoryPark": {
+    "ru": {
+      "title": "Парк Победы в Одессе: Воплощение Красоты, Памяти и Умиротворения",
+      "description": "Парк Победы является уникальным садово-парковым комплексом в городе Одесса. Этот великолепный парк-памятник садово-паркового искусства олицетворяет красоту природы, память о прошлом и создает умиротворяющую атмосферу для горожан и гостей города.",
+      "parkSize": "Общая площадь Парка Победы составляет 48,8 гектаров, что делает его одним из самых больших парков в Одессе и Украине. Здесь великолепно сочетаются искусственные и природные элементы ландшафта. Горки, пруды, острова, перекрытые мостиками, создают уникальную композицию парка, вдохновляя на прогулки и отдых на свежем воздухе.",
+      "waterElements": "Особое место в Парке Победы занимают водоемы, протяженностью 700 метров, общим объемом воды 31000 кубических метров. Они являются главной композиционной осью парка, придавая ему особую гармонию и уединение. Фонтаны, расположенные в водоемах, создают впечатляющие водные шоу и добавляют красоты и роскоши месту.",
+      "diverseFlora": "Богатство растительного мира Парка Победы поражает своим разнообразием и уникальностью. На территории парка можно встретить привычные сосны, клены и дубы, а также множество редких видов деревьев. Ливанский кедр, ясень, тис ягодный, можжевельник, гинкго билоба, метасеквойя и другие растения создают впечатляющий зеленый ансамбль и придают парку особый шарм.",
+      "memorialPark": "Парк Победы также служит местом памяти и почитания героев Великой Отечественной Войны. Этот парк стал символом благодарности и уважения к тем, кто отдал свои жизни за свободу и победу.",
+      "events": "Парк Победы также активно используется для проведения различных мероприятий. Праздники, фестивали, концерты и выставки привлекают сюда тысячи гостей и участников. Этот парк становится площадкой для культурных и спортивных мероприятий, единящих людей в общем порыве радости и веселья.",
+      "recreationAreas": "Для детей и взрослых в парке созданы отличные условия для активного отдыха. Аттракционы, детские площадки и спортивные площадки предлагают разнообразные развлечения и занятия.",
+      "experienceNature": "Посещение Парка Победы - это уникальный опыт наслаждения природой и памятью о прошлом. Здесь каждый может найти свою гармонию и спокойствие, наслаждаясь уникальной красотой растений и водных элементов. Парк приглашает всех гостей и жителей Одессы пройтись по его аллеям, провести время на природе и погрузиться в историю и память этого удивительного места.",
+      "beautySymbol": "Парк Победы - это символ красоты, памяти и умиротворения. Он является драгоценным сокровищем Одессы, привлекающим туристов и горожан своей великолепной атмосферой и уникальной историей. Это место, где можно найти внутренний покой и восхититься великолепием природы и архитектуры."
+    },
+    "en": {
+      "title": "Park of Victory in Odessa: Embodiment of Beauty, Memory, and Serenity",
+      "description": "The Park of Victory is a unique garden-park complex in the city of Odessa. This magnificent park monument of garden and park art embodies the beauty of nature, the memory of the past, and creates a peaceful atmosphere for the city's residents and visitors.",
+      "parkSize": "The total area of Victory Park is 48.8 hectares, making it one of the largest parks in Odessa and Ukraine. Artificial and natural landscape elements are perfectly combined here. Hills, ponds, islands connected by bridges create a unique composition of the park, inspiring walks and outdoor relaxation.",
+      "waterElements": "The water bodies play a special role in Victory Park, stretching for 700 meters with a total water volume of 31,000 cubic meters. They form the main compositional axis of the park, giving it a special harmony and tranquility. Fountains located in the ponds create impressive water shows and add beauty and grandeur to the place.",
+      "diverseFlora": "The richness of the park's plant life impresses with its diversity and uniqueness. Within the park's territory, one can find familiar pines, maples, and oaks, as well as numerous rare tree species. Lebanese cedar, ash tree, yew, juniper, ginkgo biloba, metasequoia, and other plants create an impressive green ensemble and give the park a special charm.",
+      "memorialPark": "Victory Park also serves as a place of memory and reverence for the heroes of the Great Patriotic War. This park has become a symbol of gratitude and respect for those who gave their lives for freedom and victory.",
+      "events": "The Park of Victory is also actively used for various events. Holidays, festivals, concerts, and exhibitions attract thousands of guests and participants. The park becomes a venue for cultural and sports events, uniting people in a common surge of joy and celebration.",
+      "recreationAreas": "For children and adults, the park provides excellent conditions for active recreation. Attractions, playgrounds, and sports grounds offer a variety of entertainment and activities.s",
+      "experienceNature": "Visiting the Park of Victory is a unique experience of enjoying nature and the memory of the past. Here, everyone can find their harmony and serenity, enjoying the unique beauty of plants and water elements. The park invites all guests and residents of Odessa to stroll along its alleys, spend time in nature, and immerse themselves in the history and memory of this amazing place.",
+      "beautySymbol": "The Park of Victory is a symbol of beauty, memory, and serenity. It is a precious treasure of Odessa, attracting tourists and city dwellers with its magnificent atmosphere and unique history. It is a place where one can find inner peace and admire the grandeur of nature and architecture."
+    },
+    "uk": {
+      "title": "Парк Перемоги в Одесі: Втілення Краси, Пам'яті та Задоволення",
+      "description": "Парк Перемоги є унікальним садово-парковим комплексом у місті Одеса. Цей величний парк-пам'ятник садово-паркового мистецтва олицетворює красу природи, пам'ять про минуле та створює затишну атмосферу для місцевих мешканців та гостей міста.",
+      "parkSize": "Загальна площа Парку Перемоги становить 48,8 гектарів, що робить його одним із найбільших парків в Одесі та Україні. Тут великолепно поєднуються штучні та природні елементи ландшафту. Гірки, ставки, острови, перекриті мостиками, створюють унікальну композицію парку, надихаючи на прогулянки та відпочинок на свіжому повітрі.",
+      "waterElements": "Особливе місце в Парку Перемоги займають водойми, протяжністю 700 метрів, загальним об'ємом води 31000 кубічних метрів. Вони є головною композиційною осію парку, надаючи йому особливу гармонію та затишок. Фонтани, розташовані в водоймах, створюють вражаючі водні шоу і додають краси та розкіші місцю.",
+      "diverseFlora": "Багатство рослинного світу Парку Перемоги вражає своєю різноманітністю та унікальністю. На території парку можна зустріти звичні сосни, клени та дуби, а також безліч рідкісних видів дерев. Ліванський кедр, ясен, тис ягідний, можжевельник, гінкго білоба, метасеквойя та інші рослини створюють вражаючий зелений ансамбль і надають парку особливого шарму.",
+      "memorialPark": "Парк Перемоги також служить місцем пам'яті та шанування героїв Великої Вітчизняної Війни. Цей парк став символом вдячності та поваги до тих, хто віддав свої життя за свободу та перемогу.",
+      "events": "Парк Перемоги також активно використовується для проведення різних заходів. Свята, фестивалі, концерти та виставки приваблюють сюди тисячі гостей та учасників. Цей парк стає майданчиком для культурних та спортивних подій, що єднають людей в загальному пориві радості та веселощів.",
+      "recreationAreas": "Для дітей та дорослих в парку створені відмінні умови для активного відпочинку. Атракціони, дитячі майданчики та спортивні майданчики пропонують різноманітні розваги та заняття.",
+      "experienceNature": "Відвідування Парку Перемоги - це унікальний досвід насолоди природою та пам'яттю про минуле. Тут кожен може знайти свою гармонію та спокій, насолоджуючись унікальною красою рослин та водних елементів. Парк запрошує всіх гостей та мешканців Одеси пройтися по його алеях, провести час на природі та зануритись у історію та пам'ять цього дивовижного місця.",
+      "beautySymbol": "Парк Перемоги - це символ краси, пам'яті та задоволення. Він є коштовним скарбом Одеси, який приваблює туристів та місцевих жителів своєю величезною атмосферою та унікальною історією. Це місце, де можна знайти внутрішній спокій і захоплюватись величчю природи та архітектури."
+    }
+  },
 
 
 
@@ -823,7 +861,8 @@
       "vorontsovPalace": "Воронцовский дворец",
       "pushkinMonument": "Памятник А.С.Пушкину",
       "odessaPassage": "Пассаж",
-      "victoryWings": "Крылья Победы"
+      "victoryWings": "Крылья Победы",
+      "victoryPark": "Парк Победы"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -840,7 +879,8 @@
       "vorontsovPalace": "Воронцовський палац",
       "pushkinMonument": "Пам'ятник А.С.Пушкіну",
       "odessaPassage": "Пасаж",
-      "victoryWings": "Крила Перемоги"
+      "victoryWings": "Крила Перемоги",
+      "victoryPark": "Парк Перемоги"
     },
     "en": {
       "readTextButton": "Read article",
@@ -857,7 +897,8 @@
       "vorontsovPalace": "Vorontsov Palace",
       "pushkinMonument": "Monument to A.S. Pushkin",
       "odessaPassage": "Passage",
-      "victoryWings": "Wings of Victory"
+      "victoryWings": "Wings of Victory",
+      "victoryPark": "Park of Victory"
     }
   }
 }

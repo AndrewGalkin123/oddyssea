@@ -12,6 +12,7 @@ import vorontsovPalace from "../../../assets/historyImages/36673ce0-abb7-4a65-a7
 import pushkinMonument from "../../../assets/historyImages/fb69fd5d-6c77-4c18-9deb-7d64479ddd3f.jpeg";
 import passage from "../../../assets/historyImages/f8493e1f-aefc-4e00-8e2c-35e1b8a8f219.jpeg"
 import victoryWings from "../../../assets/historyImages/victoryWings.png";
+import victoryPark from "../../../assets/historyImages/victory-park-2.jpeg"
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -93,70 +94,70 @@ const HistoryBlock = () => {
             style={{ position: "relative"}}
           >
              <a className="photo_item" href="/amusement-park">
-              <img className="picture" src={odessaFerrisWheel} alt="descent coast" />
+              <img className="picture" src={odessaFerrisWheel} alt="lunapark" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["lunapark"]}</span>
             </a>
             <a className="photo_item" href="/vorontsov-lighthouse">
-              <img className="picture" src={vorontsovskyLighthouse} alt="descent coast" />
+              <img className="picture" src={vorontsovskyLighthouse} alt="vorontsovLighthouse" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["vorontsovLighthouse"]}</span>
             </a>
             <a className="photo_item" href="/theater-garden">
-              <img className="picture" src={theaterGarden} alt="descent coast" />
+              <img className="picture" src={theaterGarden} alt="theaterGarden" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["theaterGarden"]}</span>
             </a>
             <a className="photo_item" href="/paul-church">
-              <img className="picture" src={pavelCathedral} alt="descent coast" />
+              <img className="picture" src={pavelCathedral} alt="stPaulChurch" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["stPaulChurch"]}</span>
             </a>
             <a className="photo_item" href="/sailor-wife">
-              <img className="picture" src={sailorWife} alt="descent coast" />
+              <img className="picture" src={sailorWife} alt="sailor'sWife" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["sailor'sWife"]}</span>
             </a>
             <a className="photo_item" href="/opera">
-              <img className="picture" src={opera} alt="descent coast" />
+              <img className="picture" src={opera} alt="opera" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["opera"]}</span>
             </a>
             <a className="photo_item" href="/potemkin-stairs">
-              <img className="picture" src={potemkinStairs} alt="descent coast" />
+              <img className="picture" src={potemkinStairs} alt="potemkinStairs" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["potemkinStairs"]}</span>
             </a>
             <a className="photo_item" href="/duke-monument">
-              <img className="picture" src={dukeMonument} alt="descent coast" />
+              <img className="picture" src={dukeMonument} alt="dukeMonument" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["dukeMonument"]}</span>
             </a>
             <a className="photo_item" href="/vorontsov-palace">
-              <img className="picture" src={vorontsovPalace} alt="descent coast" />
+              <img className="picture" src={vorontsovPalace} alt="vorontsovPalace" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["vorontsovPalace"]}</span>
             </a>
 
             <a className="photo_item" href="pushkin-monument">
-              <img className="picture" src={pushkinMonument} alt="descent coast" />
+              <img className="picture" src={pushkinMonument} alt="pushkinMonument" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["pushkinMonument"]}</span>
             </a>
             <a className="photo_item" href="/passage">
-              <img className="picture" src={passage} alt="descent coast" />
+              <img className="picture" src={passage} alt="odessaPassage" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["odessaPassage"]}</span>
             </a>
             <a className="photo_item" href="/victory-wings">
-              <img className="picture" src={victoryWings} alt="descent coast" />
+              <img className="picture" src={victoryWings} alt="victoryWings" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["victoryWings"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/victory-park">
+              <img className="picture" src={victoryPark} alt="victoryPark" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["victoryPark"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />

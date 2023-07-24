@@ -25,6 +25,7 @@ import VorontsovPalace from './pages/VorontsovPalacePage/VorontsovPalace';
 import PushkinMonument from './pages/PushkinMonumentPage/PushkinMonument';
 import Passage from './pages/PassagePage/Passage';
 import VictoryWings from './pages/VictoryWingsPage/VictoryWings';
+import VictoryPark from './pages/VictoryParkPage/VictoryPark';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -57,6 +58,7 @@ function App() {
             <Route path='/pushkin-monument' element={<PushkinMonument/>} />
             <Route path='/passage' element={<Passage/>} />
             <Route path='/victory-wings' element={<VictoryWings/>} />
+            <Route path='/victory-park' element={<VictoryPark/>} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

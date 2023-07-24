@@ -62,17 +62,17 @@ const VorontsovPalace = () => {
                         style={{ position: "relative", marginBottom: "100px" }}
                     >
                         <a className="photo_item" href="/paul-church">
-                            <img className="picture" src={pavelCathedral} alt="descent coast" />
+                            <img className="picture" src={pavelCathedral} alt="stPaulChurch" />
                             <span className="photo_block-item"></span>
                             <span className="photo_item_title">{general["stPaulChurch"]}</span>
                         </a>
                         <a className="photo_item" href="/opera">
-                            <img className="picture" src={opera} alt="descent coast" />
+                            <img className="picture" src={opera} alt="opera" />
                             <span className="photo_block-item"></span>
                             <span className="photo_item_title">{general["opera"]}</span>
                         </a>
                         <a className="photo_item" href="/duke-monument">
-                            <img className="picture" src={dukeMonument} alt="descent coast" />
+                            <img className="picture" src={dukeMonument} alt="dukeMonument" />
                             <span className="photo_block-item"></span>
                             <span className="photo_item_title">{general["dukeMonument"]}</span>
                         </a>

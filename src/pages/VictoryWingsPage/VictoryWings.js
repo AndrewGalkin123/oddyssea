@@ -57,12 +57,12 @@ const VictoryWings = () => {
                         style={{ position: "relative", marginBottom: "100px" }}
                     >
                         <a className="photo_item" href="/opera">
-                            <img className="picture" src={opera} alt="potemkinStairs" />
+                            <img className="picture" src={opera} alt="opera" />
                             <span className="photo_block-item"></span>
                             <span className="photo_item_title">{general["opera"]}</span>
                         </a>
                         <a className="photo_item" href="/theater-garden">
-                            <img className="picture" src={theaterGarden} alt="dukeMonument" />
+                            <img className="picture" src={theaterGarden} alt="theaterGarden" />
                             <span className="photo_block-item"></span>
                             <span className="photo_item_title">{general["theaterGarden"]}</span>
                         </a>
@@ -75,7 +75,6 @@ const VictoryWings = () => {
                     </div>
                 </div>
             </div>
-
         </div>
     )
 }
