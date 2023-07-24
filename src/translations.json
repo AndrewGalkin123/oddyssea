@@ -773,6 +773,37 @@
       "passageEnding": "Отже, Пасаж у Одесі - це не просто будівля, це історичний шедевр та символ культурного скарбу міста. Він запрошує всіх насолодитися його унікальною атмосферою та стати частиною великої історії Одеси. Це місце, де час зупиняється, а душа знаходить своє натхнення та гармонію."
     }
   },
+  "victoryWings": {
+    "ru": {
+      "title": "Крылья Победы в Одессе: Памятник Героизма и Патриотизма",
+      "description": "Крылья Победы, возвышающиеся в городе-герое Одессе, являются знаковым символом славы и памяти, посвященным героическому сопротивлению и освобождению города от немецко-фашистских захватчиков. Этот великолепный монумент был возведен в 1984 году, в честь 40-летия освобождения Одессы войсками 3-го Украинского фронта 10 апреля 1944 года.",
+      "idea": "Идея возведения Крыльев Победы возникла в знак благодарности и уважения к героизму тех, кто сражался за свободу и независимость Одессы в годы Великой Отечественной Войны. Монумент стал памятником не только воинам, но и мирному населению, которое терпеливо переносило страшные испытания во время оккупации. Он стал символом единства, силы и непреклонности народа Одессы, который несмотря на тяжелые времена, смог справиться с агрессорами и вернуть свой родной город.",
+      "monumentDescription": "Крылья Победы представляют собой величественный архитектурный комплекс. Главным элементом монумента являются две бетонные крылья, которые распахиваются в знак победы и свободы. На фоне гранитного обелиска возвышается золоченая звезда, символизирующая победу и сияющее будущее. Весь ансамбль дополнен мемориальными досками с именами героев и солдат, павших за Одессу в годы войны.",
+      "location": "Местоположение Крыльев Победы тщательно выбиралось, и оно стало еще одним доказательством уникального значения монумента. Он стоит на Площади 10 Апреля, что символизирует дату освобождения города. Площадь оформлена в виде звезды, отражая славу и победу, которые олицетворяют Крылья Победы.",
+      "significance": "С 1984 года монумент стал одним из главных символов Одессы. Ежегодно, в День Победы, тысячи людей собираются у Крыльев Победы, чтобы возложить цветы и зажечь свечи в память о героях. Это место стало центром патриотических мероприятий, концертов, митингов и праздничных мероприятий, напоминая всем о значимости воинской славы и мужества.",
+      "patriotism": "Крылья Победы не только воплощают память о минувших событиях, но и являются местом воспитания патриотизма и чувства гордости за свою страну. Они напоминают каждому о том, что мир дорог и ценен, и что его защита требует единства и силы всех народов. Этот монумент стал святым местом для многих поколений и будет продолжать вдохновлять будущие поколения сохранять мир и гармонию в своей стране и в мире."
+    },
+    "en": {
+      "title": "Wings of Victory in Odessa: Monument of Heroism and Patriotism",
+      "description": "Wings of Victory, soaring in the city of heroism Odessa, are a significant symbol of glory and remembrance, dedicated to the heroic resistance and liberation of the city from the German fascist invaders. This magnificent monument was erected in 1984, in honor of the 40th anniversary of Odessa's liberation by the forces of the 3rd Ukrainian Front on April 10, 1944.",
+      "idea": "The idea of constructing the Wings of Victory emerged as an expression of gratitude and respect for the heroism of those who fought for the freedom and independence of Odessa during the years of the Great Patriotic War. The monument became a tribute not only to the soldiers but also to the civilian population, who endured hardships during the occupation. It became a symbol of unity, strength, and resilience of the people of Odessa, who, despite challenging times, managed to overcome the aggressors and reclaim their native city.",
+      "monumentDescription": "The Wings of Victory feature a majestic architectural complex. The main elements of the monument are two concrete wings, spreading wide in a sign of victory and freedom. Against the background of the granite obelisk, a gilded star rises, symbolizing victory and a bright future. The entire ensemble is complemented by memorial plaques with the names of the heroes and soldiers who fell for Odessa during the war.",
+      "location": "The location of the Wings of Victory was carefully chosen, and it became another evidence of the monument's unique significance. It stands on the 10th of April Square, symbolizing the date of the city's liberation. The square is designed in the shape of a star, reflecting the glory and victory embodied by the Wings of Victory.",
+      "significance": "Since 1984, the monument has become one of the main symbols of Odessa. Every year, on Victory Day, thousands of people gather at the Wings of Victory to lay flowers and light candles in memory of the heroes. The place has become a center of patriotic events, concerts, rallies, and festive celebrations, reminding everyone of the importance of military glory and heroism.",
+      "patriotism": "The Wings of Victory not only embody the memory of past events but also serve as a place for nurturing patriotism and a sense of pride in one's country. They remind each and every one that peace is precious and valuable, and its protection requires the unity and strength of all nations. This monument has become a sacred place for many generations and will continue to inspire future generations to preserve peace and harmony in their country and the world."
+    },
+    "uk": {
+      "title": "Крила Перемоги в Одесі: Пам'ятник Героїзму та Патріотизму",
+      "description": "Крила Перемоги, які спрямовано у небо у місті-герої Одесі, є символом слави та пам'яті, присвяченим героїчному опору та звільненню міста від німецько-фашистських загарбників. Цей величний монумент був зведений в 1984 році до 40-річчя звільнення Одеси військами 3-го Українського фронту 10 квітня 1944 року.",
+      "idea": "Ідея створення Крил Перемоги виникла як прояв вдячності та поваги до героїзму тих, хто боровся за свободу та незалежність Одеси у роки Великої Вітчизняної Війни. Монумент став не лише пам'ятником воякам, а й мирному населенню, яке терпляче переносило страшні випробування під час окупації. Він став символом єдності, сили та непохитності народу Одеси, який, незважаючи на важкі часи, зміг справитися з агресорами та повернути своє рідне місто.",
+      "monumentDescription": "Крила Перемоги представляють собою величний архітектурний комплекс. Головним елементом монумента є два бетонних крила, які розкриваються як символ перемоги та свободи. На тлі гранітного обеліска височить золотава зірка, що символізує перемогу та світле майбутнє. Весь ансамбль доповнений меморіальними дошками з іменами героїв та солдатів, що полегли за Одесу у роки війни.",
+      "location": "Місцезнаходження Крил Перемоги було добре обрано, і воно стало ще одним доказом унікального значення монумента. Він стоїть на Площі 10 Квітня, що символізує дату звільнення міста. Площа оформлена у вигляді зірки, відображаючи славу та перемогу, які олицетворюють Крила Перемоги.",
+      "significance": "З 1984 року монумент став одним із головних символів Одеси. Щороку, у День Перемоги, тисячі людей збираються біля Крил Перемоги, щоб покласти квіти та запалити свічки в пам'ять про героїв. Це місце стало центром патріотичних заходів, концертів, мітингів та святкових подій, нагадуючи всім про значимість воєнної слави та мужності.",
+      "patriotism": "Крила Перемоги не тільки втілюють пам'ять про минулі події, але й є місцем виховання патріотизму та почуття гордості за свою країну. Вони нагадують кожному, що мир є дорогим і цінним, і його захист потребує єдності та сили всіх народів. Цей монумент став святим місцем для багатьох поколінь і буде продовжувати надихати майбутні покоління зберігати мир і гармонію у своїй країні та у світі."
+    }
+  },
+
+
 
 
 
@@ -791,7 +822,8 @@
       "dukeMonument": "Памятник Дюку де Ришелье",
       "vorontsovPalace": "Воронцовский дворец",
       "pushkinMonument": "Памятник А.С.Пушкину",
-      "odessaPassage": "Пассаж"
+      "odessaPassage": "Пассаж",
+      "victoryWings": "Крылья Победы"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -807,7 +839,8 @@
       "dukeMonument": "Пам'ятник Герцогу де Рішельє",
       "vorontsovPalace": "Воронцовський палац",
       "pushkinMonument": "Пам'ятник А.С.Пушкіну",
-      "odessaPassage": "Пасаж"
+      "odessaPassage": "Пасаж",
+      "victoryWings": "Крила Перемоги"
     },
     "en": {
       "readTextButton": "Read article",
@@ -823,7 +856,8 @@
       "dukeMonument": "Monument to Duke de Richelieu",
       "vorontsovPalace": "Vorontsov Palace",
       "pushkinMonument": "Monument to A.S. Pushkin",
-      "odessaPassage": "Passage"
+      "odessaPassage": "Passage",
+      "victoryWings": "Wings of Victory"
     }
   }
 }
