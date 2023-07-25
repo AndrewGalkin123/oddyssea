@@ -1,9 +1,9 @@
 import React, { useContext, useRef } from "react";
 import { LanguageContext } from "../../contexts/LanguageContext";
 import translations from "../../translations.json";
-import odessaFerrisWheel from "../../assets/historyImages/picturepicture15282_22973.jpg"
-import pushkinMonument from "../../assets/historyImages/fb69fd5d-6c77-4c18-9deb-7d64479ddd3f.jpeg";
-import passage from "../../assets/historyImages/f8493e1f-aefc-4e00-8e2c-35e1b8a8f219.jpeg"
+import potemkinStairs from "../../assets/historyImages/1672697476_pro-dachnikov-com-p-potemkinskaya-lestnitsa-v-odesse-skolko-st-2.jpg";
+import dukeMonument from "../../assets/historyImages/55721a66-22b2-43bf-8eb6-315e5be369c6.jpeg"
+import vorontsovskyLighthouse from "../../assets/historyImages/lighthouse.jpg"
 import vorontsovMonumentImage1 from "../../assets/historyImages/3332fcc6-590f-446b-bab9-f93b911b5951.jpeg";
 import vorontsovMonumentImage2 from "../../assets/historyImages/095d7ccb-f507-4615-8ae4-5db33a7bd0ae.jpeg";
 
@@ -59,20 +59,20 @@ const VorontsovMonument = () => {
                         className="photo_item_container"
                         style={{ position: "relative", marginBottom: "100px" }}
                     >
-                        <a className="photo_item" href="/pushkin-monument">
-                            <img className="picture" src={pushkinMonument} alt="pushkinMonument" />
+                        <a className="photo_item" href="/potemkin-stairs">
+                            <img className="picture" src={potemkinStairs} alt="potemkinStairs" />
                             <span className="photo_block-item"></span>
-                            <span className="photo_item_title">{general["pushkinMonument"]}</span>
+                            <span className="photo_item_title">{general["potemkinStairs"]}</span>
                         </a>
-                        <a className="photo_item" href="/amusement-park">
-                            <img className="picture" src={odessaFerrisWheel} alt="lunapark" />
+                        <a className="photo_item" href="/duke-monument">
+                            <img className="picture" src={dukeMonument} alt="dukeMonument" />
                             <span className="photo_block-item"></span>
-                            <span className="photo_item_title">{general["lunapark"]}</span>
+                            <span className="photo_item_title">{general["dukeMonument"]}</span>
                         </a>
-                        <a className="photo_item" href="/passage">
-                            <img className="picture" src={passage} alt="passage" />
+                        <a className="photo_item" href="/vorontsov-lighthouse">
+                            <img className="picture" src={vorontsovskyLighthouse} alt="vorontsovLighthouse" />
                             <span className="photo_block-item"></span>
-                            <span className="photo_item_title">{general["odessaPassage"]}</span>
+                            <span className="photo_item_title">{general["vorontsovLighthouse"]}</span>
                         </a>
 
                     </div>
