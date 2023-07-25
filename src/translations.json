@@ -840,7 +840,38 @@
       "beautySymbol": "Парк Перемоги - це символ краси, пам'яті та задоволення. Він є коштовним скарбом Одеси, який приваблює туристів та місцевих жителів своєю величезною атмосферою та унікальною історією. Це місце, де можна знайти внутрішній спокій і захоплюватись величчю природи та архітектури."
     }
   },
-
+  "vorontsovMonumentOdessa": {
+    "ru": {
+      "title": "Памятник Михаилу Воронцову: Вечное Восхищение и Уважение к Великому Государственному Деятелю",
+      "description": "Одесса, город богатой истории и культурного наследия, с гордостью приветствует своих знаменитых личностей, которые сыграли ключевую роль в её развитии и процветании. Один из таких выдающихся деятелей, которому был установлен памятник в центре города рядом с Спасо-Преображенским собором, - это Михаил Семенович Воронцов.",
+      "admirationRespect": "Памятник Михаилу Воронцову является символом восхищения и уважения к этому выдающемуся российскому государственному и военному деятелю, который стоял у истоков преображения Одессы в престижный город и одну из крупнейших морских держав.",
+      "remarkableAchievements": "Михаил Семенович Воронцов был родом из старинного дворянского рода и отличался не только благородством происхождения, но и выдающимися способностями и талантами. Он занимал высокие государственные должности, в том числе должность генерал-губернатора Новороссийского края и Бессарабии. Воронцов смог сделать Одессу одним из самых важных морских портов и торговых центров в Российской империи, способствовав развитию торговли, промышленности и культуры в регионе.",
+      "monumentEstablishment": "Памятник Михаилу Воронцову был установлен в 1863 году на площади, окруженной живописными садами и зелеными аллеями, недалеко от Спасо-Преображенского собора. Этот памятник является величественным произведением искусства, созданным скульптором Леопольдом Берхольцем. Статуя Воронцова изображена во всей своей славе и величии, стоящего на постаменте с воинской гордостью и достоинством.",
+      "architecturalStyle": "Архитектурный стиль памятника сочетает элементы неоклассицизма и романтизма, что придает ему особый шарм и великолепие. Выразительные детали и пропорции статуи пленят сердца всех, кто видит этот памятник, и подчеркивают важность и влияние Михаила Воронцова на развитие Одессы и всего региона.",
+      "symbolOfGratitude": "Памятник Михаилу Воронцову стал не только символом городской гордости и исторической значимости, но и местом, где горожане и туристы могут увековечить память о великом государственном деятеле, возложить цветы и выразить свою признательность за его заслуги перед городом.",
+      "exploringHistory": "Посещение памятника Михаилу Воронцову - это возможность окунуться в историю Одессы, узнать о жизни и деятельности этого выдающегося деятеля, который оставил неизгладимый след в истории города. Этот памятник напоминает нам о важности сохранения культурного наследия и уважении к тем, кто служил."
+    },
+    "en": { 
+      "title": "Mikhail Vorontsov Monument: Eternal Admiration and Respect for a Great Statesman",
+      "description": "Odessa, a city rich in history and cultural heritage, proudly welcomes its famous personalities who have played a key role in its development and prosperity. One of such outstanding figures, to whom a monument was erected in the city center next to the Transfiguration Cathedral, is Mikhail Semenovich Vorontsov.",
+      "admirationRespect": "The Mikhail Vorontsov Monument stands as a symbol of admiration and respect for the eminent Russian statesman and military figure who played a pivotal role in the development and prosperity of Odessa as a prestigious city and a major maritime power.",
+      "remarkableAchievements": "Mikhail Semenovich Vorontsov hailed from an ancient noble family and was distinguished not only by his noble lineage but also by exceptional abilities and talents. He held high-ranking governmental positions, including the post of Governor-General of Novorossiya and Bessarabia. Vorontsov succeeded in transforming Odessa into one of the most important maritime ports and trading hubs in the Russian Empire, contributing to the growth of commerce, industry, and culture in the region.",
+      "monumentEstablishment": "The Mikhail Vorontsov Monument was erected in 1863 on a square surrounded by picturesque gardens and green alleys, close to the Spaso-Preobrazhensky Cathedral. This monument is a grand masterpiece of art, created by sculptor Leopold Berkholtz. The statue of Vorontsov is depicted in all its glory and magnificence, standing on a pedestal with military dignity and pride.",
+      "architecturalStyle": "The architectural style of the monument combines elements of neoclassicism and romanticism, giving it a special charm and grandeur. The expressive details and proportions of the statue captivate the hearts of all who behold this monument, emphasizing the importance and influence of Mikhail Vorontsov on the development of Odessa and the entire region.",
+      "symbolOfGratitude": "The Mikhail Vorontsov Monument not only represents the city's pride and historical significance but also serves as a place where locals and tourists can perpetuate the memory of the great statesman, lay flowers, and express their gratitude for his contributions to the city.",
+      "exploringHistory": "Visiting the Mikhail Vorontsov Monument offers an opportunity to immerse oneself in Odessa's history, learn about the life and achievements of this outstanding figure who left an indelible mark on the city's history. This monument reminds us of the importance of preserving cultural heritage and showing respect to those who served their homeland."
+    },
+    "uk": {
+      "title": "Пам'ятник Михайлу Воронцову: Вічне Захоплення та Повага до Великого Державного Діяча",
+      "description": "Одеса, місто багатої історії та культурної спадщини, з гордістю вітає своїх знаменитих особистостей, які відіграли ключову роль у її розвитку та процвітанні. Один із таких видатних діячів, якому було встановлено пам'ятник у центрі міста поряд із Спасо-Преображенським собором, – це Михайло Семенович Воронцов.",
+      "admirationRrespect": "Пам'ятник Михайлу Воронцову є символом захоплення та поваги до видатного російського державного і військового діяча, який стояв біля джерел становлення Одеси як престижного міста та однієї з найбільших морських держав.",
+      "remarkableAchievements": "Михайло Семенович Воронцов належав до старовинного дворянського роду і відзначався не тільки благородством походження, але й видатними здібностями та талантами. Він займав високі державні посади, зокрема, посаду генерал-губернатора Новоросійського краю та Бессарабії. Воронцов зумів зробити Одесу одним з найважливіших морських портів та торгових центрів в Російській імперії, сприявши розвитку торгівлі, промисловості та культури в регіоні.",
+      "monumentEtablishment": "Пам'ятник Михайлу Воронцову був встановлений у 1863 році на площі, оточеній мальовничими садами та зеленими алеями, неподалік від Спасо-Преображенського собору. Цей пам'ятник є величезним шедевром мистецтва, створеним скульптором Леопольдом Берхольцем. Статуя Воронцова зображена у всій своїй славі та величі, стоячи на підставці з воєнною гідністю та гордістю.",
+      "architecturalStyle": "Архітектурний стиль пам'ятника поєднує в собі елементи неокласицизму та романтизму, що надає йому особливий шарм та велич. Виразні деталі та пропорції статуї підкорюють серця всіх, хто бачить цей пам'ятник, та підкреслюють важливість і вплив Михайла Воронцова на розвиток Одеси та всього регіону.",
+      "symbolOfGratitude": "Пам'ятник Михайлу Воронцову став не лише символом міської гордості та історичної значущості, але й місцем, де місцеві жителі та туристи можуть увічнити пам'ять про великого державного діяча, покласти квіти та висловити свою подяку за його заслуги перед містом.",
+      "exploringHistory": "Відвідування пам'ятника Михайлу Воронцову - це можливість зануритися в історію Одеси, дізнатися про життя та діяльність цього видатного діяча, який залишив незабутній слід в історії міста. Цей пам'ятник нагадує нам про важливість збереження культурної спадщини та поваги до тих, хто служив своїй батьківщині."
+    }
+  },
 
 
 
@@ -862,7 +893,8 @@
       "pushkinMonument": "Памятник А.С.Пушкину",
       "odessaPassage": "Пассаж",
       "victoryWings": "Крылья Победы",
-      "victoryPark": "Парк Победы"
+      "victoryPark": "Парк Победы",
+      "vorontsovMonument": "Памятник Михаилу Воронцову"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -880,7 +912,8 @@
       "pushkinMonument": "Пам'ятник А.С.Пушкіну",
       "odessaPassage": "Пасаж",
       "victoryWings": "Крила Перемоги",
-      "victoryPark": "Парк Перемоги"
+      "victoryPark": "Парк Перемоги",
+      "vorontsovMonument": "Пам'ятник Михайлу Воронцову"
     },
     "en": {
       "readTextButton": "Read article",
@@ -898,7 +931,8 @@
       "pushkinMonument": "Monument to A.S. Pushkin",
       "odessaPassage": "Passage",
       "victoryWings": "Wings of Victory",
-      "victoryPark": "Park of Victory"
+      "victoryPark": "Park of Victory",
+      "vorontsovMonument": "Mikhail Vorontsov Monument"
     }
   }
 }
