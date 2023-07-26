@@ -1,16 +1,15 @@
 import React, { useContext, useRef } from "react";
 import { LanguageContext } from "../../contexts/LanguageContext";
 import translations from "../../translations.json";
-import victoryWings from "../../assets/historyImages/victoryWings.png";
 import victoryPark from "../../assets/historyImages/victory-park-2.jpeg"
 import vorontsovMonument from "../../assets/historyImages/dc359f97-ea22-4ed3-84c7-242ca890f28b.jpeg";
-import shahskyPalaceImage1 from "../../assets/historyImages/c684a93d-4f1e-4992-9861-35227a52b326.jpeg"
-import shahskyPalaceImage2 from "../../assets/historyImages/608863b2-392a-486d-bbc3-ef83b56e94d7.jpeg"
-import shahskyPalaceImage3 from "../../assets/historyImages/072c1246-e1f2-4a09-8128-d19cd74eb565.jpeg"
+import shahskyPalace from "../../assets/historyImages/608863b2-392a-486d-bbc3-ef83b56e94d7.jpeg"
+import shevchenkoParkImage1 from "../../assets/historyImages/odessa-2581026_1920.jpg";
+import shevchenkoParkImage2 from "../../assets/historyImages/5afb76a5-018d-4288-8388-5a09e009b436.jpeg";
 
-const ShahskyPalace = () => {
+const ShevchenkoPark = () => {
     const { currentLanguage } = useContext(LanguageContext);
-    const shahskyPalaceTranslations = translations.shahskyPalace[currentLanguage];
+    const shevchenkoParkTranslations = translations.shevchenkoPark[currentLanguage];
     const general = translations.general[currentLanguage];
 
     const textContentRef = useRef(null);
@@ -22,8 +21,8 @@ const ShahskyPalace = () => {
         <div>
             <iframe
                 className="location"
-                src="https://www.google.com/maps/embed?pb=!4v1690397237644!6m8!1m7!1sCAoSLEFGMVFpcE44clEzOU54RHJrRGNEclBsTzJlVnVkbHBVVU5kd1FHTzdTcllf!2m2!1d46.49101342844211!2d30.73523510449729!3f235.59518114176174!4f31.642611995693613!5f0.7820865974627469" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            <div className="buttons">
+                src="https://www.google.com/maps/embed?pb=!4v1690399069770!6m8!1m7!1sCAoSLEFGMVFpcFBOM2RaTUUyaGJZZDRSeXRyVXRXY2F0N2dla19QWGtUQkFwOE1j!2m2!1d46.47936803598829!2d30.75080778150596!3f249.88357323367381!4f14.406873048637834!5f0.7820865974627469" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+         <div className="buttons">
                 <button className="scroll-button" onClick={handleScrollButtonClick}>{general["readTextButton"]}</button>
                 <a href="/contacts">
                     <button className="redirect-button">{general["shareEmotionsButton"]}</button>
@@ -43,18 +42,15 @@ const ShahskyPalace = () => {
                 <div className="textContent" style={{ maxWidth: "900px" }} ref={textContentRef}>
                     <br></br>
                     <br></br>
-                    <h1>{shahskyPalaceTranslations["title"]}</h1>  <br />
-                    <p>{shahskyPalaceTranslations["description"]}</p><br></br>
-                    <img className="article_images" alt="shahskyPalaceImage" src={shahskyPalaceImage1}></img><br></br><br></br>
-                    <p>{shahskyPalaceTranslations["historyOrigin"]}</p>
-                    <p>{shahskyPalaceTranslations["impressiveFacade"]}</p><br></br>
-                    <img className="article_images" alt="shahskyPalaceImage" src={shahskyPalaceImage2}></img><br></br><br></br>
-                    <p>{shahskyPalaceTranslations["luxuriousInteriors"]}</p>
-                    <p>{shahskyPalaceTranslations["culturalEvents"]}</p><br></br>
-                    <p>{shahskyPalaceTranslations["touristAttraction"]}</p><br></br>
-
-                    <p>{shahskyPalaceTranslations["unforgettableExperience"]}</p><br></br>
-                    <img className="article_images" alt="shahskyPalaceImage" src={shahskyPalaceImage3}></img>
+                    <h1>{shevchenkoParkTranslations["title"]}</h1>  <br />
+                    <p>{shevchenkoParkTranslations["description"]}</p><br></br>
+                    <img className="article_images" alt="shevchenkoParkImage" src={shevchenkoParkImage1}></img><br></br><br></br>
+                    <p>{shevchenkoParkTranslations["diversityOfNature"]}</p>
+                    <p>{shevchenkoParkTranslations["familyActivities"]}</p><br></br>
+                    <img className="article_images" alt="shevchenkoParkImage" src={shevchenkoParkImage2}></img><br></br><br></br>
+                    <p>{shevchenkoParkTranslations["culturalValues"]}</p><br></br>
+                    <p>{shevchenkoParkTranslations["integralPartOfLife"]}</p><br></br>    
+                   
                     
                 </div>
                 <div className="otherContent">
@@ -63,10 +59,10 @@ const ShahskyPalace = () => {
                         className="photo_item_container"
                         style={{ position: "relative", marginBottom: "100px" }}
                     >
-                        <a className="photo_item" href="/victory-wings">
-                            <img className="picture" src={victoryWings} alt="victoryWings" />
+                        <a className="photo_item" href="/shahsky-palace">
+                            <img className="picture" src={shahskyPalace} alt="shahskyPalace" />
                             <span className="photo_block-item"></span>
-                            <span className="photo_item_title">{general["victoryWings"]}</span>
+                            <span className="photo_item_title">{general["shahskyPalace"]}</span>
                         </a>
                         <a className="photo_item" href="/victory-park">
                             <img className="picture" src={victoryPark} alt="victoryPark" />
@@ -82,9 +78,8 @@ const ShahskyPalace = () => {
                     </div>
                 </div>
             </div>
-        
         </div>
     )
 }
 
-export default ShahskyPalace;
+export default ShevchenkoPark;

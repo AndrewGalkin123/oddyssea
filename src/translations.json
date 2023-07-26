@@ -904,7 +904,35 @@
       "unforgettableExperience": "Відвідування Шахського палацу - це незабутній досвід, який залишить враження у кожного. Його архітектурна краса та історичне значення дозволяють зануритися в минуле та відчути дух великої епохи. Шахський палац - це не просто будівля, це символ культурної спадщини та величі Одеси, який продовжує привертати увагу та захоплення покоління за поколінням."
     }
   },
-
+  "shevchenkoPark": {
+    "ru": {
+      "title": "Парк Шевченко в Одессе: Зеленый оазис и место для отдыха и развлечений",
+      "description": "Парк имени Тараса Шевченко, известный как Парк Шевченко, является одним из самых привлекательных и популярных мест в Одессе для отдыха, прогулок и отмечания семейных праздников. Этот зеленый оазис расположен в центральной части города и очаровывает своей красотой, природой и разнообразием развлечений.",
+      "historyOrigin": "История Парка Шевченко насчитывает несколько десятилетий. Он был основан во второй половине XIX века и постоянно расширялся и преображался на протяжении лет. Сегодня Парк Шевченко занимает большую территорию и стал важным центром отдыха для местных жителей и туристов.",
+      "diversityOfNature": "Особенность парка заключается в разнообразии природы и ландшафтов. Здесь можно встретить густые леса, цветущие сады, широкие аллеи, большие водоемы и живописные озера. Любители природы и зеленых насаждений смогут наслаждаться спокойствием и красотой окружающей среды, а активные отдыхающие найдут много возможностей для занятий спортом и различными развлечениями.",
+      "familyActivities": "Парк Шевченко стал популярным местом для прогулок семьями, пикников и отдыха на свежем воздухе. Здесь можно найти уютные скамейки и площадки для детей, а также участки для барбекю. В парке проводятся разнообразные мероприятия, концерты и выставки, которые привлекают множество гостей.",
+      "culturalValues": "Культурные ценности парка также играют важную роль в его привлекательности. В парке расположены множество скульптур и памятников, посвященных известным личностям и историческим событиям. Также здесь находится памятник самому Тарасу Шевченко, известному украинскому поэту и художнику.",
+      "integralPartOfLife": "Парк Шевченко стал неотъемлемой частью культурного и социального жизни Одессы. Он предлагает своим посетителям место уединения с природой, возможность провести время с семьей и друзьями, а также насладиться красотой и атмосферой этого уникального места. Неважно, ищете ли вы спокойствия или активного времяпрепровождения, Парк Шевченко всегда готов радовать вас своими прекрасными уголками и возможностями для отдыха и развлечений."
+    },
+    "en": {
+      "title": "Shevchenko Park in Odessa: A Green Oasis for Relaxation and Entertainment",
+      "description": "Named after the famous Ukrainian poet Taras Shevchenko, Shevchenko Park, also known as Park Shevchenko, is one of the most attractive and popular places in Odessa for leisure, walks, and family celebrations. This green oasis is located in the central part of the city and captivates visitors with its beauty, nature, and a variety of entertainment options.",
+      "historyOrigin": "The history of Shevchenko Park goes back several decades. It was founded in the second half of the 19th century and has been continuously expanded and transformed over the years. Today, Shevchenko Park covers a large area and has become an important recreational center for locals and tourists alike.",
+      "diversityOfNature": "The park's unique feature lies in its diverse nature and landscapes. Here, you can find dense forests, blooming gardens, wide alleys, large bodies of water, and picturesque lakes. Nature enthusiasts and those seeking tranquility can enjoy the peacefulness and beauty of the surroundings, while active visitors will find many opportunities for sports and various amusements.",
+      "familyActivities": "Shevchenko Park has become a popular spot for family strolls, picnics, and outdoor relaxation. It offers cozy benches and playgrounds for children, as well as designated areas for barbecues. The park hosts various events, concerts, and exhibitions that attract numerous guests.",
+      "culturalValues": "Cultural values also play a significant role in the park's attractiveness. It is adorned with numerous sculptures and monuments dedicated to famous personalities and historical events. Notably, there is a monument to Taras Shevchenko himself, the renowned Ukrainian poet and artist.",
+      "integralPartOfLife": "Shevchenko Park has become an integral part of Odessa's cultural and social life. It offers its visitors a place to reconnect with nature, spend time with family and friends, and appreciate the beauty and atmosphere of this unique location. Whether you are looking for tranquility or active leisure, Shevchenko Park is always ready to delight you with its beautiful corners and opportunities for relaxation and entertainment."
+    },
+    "uk": {
+      "title": "Парк Шевченка в Одесі: Зелений оазис для відпочинку та розваг",
+      "description": "Шевченківський парк, відомий також як Парк Шевченка, названий на честь знаменитого українського поета Тараса Шевченка, є одним із найпривабливіших та популярних місць в Одесі для відпочинку, прогулянок та сімейних свят. Цей зелений оазис знаходиться в центральній частині міста і зачаровує своєю красою, природою та різноманітними розвагами.",
+      "historyOrigin": "Історія Парку Шевченка нараховує кілька десятиліть. Він був заснований у другій половині XIX століття та постійно розширювався та перетворювався на протязі років. Сьогодні Парк Шевченка охоплює велику площу і став важливим рекреаційним центром для місцевих жителів та туристів.",
+      "diversityOfNature": "Унікальність парку полягає в його різноманітності природи та ландшафтів. Тут можна зустріти густі ліси, квітучі сади, широкі алеї, великі водойми та мальовничі озера. Любителі природи та зелених насаджень можуть насолоджуватися спокоєм та красою оточуючого середовища, а активні відпочиваючі знайдуть багато можливостей для занять спортом та різними розвагами.",
+      "familyActivities": "Парк Шевченка став популярним місцем для прогулянок сім'ями, пікніків та відпочинку на свіжому повітрі. Тут є затишні лавки та дитячі майданчики, а також спеціальні місця для барбекю. У парку проводяться різноманітні заходи, концерти та виставки, що привертають багато гостей.",
+      "culturalValues": "Культурні цінності також відіграють важливу роль у привабливості парку. Тут розташовані численні скульптури та пам'ятники, присвячені відомим особистостям та історичним подіям. Зокрема, є пам'ятник самому Тарасу Шевченку, відомому українському поету та художнику.",
+      "integralPartOfLife": "Парк Шевченка став невід'ємною частиною культурного та соціального життя Одеси. Він пропонує своїм відвідувачам місце злагоди з природою, можливість провести час з родиною та друзями, а також насолодитися красою та атмосферою цього унікального місця. Незалежно від того, чи шукаєте ви спокою або активного дозвілля, Парк Шевченка завжди готовий радувати вас своїми прекрасними куточками та можливостями для відпочинку та розваг."
+    }
+  },
 
 
 
@@ -927,7 +955,8 @@
       "victoryWings": "Крылья Победы",
       "victoryPark": "Парк Победы",
       "vorontsovMonument": "Памятник Михаилу Воронцову",
-      "shahskyPalace": "Шахский дворец"
+      "shahskyPalace": "Шахский дворец",
+      "shevchenkoPark": "Парк Шевченко"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -947,7 +976,8 @@
       "victoryWings": "Крила Перемоги",
       "victoryPark": "Парк Перемоги",
       "vorontsovMonument": "Пам'ятник Михайлу Воронцову",
-      "shahskyPalace": "Шахський палац"
+      "shahskyPalace": "Шахський палац",
+      "shevchenkoPark": "Парк Шевченка"
     },
     "en": {
       "readTextButton": "Read article",
@@ -967,7 +997,8 @@
       "victoryWings": "Wings of Victory",
       "victoryPark": "Park of Victory",
       "vorontsovMonument": "Mikhail Vorontsov Monument",
-      "shahskyPalace": "Shahsky Palace"
+      "shahskyPalace": "Shahsky Palace",
+      "shevchenkoPark": "Shevchenko Park"
     }
   }
 }

@@ -15,6 +15,9 @@ import victoryWings from "../../../assets/historyImages/victoryWings.png";
 import victoryPark from "../../../assets/historyImages/victory-park-2.jpeg"
 import vorontsovMonument from "../../../assets/historyImages/dc359f97-ea22-4ed3-84c7-242ca890f28b.jpeg";
 import shahskyPalace from "../../../assets/historyImages/608863b2-392a-486d-bbc3-ef83b56e94d7.jpeg"
+import shevchenkoPark from "../../../assets/historyImages/5afb76a5-018d-4288-8388-5a09e009b436.jpeg"
+
+
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -167,14 +170,14 @@ const HistoryBlock = () => {
               <span className="photo_item_title">{general["vorontsovMonument"]}</span>
             </a>
             <a className="photo_item" href="/shahsky-palace">
-              <img className="picture" src={shahskyPalace} alt="descent coast" />
+              <img className="picture" src={shahskyPalace} alt="shahskyPalace" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["shahskyPalace"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/shevchenko-park">
+              <img className="picture" src={shevchenkoPark} alt="shevchenkoPark" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["shevchenkoPark"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
