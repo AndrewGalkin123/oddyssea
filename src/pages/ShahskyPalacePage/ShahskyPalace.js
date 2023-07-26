@@ -4,12 +4,13 @@ import translations from "../../translations.json";
 import potemkinStairs from "../../assets/historyImages/1672697476_pro-dachnikov-com-p-potemkinskaya-lestnitsa-v-odesse-skolko-st-2.jpg";
 import dukeMonument from "../../assets/historyImages/55721a66-22b2-43bf-8eb6-315e5be369c6.jpeg"
 import vorontsovskyLighthouse from "../../assets/historyImages/lighthouse.jpg"
-import vorontsovMonumentImage1 from "../../assets/historyImages/3332fcc6-590f-446b-bab9-f93b911b5951.jpeg";
-import vorontsovMonumentImage2 from "../../assets/historyImages/095d7ccb-f507-4615-8ae4-5db33a7bd0ae.jpeg";
+import shahskyPalaceImage1 from "../../assets/historyImages/c684a93d-4f1e-4992-9861-35227a52b326.jpeg"
+import shahskyPalaceImage2 from "../../assets/historyImages/608863b2-392a-486d-bbc3-ef83b56e94d7.jpeg"
+import shahskyPalaceImage3 from "../../assets/historyImages/072c1246-e1f2-4a09-8128-d19cd74eb565.jpeg"
 
-const VorontsovMonument = () => {
+const ShahskyPalace = () => {
     const { currentLanguage } = useContext(LanguageContext);
-    const vorontsovMonumentTranslations = translations.vorontsovMonumentOdessa[currentLanguage];
+    const shahskyPalaceTranslations = translations.shahskyPalace[currentLanguage];
     const general = translations.general[currentLanguage];
 
     const textContentRef = useRef(null);
@@ -21,7 +22,7 @@ const VorontsovMonument = () => {
         <div>
             <iframe
                 className="location"
-                src="https://www.google.com/maps/embed?pb=!4v1690304115367!6m8!1m7!1sCAoSK0FGMVFpcE9hVmx2dUlNcU9ta0RmNTJZQTBnc21lczlyRXZ6dUJqNHFwREk.!2m2!1d46.48412615434913!2d30.73179361208474!3f269.99182527856095!4f15.384392587559816!5f1.187125700565809" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                src="https://www.google.com/maps/embed?pb=!4v1690397237644!6m8!1m7!1sCAoSLEFGMVFpcE44clEzOU54RHJrRGNEclBsTzJlVnVkbHBVVU5kd1FHTzdTcllf!2m2!1d46.49101342844211!2d30.73523510449729!3f235.59518114176174!4f31.642611995693613!5f0.7820865974627469" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             <div className="buttons">
                 <button className="scroll-button" onClick={handleScrollButtonClick}>{general["readTextButton"]}</button>
                 <a href="/contacts">
@@ -42,16 +43,19 @@ const VorontsovMonument = () => {
                 <div className="textContent" style={{ maxWidth: "900px" }} ref={textContentRef}>
                     <br></br>
                     <br></br>
-                    <h1>{vorontsovMonumentTranslations["title"]}</h1>  <br />
-                    <p>{vorontsovMonumentTranslations["description"]}</p><br></br>
-                    <p>{vorontsovMonumentTranslations["admirationRespect"]}</p><br></br>
-                    <p>{vorontsovMonumentTranslations["remarkableAchievements"]}</p><br></br>
-                    <img className="article_images" alt="vorontsovMonument" src={vorontsovMonumentImage1}></img>
-                    <p>{vorontsovMonumentTranslations["monumentEstablishment"]}</p><br></br>
-                    <p>{vorontsovMonumentTranslations["architecturalStyle"]}</p><br></br>
-                    <p>{vorontsovMonumentTranslations["symbolOfGratitude"]}</p><br></br>
-                    <p>{vorontsovMonumentTranslations["exploringHistory"]}</p><br></br>
-                    <img className="article_images" alt="vorontsovMonument" src={vorontsovMonumentImage2}></img>
+                    <h1>{shahskyPalaceTranslations["title"]}</h1>  <br />
+                    <p>{shahskyPalaceTranslations["description"]}</p><br></br>
+                    <img className="article_images" alt="shahskyPalaceImage" src={shahskyPalaceImage1}></img><br></br><br></br>
+                    <p>{shahskyPalaceTranslations["historyOrigin"]}</p>
+                    <p>{shahskyPalaceTranslations["impressiveFacade"]}</p><br></br>
+                    <img className="article_images" alt="shahskyPalaceImage" src={shahskyPalaceImage2}></img><br></br><br></br>
+                    <p>{shahskyPalaceTranslations["luxuriousInteriors"]}</p>
+                    <p>{shahskyPalaceTranslations["culturalEvents"]}</p><br></br>
+                    <p>{shahskyPalaceTranslations["touristAttraction"]}</p><br></br>
+
+                    <p>{shahskyPalaceTranslations["unforgettableExperience"]}</p><br></br>
+                    <img className="article_images" alt="shahskyPalaceImage" src={shahskyPalaceImage3}></img>
+                    
                 </div>
                 <div className="otherContent">
                     <p className="title">{general["otherContentTitle"]}</p>
@@ -78,8 +82,9 @@ const VorontsovMonument = () => {
                     </div>
                 </div>
             </div>
+        
         </div>
     )
 }
 
-export default VorontsovMonument;
+export default ShahskyPalace;

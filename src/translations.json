@@ -872,6 +872,38 @@
       "exploringHistory": "Відвідування пам'ятника Михайлу Воронцову - це можливість зануритися в історію Одеси, дізнатися про життя та діяльність цього видатного діяча, який залишив незабутній слід в історії міста. Цей пам'ятник нагадує нам про важливість збереження культурної спадщини та поваги до тих, хто служив своїй батьківщині."
     }
   },
+  "shahskyPalace": {
+    "ru": {
+      "title": "Шахский дворец в Одессе: Величие архитектуры и богатая история культурного наследия",
+      "description": "Шахский дворец, также известный как Палац Шаха, является одним из наиболее впечатляющих исторических памятников в Одессе. Этот уникальный дворцовый комплекс привлекает внимание туристов и исторических энтузиастов со всего мира своим величественным архитектурным стилем и захватывающей историей.",
+      "historyOrigin": "История Шахского дворца началась во второй половине XIX века, когда он был построен по заказу шаха Персидской империи Фатх-Али Каджара. За проект отвечал известный архитектор Франц Людвиг, который создал великолепное сочетание ренессансных и неоклассических стилей, придающих дворцу неповторимое впечатление роскоши и элегантности.",
+      "impressiveFacade": "Фасад Шахского дворца удивляет своим изяществом и богатством деталей. Безупречно выполненные статуи, карнизы и барельефы придают зданию особый шарм и великолепие. Огромные окна заполняют интерьеры светом, делая их еще привлекательнее.",
+      "luxuriousInteriors": "Внутри дворца ждут гостей восхитительные интерьеры. Хрустальные люстры, роскошная мебель и утонченные декоративные элементы создают атмосферу дворцового великолепия. Просторные залы и роскошные комнаты заслуживают особого внимания и восхищения.",
+      "culturalEvents": "Шахский дворец долгое время служил местом для проведения культурных и общественных мероприятий, встреч и приемов. Здесь сходились выдающиеся личности своего времени, что придавало дворцу еще больше исторической ценности и славы.",
+      "touristAttraction": "В настоящее время Шахский дворец стал одной из главных туристических достопримечательностей Одессы. Туристы, посещающие город, стремятся увидеть это архитектурное чудо и узнать его захватывающую историю. Дворец стал не только памятником истории, но и местом, где живая история сочетается с современностью.",
+      "unforgettableExperience": "Посещение Шахского дворца - это незабываемый опыт, который оставит впечатление у каждого. Его архитектурная красота и историческое значение позволяют окунуться в прошлое и почувствовать дух великой эпохи. Шахский дворец - это не просто здание, это символ культурного наследия и великолепия Одессы, который продолжает привлекать внимание и восхищение поколения за поколением."
+    },
+    "en": {
+      "title": "Shahsky Palace in Odessa: Grandeur of Architecture and Rich History of Cultural Heritage",
+      "description": "Shahsky Palace, also known as the Palace of Shah, is one of the most impressive historical monuments in Odessa. This unique palace complex attracts tourists and historical enthusiasts from all over the world with its majestic architectural style and captivating history.",
+      "historyOrigin": "The history of Shahsky Palace began in the second half of the 19th century when it was built by order of the Shah of the Persian Empire, Fath-Ali Qajar. The project was carried out by the renowned architect Franz Ludwig, who created a magnificent combination of Renaissance and Neoclassical styles, giving the palace a unique charm and grandeur.",
+      "impressiveFacade": "The facade of Shahsky Palace impresses with its elegance and richness of details. Impeccably executed statues, cornices, and reliefs give the building a special charm and magnificence. Huge windows fill the interiors with light, making them even more attractive.",
+      "luxuriousInteriors": "Inside the palace, guests are greeted with fascinating interiors. Crystal chandeliers, luxurious furniture, and delicate decorative elements create an atmosphere of palace grandeur. Spacious halls and magnificent rooms deserve special attention and admiration.",
+      "culturalEvents": "For a long time, Shahsky Palace served as a venue for cultural and social events, meetings, and receptions. Prominent personalities of the time gathered here, adding even more historical value and glory to the palace.",
+      "touristAttraction": "Today, Shahsky Palace has become one of the main tourist attractions in Odessa. Tourists visiting the city strive to see this architectural marvel and learn about its fascinating history. The palace has become not only a historical monument but also a place where living history blends with modernity.",
+      "unforgettableExperience": "Visiting Shahsky Palace is an unforgettable experience that will leave an impression on everyone. Its architectural beauty and historical significance allow you to immerse yourself in the past and feel the spirit of a great era. Shahsky Palace is not just a building; it is a symbol of cultural heritage and grandeur of Odessa, continuing to attract attention and admiration for generations to come."
+    },
+    "uk": {
+      "title": "Шахський палац в Одесі: Велич архітектури та багата історія культурної спадщини",
+      "description": "Шахський палац, також відомий як Палац Шаха, є одним із найвражаючих історичних пам'ятників в Одесі. Цей унікальний дворцовий комплекс привертає увагу туристів та історичних ентузіастів з усього світу своїм величним архітектурним стилем та захоплюючою історією.",
+      "historyOrigin": "Історія Шахського палацу почалася у другій половині XIX століття, коли його було побудовано за замовленням шаха Перської імперії Фатх-Алі Каджара. За проектом відповідав відомий архітектор Франц Людвіг, який створив великолепне поєднання ренесансних та неокласичних стилів, що надають палацу неповторний шарм та великоліптя.",
+      "impressiveFacade": "Фасад Шахського палацу вражає своєю вишуканістю та багатством деталей. Бездоганно виконані статуї, карнизи та барельєфи надають будівлі особливий шарм та великолепіє. Величезні вікна заповнюють інтер'єри світлом, роблячи їх ще привабливішими.",
+      "luxuriousInteriors": "Усередині палацу чекають гостей захоплюючі інтер'єри. Хрустальні люстри, розкішні меблі та витончені декоративні елементи створюють атмосферу дворцового величі. Просторі зали та розкішні кімнати заслуговують особливої уваги та захоплення.",
+      "culturalEvents": "Шахський палац довгий час служив місцем для проведення культурних та громадських заходів, зустрічей та прийомів. Тут збиралися видатні особистості свого часу, що надавало палацу ще більше історичної цінності та слави.",
+      "touristAttraction": "На сьогодні Шахський палац став одним із головних туристичних визначних пам'яток Одеси. Туристи, що відвідують місто, прагнуть побачити це архітектурне диво та дізнатися його захоплюючу історію. Палац став не лише пам'яткою історії, а й місцем, де жива історія поєднується з сучасністю.",
+      "unforgettableExperience": "Відвідування Шахського палацу - це незабутній досвід, який залишить враження у кожного. Його архітектурна краса та історичне значення дозволяють зануритися в минуле та відчути дух великої епохи. Шахський палац - це не просто будівля, це символ культурної спадщини та величі Одеси, який продовжує привертати увагу та захоплення покоління за поколінням."
+    }
+  },
 
 
 
@@ -894,7 +926,8 @@
       "odessaPassage": "Пассаж",
       "victoryWings": "Крылья Победы",
       "victoryPark": "Парк Победы",
-      "vorontsovMonument": "Памятник Михаилу Воронцову"
+      "vorontsovMonument": "Памятник Михаилу Воронцову",
+      "shahskyPalace": "Шахский дворец"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -913,7 +946,8 @@
       "odessaPassage": "Пасаж",
       "victoryWings": "Крила Перемоги",
       "victoryPark": "Парк Перемоги",
-      "vorontsovMonument": "Пам'ятник Михайлу Воронцову"
+      "vorontsovMonument": "Пам'ятник Михайлу Воронцову",
+      "shahskyPalace": "Шахський палац"
     },
     "en": {
       "readTextButton": "Read article",
@@ -932,7 +966,8 @@
       "odessaPassage": "Passage",
       "victoryWings": "Wings of Victory",
       "victoryPark": "Park of Victory",
-      "vorontsovMonument": "Mikhail Vorontsov Monument"
+      "vorontsovMonument": "Mikhail Vorontsov Monument",
+      "shahskyPalace": "Shahsky Palace"
     }
   }
 }
