@@ -3,7 +3,7 @@ import viewFromOdessaFerrisWheel from "../../../assets/cultureImages/odessa-ferr
 import odessaFerrisWheel from "../../../assets/historyImages/picturepicture15282_22973.jpg"
 import theaterGarden from "../../../assets/historyImages/opera.jpg"
 import vorontsovskyLighthouse from "../../../assets/historyImages/lighthouse.jpg"
-import pavelCathedral from "../../../assets/historyImages/pavelCathedral.jpg"
+import pavelCathedral from "../../../assets/historyImages/16fdb71e-99c7-4956-ab24-4b22140744ff.jpeg"
 import sailorWife from "../../../assets/historyImages/sailorWife.jpg"
 import opera from "../../../assets/historyImages/d2646277-0a23-4b43-bda9-ddd5dfaa5bc9.jpeg"
 import potemkinStairs from "../../../assets/historyImages/1672697476_pro-dachnikov-com-p-potemkinskaya-lestnitsa-v-odesse-skolko-st-2.jpg";
@@ -15,9 +15,8 @@ import victoryWings from "../../../assets/historyImages/victoryWings.png";
 import victoryPark from "../../../assets/historyImages/victory-park-2.jpeg"
 import vorontsovMonument from "../../../assets/historyImages/dc359f97-ea22-4ed3-84c7-242ca890f28b.jpeg";
 import shahskyPalace from "../../../assets/historyImages/608863b2-392a-486d-bbc3-ef83b56e94d7.jpeg"
-import shevchenkoPark from "../../../assets/historyImages/5afb76a5-018d-4288-8388-5a09e009b436.jpeg"
-
-
+import shevchenkoPark from "../../../assets/historyImages/db6d1217-4e20-4064-a282-3b78f1e2efac.jpeg"
+import deribasovskayaStreet from "../../../assets/historyImages/2477327b-91bf-48bc-968d-7eec7318ef3c.jpeg";
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -179,10 +178,10 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["shevchenkoPark"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/deribasovskaya-street">
+              <img className="picture" src={deribasovskayaStreet} alt="deribasovskayaStreet" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["deribasovskayaStreet"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
