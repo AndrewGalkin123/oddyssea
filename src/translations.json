@@ -965,6 +965,40 @@
       "uniqueAtmosphere": "Кожен, хто хоч раз побував на Дерибасівській вулиці, відчуває її особливу енергетику та унікальну атмосферу. Одеса із гордістю представляє цю вулицю, вважаючи її не лише місцем відпочинку та розваг, але й справжнім культурним центром, що сміливо конкурує з іншими європейськими столицями та приваблює тисячі туристів із усього світу. Дерибасівська вулиця - це невід'ємна частина історії та культури Одеси, яка продовжує дивувати, надихати та зачаровувати своєю унікальною атмосферою та духом свободи."
     }
   },
+  "seasideBoulevard": {
+    "ru": {
+      "title": "Приморский бульвар в Одессе: Где Встречаются Море, Культура и Романтика",
+      "description": "Приморский бульвар — это живописный артериальный путь, который переплетает историческое богатство Одессы с красотой Черноморского побережья. Этот уникальный простор олицетворяет дух морского города, его многовековую историю и динамичную культурную жизнь. Прошедший через время и сохраняющий свою прелесть, Приморский бульвар соблазняет жителей и туристов своими очаровательными уголками и атмосферой непринужденной элегантности.",
+      "history": "История Приморского бульвара уходит в глубокое прошлое Одессы. Основанный в 19 веке, бульвар быстро стал символом морского города, объединяющим туристический, культурный и торговый интересы. Начиная с популярности царской России, Приморский бульвар привлекал аристократию и известных личностей своего времени, которые приезжали здесь наслаждаться прекрасным видом на море и прогулками вдоль берега.",
+      "culturalHub": "Прогуливаясь по Приморскому бульвару, вы можете почувствовать дух прошлого, когда город притягивал знатоков искусства, писателей и музыкантов. С тех пор бульвар стал местом, где сходятся культурные течения, отражая креативность и творчество. Великолепные театры, художественные галереи и музеи великолепно вписываются в окружающую архитектуру, делая Приморский бульвар ярким культурным центром.",
+      "seasideView": "Особенной приметой Приморского бульвара является его живописный вид на Черное море. Здесь вы можете насладиться захватывающим закатом солнца, горизонтом, тянущимся до бесконечности, и бесшумными волнами, ласкающими песчаные пляжи. Это место, где дыхание свежего морского бриза пробуждает чувства и окутывает романтикой.",
+      "culturalFusion": "Приморский бульвар также является местом встречи и сближения различных культур и традиций. Фестивали и события, проводимые здесь, подчеркивают культурное разнообразие города и объединяют людей со всего мира. Здесь вы можете попробовать блюда разных национальностей, наслаждаться живой музыкой и танцами, искусством и рукоделием.",
+      "unforgettableAdventure": "Прогулка по Приморскому бульвару станет незабываемым приключением. Вдохновляющая атмосфера этого места окутывает каждого, кто ступает на его территорию. От разнообразных кафе и ресторанов с изысканными кулинарными изысками до уютных скверов и ухоженных парков — Приморский бульвар предлагает множество возможностей для отдыха и релаксации.",
+      "historyAndCulture": "Приморский бульвар — это не просто улица, это история и культура Одессы, воплощенные в живом памятнике. Этот замечательный уголок соединяет прошлое и настоящее, море и город, культуру и природу. Он приглашает каждого прочувствовать его уникальную энергетику и стать частью этого удивительного мира, где встречаются море, культура и романтика."
+    },
+    "en": {
+      "title": "Seaside Boulevard in Odessa: Where the Sea, Culture, and Romance Meet",
+      "description": "Seaside Boulevard is a picturesque arterial path that intertwines the historical richness of Odessa with the beauty of the Black Sea coast. This unique space embodies the spirit of the maritime city, its centuries-old history, and dynamic cultural life. Passing through time while preserving its charm, Seaside Boulevard seduces residents and tourists with its charming corners and an atmosphere of effortless elegance.",
+      "history": "The history of Seaside Boulevard dates back to Odessa's distant past. Founded in the 19th century, the boulevard quickly became a symbol of the maritime city, uniting tourist, cultural, and commercial interests. Since its popularity in Tsarist Russia, Seaside Boulevard has attracted aristocracy and famous personalities of its time, who came here to enjoy the beautiful view of the sea and strolls along the coast.",
+      "culturalHub": "Walking along Seaside Boulevard, you can feel the spirit of the past when the city attracted art connoisseurs, writers, and musicians. Since then, the boulevard has become a meeting place for cultural trends, reflecting creativity and artistry. Magnificent theaters, art galleries, and museums blend perfectly into the surrounding architecture, making Seaside Boulevard a vibrant cultural center.",
+      "seasideView": "One of the main features of Seaside Boulevard is its picturesque view of the Black Sea. Here, you can enjoy breathtaking sunsets, an endless horizon, and the silent waves caressing sandy beaches. This is a place where the fresh sea breeze awakens emotions and envelops visitors with romance.",
+      "culturalFusion": "Seaside Boulevard is also a meeting place for various cultures and traditions. Festivals and events held here highlight the city's cultural diversity and bring people together from all over the world. Here, you can try dishes from different nationalities, enjoy live music and dances, art, and crafts.",
+      "unforgettableAdventure": "A stroll along Seaside Boulevard will be an unforgettable adventure. The inspiring atmosphere of this place envelops everyone who sets foot on its territory. From diverse cafes and restaurants with exquisite culinary delights to cozy squares and well-kept parks, Seaside Boulevard offers many opportunities for relaxation and leisure.",
+      "historyAndCulture": "Seaside Boulevard is not just a street; it is the history and culture of Odessa embodied in a living monument. This wonderful corner connects the past and the present, the sea and the city, culture, and nature. It invites everyone to experience its unique energy and become a part of this amazing world, where the sea, culture, and romance meet."
+    },
+    "uk": {
+      "title": "Приморський бульвар в Одесі: Де Зустрічаються Море, Культура та Романтика",
+      "description": "Приморський бульвар - це мальовничий артеріальний шлях, який переплітає історичне багатство Одеси з красою Чорноморського узбережжя. Цей унікальний простір втілює дух морського міста, його багатовікову історію та динамічне культурне життя. Проходячи крізь час і зберігаючи свою привабливість, Приморський бульвар спокушає мешканців та туристів своїми чарівними куточками і атмосферою невимушеної елегантності.",
+      "history": "Історія Приморського бульвару сягає в глибоке минуле Одеси. Заснований у 19 столітті, бульвар швидко став символом морського міста, що об'єднує туристичні, культурні та торговельні інтереси. З часів популярності царської Росії Приморський бульвар приваблював аристократію та відомі особистості свого часу, які приїжджали сюди, щоб насолоджуватися прекрасним видом на море і прогулянками уздовж узбережжя.",
+      "culturalHub": "Прогулюючись по Приморському бульвару, ви можете відчути дух минулого, коли місто притягало знавців мистецтва, письменників та музикантів. З тих пір бульвар став місцем, де зустрічаються культурні течії, відображаючи креативність та творчість. Величні театри, художні галереї та музеї гармонійно вписуються в оточуючу архітектуру, роблячи Приморський бульвар яскравим культурним центром.",
+      "seasideView": "Однією з особливостей Приморського бульвару є його мальовничий вид на Чорне море. Тут ви можете насолодитися захоплюючим заходом сонця, безкінечним обрієм горизонту та тихими хвилями, що ласкаво обливають піщані пляжі. Це місце, де свіже морське дихання пробуджує почуття та обгортає романтикою.",
+      "culturalFusion": "Приморський бульвар також є місцем зустрічі та зближення різних культур і традицій. Фестивалі та події, що проводяться тут, підкреслюють культурне різноманіття міста і об'єднують людей з усього світу. Тут ви можете спробувати страви різних національностей, насолодитися живою музикою і танцями, мистецтвом та ремеслами.",
+      "unforgettableAdventure": "Прогулянка по Приморському бульвару стане незабутньою пригодою. Надихаюча атмосфера цього місця обгортає кожного, хто ступає на його територію. Від різноманітних кафе та ресторанів із вишуканими кулінарними шедеврами до затишних скверів та доглянутих парків - Приморський бульвар пропонує багато можливостей для відпочинку і релаксації.",
+      "historyAndCulture": "Приморський бульвар - це не просто вулиця, це історія та культура Одеси, втілені в живому пам'ятнику. Цей чудовий куточок з'єднує минуле та сьогодення, море та місто, культуру та природу. Він запрошує кожного пережити його унікальну енергетику та стати частиною цього дивовижного світу, де зустрічаються море, культура та романтика."
+    }
+  },
+
+
 
 
   "general": {
@@ -988,7 +1022,8 @@
       "vorontsovMonument": "Памятник Михаилу Воронцову",
       "shahskyPalace": "Шахский дворец",
       "shevchenkoPark": "Парк Шевченко",
-      "deribasovskayaStreet": "Дерибасовская улица"
+      "deribasovskayaStreet": "Дерибасовская улица",
+      "seasideBoulevard": "Приморский бульвар"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -1010,7 +1045,8 @@
       "vorontsovMonument": "Пам'ятник Михайлу Воронцову",
       "shahskyPalace": "Шахський палац",
       "shevchenkoPark": "Парк Шевченка",
-      "deribasovskayaStreet": "Дерибасівська вулиця"
+      "deribasovskayaStreet": "Дерибасівська вулиця",
+      "seasideBoulevard": "Приморський бульвар"
     },
     "en": {
       "readTextButton": "Read article",
@@ -1032,7 +1068,8 @@
       "vorontsovMonument": "Mikhail Vorontsov Monument",
       "shahskyPalace": "Shahsky Palace",
       "shevchenkoPark": "Shevchenko Park",
-      "deribasovskayaStreet": "Deribasivska Street"
+      "deribasovskayaStreet": "Deribasivska Street",
+      "seasideBoulevard": "Seaside Boulevard"
     }
   }
 }

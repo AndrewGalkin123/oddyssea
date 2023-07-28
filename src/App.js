@@ -30,6 +30,7 @@ import VorontsovMonument from './pages/VorontsovMonumentPage/VorontsovMonument';
 import ShahskyPalace from './pages/ShahskyPalacePage/ShahskyPalace';
 import ShevchenkoPark from './pages/ShevchenkoParkPage/ShevchenkoPark';
 import DeribasovskayaStreet from './pages/DeribasovskayaStreetPage/DeribasovskayaStreet';
+import SeasideBoulevard from './pages/SeasideBoulevardPage/SeasideBoulevard';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -67,6 +68,7 @@ function App() {
             <Route path='/shahsky-palace' element={<ShahskyPalace/>} />
             <Route path='/shevchenko-park' element={<ShevchenkoPark/>} />
             <Route path='/deribasovskaya-street' element={<DeribasovskayaStreet/>} />
+            <Route path='/seaside-boulevard' element={<SeasideBoulevard/>} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

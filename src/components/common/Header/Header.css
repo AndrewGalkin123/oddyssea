@@ -1,6 +1,6 @@
 header {
     position: fixed;
-    background: url(https://otkritkis.com/wp-content/uploads/2022/07/gu69o.gif);
+    background-color: rgb(19, 69, 115);
     background-position: bottom;
     background-size: cover;
     color: #fff;
@@ -19,7 +19,7 @@ header::before {
     right: 0;
     bottom: 0;
     opacity: 0.5;
-    background-color: rgb(22, 118, 208);
+    /* background-color: rgb(22, 118, 208); */
     z-index: -1;
 }
 

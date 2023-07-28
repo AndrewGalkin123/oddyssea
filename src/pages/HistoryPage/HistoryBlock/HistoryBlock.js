@@ -17,6 +17,7 @@ import vorontsovMonument from "../../../assets/historyImages/dc359f97-ea22-4ed3-
 import shahskyPalace from "../../../assets/historyImages/608863b2-392a-486d-bbc3-ef83b56e94d7.jpeg"
 import shevchenkoPark from "../../../assets/historyImages/db6d1217-4e20-4064-a282-3b78f1e2efac.jpeg"
 import deribasovskayaStreet from "../../../assets/historyImages/2477327b-91bf-48bc-968d-7eec7318ef3c.jpeg";
+import seasideBoulevard from "../../../assets/historyImages/ab747d0b-7ba6-4f14-a651-420c6250e07f.jpeg"
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -183,10 +184,10 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["deribasovskayaStreet"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/seaside-boulevard">
+              <img className="picture" src={seasideBoulevard} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["seasideBoulevard"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
