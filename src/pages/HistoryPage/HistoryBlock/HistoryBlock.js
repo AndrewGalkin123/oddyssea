@@ -4,7 +4,7 @@ import odessaFerrisWheel from "../../../assets/historyImages/picturepicture15282
 import theaterGarden from "../../../assets/historyImages/opera.jpg"
 import vorontsovskyLighthouse from "../../../assets/historyImages/lighthouse.jpg"
 import pavelCathedral from "../../../assets/historyImages/16fdb71e-99c7-4956-ab24-4b22140744ff.jpeg"
-import sailorWife from "../../../assets/historyImages/sailorWife.jpg"
+import sailorWife from "../../../assets/historyImages/b6e734d7-ddd2-421d-9fb4-02d865950f9f.jpeg"
 import opera from "../../../assets/historyImages/d2646277-0a23-4b43-bda9-ddd5dfaa5bc9.jpeg"
 import potemkinStairs from "../../../assets/historyImages/1672697476_pro-dachnikov-com-p-potemkinskaya-lestnitsa-v-odesse-skolko-st-2.jpg";
 import dukeMonument from "../../../assets/historyImages/55721a66-22b2-43bf-8eb6-315e5be369c6.jpeg"
@@ -18,6 +18,8 @@ import shahskyPalace from "../../../assets/historyImages/608863b2-392a-486d-bbc3
 import shevchenkoPark from "../../../assets/historyImages/db6d1217-4e20-4064-a282-3b78f1e2efac.jpeg"
 import deribasovskayaStreet from "../../../assets/historyImages/2477327b-91bf-48bc-968d-7eec7318ef3c.jpeg";
 import seasideBoulevard from "../../../assets/historyImages/ab747d0b-7ba6-4f14-a651-420c6250e07f.jpeg"
+import archaeologicalMuseum from "../../../assets/historyImages/0ac18c1a-0211-45be-a5a7-0ba878302f3e.jpeg";
+import cityPark from "../../../assets/historyImages/4085e7ab-0b49-4bf2-bc2e-88ada4b4d628.jpeg"
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -189,15 +191,15 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["seasideBoulevard"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/archaeological-museum">
+              <img className="picture" src={archaeologicalMuseum} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["odessaArchaeologicalMuseum"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/city-park">
+              <img className="picture" src={cityPark} alt="descent coast" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["deribasovskayaСityPark"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />

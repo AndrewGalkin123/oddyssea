@@ -4,7 +4,7 @@ import translations from "../../translations.json";
 import victoryPark from "../../assets/historyImages/victory-park-2.jpeg"
 import vorontsovMonument from "../../assets/historyImages/dc359f97-ea22-4ed3-84c7-242ca890f28b.jpeg";
 import shahskyPalace from "../../assets/historyImages/608863b2-392a-486d-bbc3-ef83b56e94d7.jpeg"
-import shevchenkoParkImage1 from "../../assets/historyImages/odessa-2581026_1920.jpg";
+import shevchenkoParkImage1 from "../../assets/historyImages/b9128437-c030-4535-bdf8-a47361ac474a.jpeg";
 import shevchenkoParkImage2 from "../../assets/historyImages/5afb76a5-018d-4288-8388-5a09e009b436.jpeg";
 
 const ShevchenkoPark = () => {
@@ -42,7 +42,7 @@ const ShevchenkoPark = () => {
                 <div className="textContent" style={{ maxWidth: "900px" }} ref={textContentRef}>
                     <br></br>
                     <br></br>
-                    <h1>{shevchenkoParkTranslations["title"]}</h1>  <br />
+                    <h1>{shevchenkoParkTranslations["title"]}</h1><br></br>
                     <p>{shevchenkoParkTranslations["description"]}</p><br></br>
                     <img className="article_images" alt="shevchenkoParkImage" src={shevchenkoParkImage1}></img><br></br><br></br>
                     <p>{shevchenkoParkTranslations["diversityOfNature"]}</p>

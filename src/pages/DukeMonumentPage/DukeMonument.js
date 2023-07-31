@@ -1,7 +1,7 @@
 import React, { useContext, useRef } from "react";
 import { LanguageContext } from "../../contexts/LanguageContext";
 import translations from "../../translations.json";
-import sailorWife from "../../assets/historyImages/sailorWife.jpg"
+import sailorWife from "../../assets/historyImages/b6e734d7-ddd2-421d-9fb4-02d865950f9f.jpeg"
 import opera from "../../assets/historyImages/d2646277-0a23-4b43-bda9-ddd5dfaa5bc9.jpeg"
 import potemkinStairs from "../../assets/historyImages/1672697476_pro-dachnikov-com-p-potemkinskaya-lestnitsa-v-odesse-skolko-st-2.jpg";
 import dukeMonumentImage1 from "../../assets/historyImages/031a1044-e3d0-44d3-93c4-7be262e6e58b.jpeg"

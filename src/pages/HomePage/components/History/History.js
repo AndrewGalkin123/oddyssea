@@ -2,7 +2,7 @@ import React from 'react';
 import './History.css'
 import opera from '../../../../assets/historyImages/opera.jpg'
 import pavelCathedral from '../../../../assets/historyImages/pavelCathedral.jpg'
-import sailorWife from '../../../../assets/historyImages/sailorWife.jpg'
+import sailorWife from '../../../../assets/historyImages/b6e734d7-ddd2-421d-9fb4-02d865950f9f.jpeg'
 import vorontsovLighthouse from '../../../../assets/historyImages/lighthouse.jpg'
 import RedirectButton from "../../../../components/RedirectButton/RedirectButton"
 import { useContext } from "react";

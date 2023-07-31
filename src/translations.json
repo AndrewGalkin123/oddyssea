@@ -997,9 +997,70 @@
       "historyAndCulture": "Приморський бульвар - це не просто вулиця, це історія та культура Одеси, втілені в живому пам'ятнику. Цей чудовий куточок з'єднує минуле та сьогодення, море та місто, культуру та природу. Він запрошує кожного пережити його унікальну енергетику та стати частиною цього дивовижного світу, де зустрічаються море, культура та романтика."
     }
   },
-
-
-
+  "odessaArchaeologicalMuseum": {
+    "ru": {
+      "title": "Одесский Археологический Музей: Окно в Сложную Историю Античной Одессы",
+      "description": "Одесский Археологический Музей - это удивительное место, которое перенесет вас во времени на тысячи лет назад, где вы сможете коснуться древних цивилизаций и погрузиться в их тайны. Расположенный в самом сердце Одессы, музей является свидетелем многих эпох и хранит ценные артефакты, которые раскрывают жизнь, культуру и обряды прошлых поколений.",
+      "majesticFacade": "Посетителей встречает величественный фасад здания, которое само по себе является свидетелем истории города. Переступив порог музея, вы окажетесь на прекрасной площадке, где вас встречают археологические находки, которые поразят своей красотой и изяществом. Серебряные украшения, статуэтки, глиняные сосуды, мозаики - эти артефакты рассказывают нам о древних обрядах, обычаях и быте наших предков.",
+      "goldenFamily": "Один из наиболее впечатляющих экспонатов музея - это золотая семья. Это непревзойденные украшения, которые принадлежали аристократам древнего города. Каждое украшение имеет свою уникальную историю и символику, которые поражают своей красотой и мастерством исполнения.",
+      "reconstructedFindings": "На следующих этажах музея вас ждут реконструированные археологические находки, которые раскрывают перед нами картину того, как жили люди тысячи лет назад. Вы можете увидеть восстановленные домашние интерьеры, принять участие в мастер-классах и интерактивных экспозициях, что позволит вам ближе познакомиться с археологическим процессом и работой археологов.",
+      "thematicExhibitions": "В музее также проводятся тематические выставки и лекции, которые помогают углубить знания о прошлом Одессы и окружающих территорий. Каждая выставка - это уникальное событие, которое позволяет увидеть редкие археологические находки и узнать о исследованиях, которые ведутся в настоящее время.",
+      "adventureTime": "Одесский Археологический Музей - это не просто место для экскурсии, это настоящее приключение, которое поможет вам окунуться в атмосферу давних времен и услышать голоса прошлого. Этот музей - это сокровищница исторических сокровищ, которые создают ощущение, что вы путешествуете во времени. Приглашаем вас на незабываемое путешествие в мир античной Одессы!"
+    },
+    "en": {
+      "title": "Odessa Archaeological Museum: Window into the Complex History of Ancient Odessa",
+      "description": "The Odessa Archaeological Museum is a fascinating place that will transport you back in time thousands of years, where you can touch ancient civilizations and immerse yourself in their secrets. Located in the heart of Odessa, the museum is a witness to many epochs and preserves valuable artifacts that reveal the life, culture, and rituals of past generations.",
+      "majesticFacade": "Visitors are greeted by a magnificent facade of the building, which itself is a witness to the city's history. Stepping through the museum's threshold, you find yourself on a marvelous platform, where archaeological findings await, impressing with their beauty and elegance. Silver jewelry, statuettes, clay vessels, mosaics - these artifacts tell us about ancient rituals, customs, and the way of life of our ancestors.",
+      "goldenFamily": "One of the most impressive exhibits in the museum is the golden family. These unmatched adornments belonged to aristocrats of the ancient city. Each piece of jewelry has its unique history and symbolism, stunning with its beauty and craftsmanship.",
+      "reconstructedFindings": "On the subsequent floors of the museum, you will encounter reconstructed archaeological findings that unveil the way people lived thousands of years ago. You can see restored home interiors, take part in workshops and interactive exhibitions, which allow you to become more familiar with the archaeological process and the work of archaeologists.",
+      "thematicExhibitions": "The museum also hosts thematic exhibitions and lectures, deepening knowledge about Odessa's past and the surrounding territories. Each exhibition is a unique event that allows you to see rare archaeological finds and learn about ongoing research.",
+      "adventureTime": "The Odessa Archaeological Museum is not just a place for sightseeing; it is a true adventure that will immerse you in the atmosphere of ancient times and let you hear the voices of the past. This museum is a treasury of historical treasures, creating a sense of time travel. We invite you on an unforgettable journey into the world of ancient Odessa!"
+    },
+    "uk": {
+      "title": "Одеський Археологічний Музей: Вікно в Складну Історію Античної Одеси",
+      "description": "Одеський Археологічний Музей - це дивовижне місце, яке перенесе вас у часі на тисячі років назад, де ви зможете доторкнутися до давніх цивілізацій та зануритися в їхні таємниці. Розташований у самому серці Одеси, музей є свідком багатьох епох і зберігає цінні артефакти, які розкривають життя, культуру та обряди минулих поколінь.",
+      "majesticFacade": "Відвідувачів зустрічає величний фасад будівлі, яка сама по собі є свідком історії міста. Переступивши поріг музею, ви опинитеся на чудовому майданчику, де вас зустрічають археологічні знахідки, які вразять своєю красою та витонченістю. Срібні прикраси, статуетки, глиняні посудини, мозаїки - ці артефакти розповідають нам про давні обряди, звичаї та побут наших предків.",
+      "goldenFamily": "Один з найвражаючих експонатів музею - це золота родина. Це неперевершені прикраси, які належали аристократам стародавнього міста. Кожна прикраса має свою унікальну історію та символіку, що вражає своєю красою та майстерністю виконання.",
+      "reconstructedFindings": "На подальших етажах музею вас очікують реконструйовані археологічні знахідки, які розкривають перед нами картини того, як жили люди тисячі років тому. Ви можете побачити відреставровані домашні інтер'єри, взяти участь у майстер-класах та інтерактивних експозиціях, що дозволить вам ближче познайомитися з археологічним процесом та роботою археологів.",
+      "thematicExhibitions": "У музеї також проводяться тематичні виставки та лекції, які допомагають поглибити знання про минуле Одеси та навколишніх територій. Кожна виставка - це унікальна подія, що дозволяє побачити рідкісні археологічні знахідки та дізнатися про дослідження, які ведуться сьогодні.",
+      "adventureTime": "Одеський Археологічний Музей - це не просто місце для екскурсії, це справжнє пригода, яка допоможе вам зануритися в атмосферу давніх часів та почути голоси минулого. Цей музей - це скарбниця історичних скарбів, які створюють відчуття, що ви мандруєте часом. Запрошуємо вас на незабутню подорож в світ античної Одеси!"
+    }
+  },
+  "deribasovskayaСityPark": {
+    "ru": {
+      "title": "Городской парк на улице Дерибасовской: Одесский Магнетизм и Оазис Отдыха",
+      "description": "Одесса, морской город с неиссякаемым колоритом и душой, известна не только своими причудливыми архитектурными шедеврами и многоликой культурной историей, но и уникальными уголками отдыха. Среди таких оазисов зелени и красоты безусловно выделяется Городской парк на улице Дерибасовской - место, пропитанное особой энергетикой и вдохновением.",
+      "magnetism": "Городской парк на улице Дерибасовской - это не просто парк, это настоящее воплощение одесского магнетизма. Уникальное сочетание культурных достояний и живописных природных уголков делают его одним из самых привлекательных мест отдыха в городе. Этот парк является живой легендой и символом города, который с удовольствием делятся с гостями и местными жителями.",
+      "alongDeribasovskaya": "Парк простирается вдоль знаменитой улицы Дерибасовской - главной артерии города, прославленной своим уникальным архитектурным обликом и богатой историей. Городской парк стал органичной частью этой улицы, дополнив её культурную мозаику и став привлекательным местом для отдыха и релаксации.",
+      "majesticArch": "При входе в парк, гостей встречает величественная арка, символизирующая врата в удивительный мир природы и культуры. Здесь каждый найдет что-то особенное - романтики окунутся в атмосферу вечной любви, побродив по скрытым тропинкам парка, а ценители природы оценят богатство зелени и цветов, расцветающих в разное время года.",
+      "belovedSpot": "Городской парк стал любимым местом для встреч и прогулок одесских жителей и гостей города. Семьи с детьми наслаждаются детскими площадками и аттракционами, где дети весело проводят время, а взрослые наблюдают за их радостью. Парк стал местом для романтических свиданий и вечерних прогулок влюбленных пар, а также сборищем друзей, которые собираются здесь, чтобы провести время в приятной компании.",
+      "historicalHeritage": "Каждый уголок Городского парка пропитан историческим наследием Одессы. Здесь можно найти памятники архитектуры разных эпох, которые свидетельствуют о богатой и многогранной истории города. Реставрированные здания, фонтаны, скульптуры - каждый элемент парка обладает своей уникальной историей, которую можно читать, гуляя по его аллеям.",
+      "culturalEvents": "Парк привлекает не только своей архитектурой, но и разнообразием культурных событий, которые проходят здесь круглый год. Концерты, выставки, фестивали, театральные представления - все это делает Городской парк живым центром культурной жизни города. Здесь можно окунуться в атмосферу искусства и творчества, ощутить пульс культуры Одессы.",
+      "partOfOdessaSoul": "Городской парк на улице Дерибасовской - это неотъемлемая часть души Одессы, место, где время останавливается, и каждый может найти свое убежище. Он олицетворяет красоту, творчество и культуру этого удивительного города и становится местом, куда хочется возвращаться снова и снова. Городской парк на улице Дерибасовской - это вдохновение и релаксация, заряд бодрости и эмоций, место, где каждый может найти свой кусочек счастья."
+    },
+    "en": {
+      "title": "City Park on Deribasovskaya Street: Odessa's Magnetism and Oasis of Relaxation",
+      "description": "Odessa, a coastal city with an inexhaustible charm and soul, is known not only for its whimsical architectural masterpieces and diverse cultural history but also for its unique relaxation spots. Among such green and beautiful oases, the City Park on Deribasovskaya Street undoubtedly stands out as a place filled with special energy and inspiration.",
+      "magnetism": "City Park on Deribasovskaya Street is more than just a park; it is an embodiment of Odessa's magnetism. The unique combination of cultural heritage and picturesque natural landscapes makes it one of the most attractive leisure spots in the city. This park is a living legend and a symbol of the city, eagerly shared with both visitors and local residents.",
+      "alongDeribasovskaya": "The park stretches along the famous Deribasovskaya Street, the main artery of the city, renowned for its unique architectural style and rich history. The City Park has become an organic part of this street, complementing its cultural mosaic and becoming an appealing place for relaxation and recreation.",
+      "majesticArch": "At the entrance to the park, visitors are welcomed by a majestic arch symbolizing the gates to a marvelous world of nature and culture. Here, everyone can find something special - romantics can immerse themselves in the atmosphere of eternal love, wandering along hidden paths in the park, while nature enthusiasts appreciate the richness of greenery and flowers blooming at different times of the year.",
+      "belovedSpot": "The City Park has become a beloved meeting place and strolling destination for both Odessa residents and city guests. Families with children enjoy playgrounds and attractions where kids have fun, and adults enjoy watching their joy. The park has become a place for romantic dates and evening walks for couples in love and a gathering spot for friends who come here to spend time together in good company.",
+      "historicalHeritage": "Every corner of the City Park is steeped in Odessa's historical heritage. Here, one can find architectural monuments from different epochs, testifying to the city's rich and diverse history. Restored buildings, fountains, sculptures - each element of the park has its unique history, which can be read while strolling along its alleys.",
+      "culturalEvents": "The park's allure is not only due to its architecture but also its variety of cultural events held throughout the year. Concerts, exhibitions, festivals, and theatrical performances make the City Park a vibrant center of the city's cultural life. Here, visitors can immerse themselves in the atmosphere of art and creativity, feeling the pulse of Odessa's culture.",
+      "partOfOdessaSoul": "City Park on Deribasovskaya Street is an integral part of Odessa's soul, a place where time stands still, and everyone can find their sanctuary. It embodies the beauty, creativity, and culture of this amazing city, becoming a place to return to again and again. The City Park on Deribasovskaya Street is a source of inspiration and relaxation, a source of vitality and emotions, a place where everyone can find their piece of happiness."
+    },
+    "uk": {
+      "title": "Міський парк на вулиці Дерібасівській: Магнетизм Одеси та Оазис Відпочинку",
+      "description": "Одеса, морське місто з нескінченним колоритом та душею, відоме не тільки своїми причудливими архітектурними шедеврами та різноманітною культурною історією, але й унікальними місцями відпочинку. Серед таких зелених і прекрасних оаз виділяється Міський парк на вулиці Дерібасівській - місце, насичене особливою енергетикою та натхненням.",
+      "magnetism": "Міський парк на вулиці Дерібасівській - це не просто парк, це втілення одеського магнетизму. Унікальне поєднання культурної спадщини та живописних природних ландшафтів робить його одним із найпривабливіших місць для відпочинку у місті. Цей парк - жива легенда і символ міста, яким із задоволенням діляться як відвідувачі, так і місцеві мешканці.",
+      "alongDeribasovskaya": "Парк простягається вздовж знаменитої вулиці Дерібасівської - головної артерії міста, прославленої своїм унікальним архітектурним стилем та багатою історією. Міський парк став органічною частиною цієї вулиці, доповнивши її культурну мозаїку і став привабливим місцем для відпочинку та рекреації.",
+      "majesticArch": "При вході до парку відвідувачів зустрічає величезна арка, яка символізує ворота до дивовижного світу природи та культури. Тут кожен знайде щось особливе - романтики зануряться у атмосферу вічної любові, блукаючи по прихованих стежках парку, а природолюби оцінять розкіш зелені та квітів, що розцвітають у різний час року.",
+      "belovedSpot": "Міський парк став улюбленим місцем зустрічей та прогулянок одеських мешканців і гостей міста. Сім'ї з дітьми насолоджуються дитячими майданчиками та атракціонами, де діти весело проводять час, а дорослі спостерігають за їхньою радістю. Парк став місцем для романтичних побачень та вечірніх прогулянок для закоханих пар, а також збіриськом друзів, які збираються тут, щоб провести час у приємній компанії.",
+      "historicalHeritage": "Кожний куточок Міського парку пропитаний історичною спадщиною Одеси. Тут можна знайти архітектурні пам'ятки з різних епох, які свідчать про багату та різноманітну історію міста. Відновлені будівлі, фонтани, скульптури - кожен елемент парку має свою унікальну історію, яку можна читати, прогулюючись його алеями.",
+      "culturalEvents": "Привабливість парку - це не лише архітектура, але й різноманіття культурних подій, що проводяться тут протягом року. Концерти, виставки, фестивалі та театральні вистави роблять Міський парк живим центром культурного життя міста. Тут відвідувачі можуть зануритися у атмосферу мистецтва та творчості, відчуваючи пульс культури Одеси.",
+      "partOfOdessaSoul": "Міський парк на вулиці Дерібасівській - це невід'ємна частина душі Одеси, місце, де час зупиняється, і кожен може знайти своє притулок. Він втілює красу, креативність та культуру цього дивовижного міста, стаючи місцем, куди хочеться повертатися знову і знову. Міський парк на вулиці Дерібасівській - це джерело натхнення та релаксації, джерело бадьорості та емоцій, місце, де кожен може знайти свій шматочок щастя."
+    }
+  },
 
   "general": {
     "ru": {
@@ -1023,7 +1084,9 @@
       "shahskyPalace": "Шахский дворец",
       "shevchenkoPark": "Парк Шевченко",
       "deribasovskayaStreet": "Дерибасовская улица",
-      "seasideBoulevard": "Приморский бульвар"
+      "seasideBoulevard": "Приморский бульвар",
+      "odessaArchaeologicalMuseum": "Одесский Археологический Музей",
+      "deribasovskayaСityPark": "Городской парк на улице Дерибасовской"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -1046,7 +1109,9 @@
       "shahskyPalace": "Шахський палац",
       "shevchenkoPark": "Парк Шевченка",
       "deribasovskayaStreet": "Дерибасівська вулиця",
-      "seasideBoulevard": "Приморський бульвар"
+      "seasideBoulevard": "Приморський бульвар",
+      "odessaArchaeologicalMuseum": "Одеський Археологічний Музей",
+      "deribasovskayaСityPark": "Міський парк на вулиці Дерібасівській"
     },
     "en": {
       "readTextButton": "Read article",
@@ -1069,7 +1134,9 @@
       "shahskyPalace": "Shahsky Palace",
       "shevchenkoPark": "Shevchenko Park",
       "deribasovskayaStreet": "Deribasivska Street",
-      "seasideBoulevard": "Seaside Boulevard"
+      "seasideBoulevard": "Seaside Boulevard",
+      "odessaArchaeologicalMuseum": "Odessa Archaeological Museum",
+      "deribasovskayaСityPark": "City Park on Deribasovskaya Street"
     }
   }
 }
