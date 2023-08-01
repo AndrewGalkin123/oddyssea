@@ -20,6 +20,7 @@ import deribasovskayaStreet from "../../../assets/historyImages/2477327b-91bf-48
 import seasideBoulevard from "../../../assets/historyImages/ab747d0b-7ba6-4f14-a651-420c6250e07f.jpeg"
 import archaeologicalMuseum from "../../../assets/historyImages/0ac18c1a-0211-45be-a5a7-0ba878302f3e.jpeg";
 import cityPark from "../../../assets/historyImages/4085e7ab-0b49-4bf2-bc2e-88ada4b4d628.jpeg"
+import lanzheron from "../../../assets/historyImages/8d51b4a0-110c-446f-9130-1879e9ce792c.jpeg";
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -187,26 +188,25 @@ const HistoryBlock = () => {
               <span className="photo_item_title">{general["deribasovskayaStreet"]}</span>
             </a>
             <a className="photo_item" href="/seaside-boulevard">
-              <img className="picture" src={seasideBoulevard} alt="descent coast" />
+              <img className="picture" src={seasideBoulevard} alt="seasideBoulevard" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["seasideBoulevard"]}</span>
             </a>
             <a className="photo_item" href="/archaeological-museum">
-              <img className="picture" src={archaeologicalMuseum} alt="descent coast" />
+              <img className="picture" src={archaeologicalMuseum} alt="archaeologicalMuseum" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["odessaArchaeologicalMuseum"]}</span>
             </a>
             <a className="photo_item" href="/city-park">
-              <img className="picture" src={cityPark} alt="descent coast" />
+              <img className="picture" src={cityPark} alt="deribasovskayaСityPark" />
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["deribasovskayaСityPark"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/lanzheron">
+              <img className="picture" src={lanzheron} alt="lanzheron" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["lanzheron"]}</span>
             </a>
-
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
               <span className="photo_block-item"></span>

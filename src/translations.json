@@ -750,7 +750,7 @@
       "uniqueExperience": "Посещение - это уникальный опыт, который приносит радость и восхищение каждому, кто открывает для себя это чудо архитектуры. Здесь можно почувствовать, как живет и дышит Одесса, узнать о ее богатой истории и увидеть величие и красоту, которая привлекала людей на протяжении многих лет.",
       "passageEnding": "Таким образом, Пассаж в Одессе - это не просто здание, это исторический шедевр и символ культурного богатства города. Он приглашает всех насладиться его уникальной атмосферой и стать частью великой истории Одессы. Это место, где время останавливается, а душа находит свое вдохновение и гармонию."
     },
-    "en": { 
+    "en": {
       "title": "Passage in Odessa: Historical Masterpiece and Cultural Gem",
       "description": "The Passage, also known as the Panteleimon Passage, was built in the second half of the 19th century and immediately became the heart of city life and cultural activity. This historical building with its centuries-old history is a testament to Odessa's prosperity in past centuries and a embodiment of glamour and elegance.",
       "insideInfo": "The Passage is not just an architectural structure; it is a whole complex that houses luxurious shops, restaurants, cafes, and various businesses, attracting numerous visitors every day. Magnificent facades and glass-covered archways create a unique atmosphere of luxury and comfort.",
@@ -851,7 +851,7 @@
       "symbolOfGratitude": "Памятник Михаилу Воронцову стал не только символом городской гордости и исторической значимости, но и местом, где горожане и туристы могут увековечить память о великом государственном деятеле, возложить цветы и выразить свою признательность за его заслуги перед городом.",
       "exploringHistory": "Посещение памятника Михаилу Воронцову - это возможность окунуться в историю Одессы, узнать о жизни и деятельности этого выдающегося деятеля, который оставил неизгладимый след в истории города. Этот памятник напоминает нам о важности сохранения культурного наследия и уважении к тем, кто служил."
     },
-    "en": { 
+    "en": {
       "title": "Mikhail Vorontsov Monument: Eternal Admiration and Respect for a Great Statesman",
       "description": "Odessa, a city rich in history and cultural heritage, proudly welcomes its famous personalities who have played a key role in its development and prosperity. One of such outstanding figures, to whom a monument was erected in the city center next to the Transfiguration Cathedral, is Mikhail Semenovich Vorontsov.",
       "admirationRespect": "The Mikhail Vorontsov Monument stands as a symbol of admiration and respect for the eminent Russian statesman and military figure who played a pivotal role in the development and prosperity of Odessa as a prestigious city and a major maritime power.",
@@ -1061,7 +1061,38 @@
       "partOfOdessaSoul": "Міський парк на вулиці Дерібасівській - це невід'ємна частина душі Одеси, місце, де час зупиняється, і кожен може знайти своє притулок. Він втілює красу, креативність та культуру цього дивовижного міста, стаючи місцем, куди хочеться повертатися знову і знову. Міський парк на вулиці Дерібасівській - це джерело натхнення та релаксації, джерело бадьорості та емоцій, місце, де кожен може знайти свій шматочок щастя."
     }
   },
-
+  "lanzheron": {
+    "ru": {
+      "title": "Пляж Ланжерон в Одессе: Оазис Солнечного Отдыха на Берегу Черного Моря",
+      "description": "Одесса - город моря и солнца, и пляж Ланжерон является одним из самых привлекательных мест для тех, кто ищет идеальное сочетание комфорта и разнообразия. Расположенный в историческом центре города, пляж Ланжерон предлагает уникальный опыт отдыха на берегу Черного моря, окруженный архитектурой, культурой и живописными видами.",
+      "modernRetroExperience": "Пляж Ланжерон - это история современности, увлажненная нотками ретро. Благодаря своему удобному расположению, он является одним из самых доступных пляжей в Одессе, легко достижимым из различных частей города. Протяженность этого пляжа составляет около 600 метров, что позволяет каждому найти свое уединенное место или присоединиться к тусовке на пляже.",
+      "cleanSandyShores": "Пляж Ланжерон известен своими чистыми песчаными отмелями, привлекательными для купания и загара. Здесь можно отдохнуть на мягких пляжных шезлонгах, а для любителей активного отдыха предлагаются различные водные виды спорта, такие как виндсерфинг или парасейлинг.",
+      "amenitiesAndServices": "У пляжа Ланжерон есть все необходимые удобства и услуги, чтобы сделать ваш отдых комфортным и беззаботным. Здесь расположены уютные кафе и рестораны с разнообразным меню, где можно попробовать местные деликатесы и свежие морепродукты. Также вас ждут пункты проката пляжного инвентаря и душевые, чтобы вы могли освежиться после купания.",
+      "vibrantAtmosphere": "Пляж Ланжерон также славится своей яркой атмосферой и богатой развлекательной программой. Здесь часто проводятся мероприятия, концерты и праздничные фестивали, которые создают живую и радостную атмосферу для всех гостей пляжа. А вечером пляж превращается в романтическую зону с уютными светящимися лампами и ночными барами.",
+      "historicalLandmark": "Однако пляж Ланжерон не только место для отдыха и развлечений, но и своеобразный исторический памятник. Старинные здания, расположенные рядом с пляжем, напоминают о богатой истории Одессы и придают особый колорит этому месту.",
+      "perfectPlace": "Пляж Ланжерон - это идеальное место для семейного отдыха, романтических прогулок и веселых встреч с друзьями. Он предлагает все, что нужно для приятного и незабываемого отдыха на берегу Черного моря. Если вы хотите насладиться солнцем и морским бризом, окунуться в культуру и атмосферу Одессы и зарядиться позитивной энергией, пляж Ланжерон станет идеальным выбором для вашего отдыха."
+    },
+    "en": {
+      "title": "Lanzheron Beach in Odessa: Oasis of Sunbathing on the Shores of the Black Sea",
+      "description": "Odessa is a city of sea and sun, and Lanzheron Beach is one of the most attractive places for those seeking the perfect combination of comfort and variety. Located in the historical center of the city, Lanzheron Beach offers a unique experience of relaxation on the shores of the Black Sea, surrounded by architecture, culture, and picturesque views.",
+      "modernRetroExperience": "Lanzheron Beach is a blend of modernity with a touch of retro. Thanks to its convenient location, it is one of the most accessible beaches in Odessa, easily reachable from various parts of the city. The length of this beach is about 600 meters, allowing everyone to find their secluded spot or join the crowd on the beach.",
+      "cleanSandyShores": "Lanzheron Beach is known for its clean sandy stretches, perfect for swimming and sunbathing. Here, you can relax on comfortable beach loungers, and for those who love active recreation, various water sports such as windsurfing or parasailing are available.",
+      "amenitiesAndServices": "The beach offers all the necessary amenities and services to make your stay comfortable and carefree. Cozy cafes and restaurants with diverse menus are located nearby, where you can taste local delicacies and fresh seafood. There are also rental points for beach equipment and showers to freshen up after swimming.",
+      "vibrantAtmosphere": "Lanzheron Beach is also famous for its vibrant atmosphere and rich entertainment program. It hosts events, concerts, and festive festivals, creating a lively and joyful atmosphere for all beach visitors. In the evening, the beach transforms into a romantic zone with cozy glowing lamps and night bars.",
+      "historicalLandmark": "However, Lanzheron Beach is not just a place for relaxation and fun, but also a unique historical monument. The ancient buildings located next to the beach remind us of the rich history of Odessa and add a special charm to this place.",
+      "perfectPlace": "Lanzheron Beach is an ideal place for a family vacation, romantic walks, and fun gatherings with friends. It offers everything you need for a pleasant and unforgettable stay on the shores of the Black Sea. If you want to enjoy the sun and sea breeze, immerse yourself in the culture and atmosphere of Odessa, and recharge with positive energy, Lanzheron Beach is the perfect choice for your vacation."
+    },
+    "uk": {
+      "title": "Пляж Ланжерон у Одесі: Оазис Сонячного Відпочинку на Березі Чорного Моря",
+      "description": "Одеса - місто моря і сонця, а пляж Ланжерон є одним з найпривабливіших місць для тих, хто шукає ідеальне поєднання комфорту і різноманіття. Розташований в історичному центрі міста, пляж Ланжерон пропонує унікальний досвід відпочинку на березі Чорного моря, оточений архітектурою, культурою та мальовничими краєвидами.",
+      "modernRetroExperience": "Пляж Ланжерон - це історія сучасності, зволожена нотками ретро. Завдяки своєму зручному розташуванню, він є одним з найдоступніших пляжів у Одесі, легко досяжним із різних частин міста. Протяжність цього пляжу становить приблизно 600 метрів, що дозволяє кожному знайти своє усамітнене місце або приєднатися до тусовки на пляжі.",
+      "cleanSandyShores": "Пляж Ланжерон відомий своїми чистими піщаними полуденцями, привабливими для купання і засмаги. Тут можна відпочити на м'яких пляжних шезлонгах, а для любителів активного відпочинку пропонуються різні водні види спорту, такі як віндсерфінг або парасейлінг.",
+      "amenitiesAndServices": "Біля пляжу Ланжерон є всі необхідні зручності та послуги, щоб зробити ваш відпочинок комфортним і безтурботним. Тут розташовані затишні кафе та ресторани з різноманітним меню, де можна скуштувати місцеві делікатеси та свіжі морепродукти. Також на вас чекають пункти прокату пляжного інвентарю та душі, щоб ви могли освіжитися після купання.",
+      "vibrantAtmosphere": "Пляж Ланжерон також славиться своєю яскравою атмосферою та багатою розважальною програмою. Тут часто проводяться заходи, концерти та святкові фестивалі, які створюють живу та радісну атмосферу для всіх гостей пляжу. А ввечері пляж перетворюється на романтичну зону з затишними світлуючими лампами та нічними барами.",
+      "historicalLandmark": "Однак пляж Ланжерон - це не лише місце для відпочинку та розваг, а й своєрідний історичний пам'ятник. Старовинні будівлі, розташовані поруч з пляжем, нагадують про багату історію Одеси та надають особливого колориту цьому місцю.",
+      "perfectPlace": "Пляж Ланжерон - це ідеальне місце для сімейного відпочинку, романтичних прогулянок та веселих зустрічей з друзями. Він пропонує все, що потрібно для приємного та незабутнього відпочинку на березі Чорного моря. Якщо ви хочете насолодитися сонцем і морським бризом, зануритися в культуру та атмосферу Одеси та зарядитися позитивною енергією, пляж Ланжерон стане ідеальним вибором для вашого відпочинку."
+    }
+  },
   "general": {
     "ru": {
       "readTextButton": "Читать статью",
@@ -1086,7 +1117,8 @@
       "deribasovskayaStreet": "Дерибасовская улица",
       "seasideBoulevard": "Приморский бульвар",
       "odessaArchaeologicalMuseum": "Одесский Археологический Музей",
-      "deribasovskayaСityPark": "Городской парк на улице Дерибасовской"
+      "deribasovskayaСityPark": "Городской парк на улице Дерибасовской",
+      "lanzheron": "Пляж Ланжерон"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -1111,7 +1143,9 @@
       "deribasovskayaStreet": "Дерибасівська вулиця",
       "seasideBoulevard": "Приморський бульвар",
       "odessaArchaeologicalMuseum": "Одеський Археологічний Музей",
-      "deribasovskayaСityPark": "Міський парк на вулиці Дерібасівській"
+      "deribasovskayaСityPark": "Міський парк на вулиці Дерібасівській",
+      "lanzheron": "Пляж Ланжерон"
+  
     },
     "en": {
       "readTextButton": "Read article",
@@ -1136,7 +1170,8 @@
       "deribasovskayaStreet": "Deribasivska Street",
       "seasideBoulevard": "Seaside Boulevard",
       "odessaArchaeologicalMuseum": "Odessa Archaeological Museum",
-      "deribasovskayaСityPark": "City Park on Deribasovskaya Street"
+      "deribasovskayaСityPark": "City Park on Deribasovskaya Street",
+      "lanzheron": "Lanzheron Beach"
     }
   }
 }

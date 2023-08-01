@@ -33,6 +33,7 @@ import DeribasovskayaStreet from './pages/DeribasovskayaStreetPage/Deribasovskay
 import SeasideBoulevard from './pages/SeasideBoulevardPage/SeasideBoulevard';
 import ArchaeologicalMuseum from './pages/ArchaeologicalMuseumPage/ArchaeologicalMuseum';
 import CityPark from './pages/CityParkPage/CityPark';
+import Lanzheron from './pages/LanzheronPage/Lanzheron';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -73,6 +74,7 @@ function App() {
             <Route path='/seaside-boulevard' element={<SeasideBoulevard/>} />
             <Route path='/archaeological-museum' element={<ArchaeologicalMuseum/>} />
             <Route path='/city-park' element={<CityPark/>} />
+            <Route path='/lanzheron' element={<Lanzheron/>} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />
