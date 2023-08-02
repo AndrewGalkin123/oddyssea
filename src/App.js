@@ -35,6 +35,7 @@ import ArchaeologicalMuseum from './pages/ArchaeologicalMuseumPage/Archaeologica
 import CityPark from './pages/CityParkPage/CityPark';
 import Lanzheron from './pages/LanzheronPage/Lanzheron';
 import DumskaSquare from './pages/DumskaSquarePage/DumskaSquare';
+import DefenseMonument from './pages/DefenseMonumentPage/DefenseMonument';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -77,6 +78,7 @@ function App() {
             <Route path='/city-park' element={<CityPark/>} />
             <Route path='/lanzheron' element={<Lanzheron/>} />
             <Route path='/dumska-square' element={<DumskaSquare/>} />
+            <Route path='/defense-monument' element={<DefenseMonument/>} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

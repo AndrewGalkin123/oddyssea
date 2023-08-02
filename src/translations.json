@@ -1125,6 +1125,39 @@
       "romanticAtmosphere": "Усе відкрите для того, щоб провести час на Думській площі. Вона манить своєю красою, спокоєм та атмосферою романтики. Тут кожен може насолоджуватися неординарним обличчям Одеси та почувати себе частиною багатої історії і культури"
     }
   },
+  "defenseMonument": {
+    "ru": {
+      "title": "Памятник обороны Одессы: Пушка на Приморском бульваре",
+      "description": "Приморский бульвар в Одессе, который простирается вдоль красивого Черноморского побережья, является одним из самых примечательных мест в городе. Этот живописный бульвар, сочетающий в себе морской бриз, исторические здания и культурные памятники, привлекает как местных жителей, так и туристов. Среди многочисленных интересных моментов на Приморском бульваре выделяется уникальный памятник, символизирующий оборону Одессы – Пушка на Приморском бульваре.",
+      "history": "История этого памятника берет свое начало из далеких времен обороны Одессы. Одесса всегда славилась своей важной геополитической позицией на Черноморском побережье, что сделало ее магнитом для множества враждебных атак. В период обороны города от неприятельских сил, Пушка на Приморском бульваре стала незаменимым инструментом в защите морского города.",
+      "monument": "Сам памятник представляет собой старинную морскую пушку, установленную на высоком постаменте. Ее мощное и грозное орудие, которое когда-то защищало город от врагов, теперь является символом мужества и героизма одесского народа. Пушка на Приморском бульваре стала своего рода памятником морской истории и великолепной архитектурной деталью.",
+      "defense": "Памятник Пушке был возведен в честь тех, кто отважно защищал Одессу в трудные времена. Он напоминает о подвиге и самоотверженности людей, которые стояли на страже своего города, охраняя его от врагов и защищая его мирное население. Этот памятник служит напоминанием о важности защиты своей родины и патриотизма.",
+      "importance": "Кроме исторического значения, Пушка на Приморском бульваре также стала популярным местом для фотографирования. Туристы и местные жители радуются возможности запечатлеть себя рядом с этим уникальным памятником. Величественный вид пушки и прекрасные морские пейзажи делают снимки особенно яркими и запоминающимися.",
+      "popularity": "Памятник обороны Одессы – Пушка на Приморском бульваре - это не просто металлическая конструкция, это символ мужества и гордости Одессы, ее исторической значимости и настойчивости противостоять испытаниям времени. Стремительно развивающийся город сохранил этот памятник как часть своего культурного и национального наследия, которым гордится каждый его житель и гость.",
+      "symbolism": "Великолепный памятник Пушке на Приморском бульваре символизирует мужество и героизм одесского народа, а также важность защиты родины и патриотизма. Он олицетворяет историческую значимость города Одессы и стал не только популярным местом для туристов и фотографирования, но и гордостью местных жителей."
+    },
+    "uk": {
+      "title": "Пам'ятник обороні Одеси: Гармата на Приморському бульварі",
+      "description": "Приморський бульвар у Одесі, який простягається вздовж прекрасного Чорноморського узбережжя, є одним із найвизначніших місць у місті. Цей мальовничий бульвар, який поєднує в собі морський бриз, історичні будівлі та культурні пам'ятки, приваблює як місцевих мешканців, так і туристів. Серед багатьох цікавих моментів на Приморському бульварі виділяється унікальний пам'ятник, символізуючий оборону Одеси - Гармата на Приморському бульварі.",
+      "history": "Історія цього пам'ятника бере свій початок з далеких часів оборони Одеси. Одеса завжди славилася своєю важливою геополітичною позицією на Чорноморському узбережжі, що зробило її магнітом для численних ворожих атак. Під час оборони міста від ворожих сил, Гармата на Приморському бульварі стала незамінним інструментом у захисті морського міста.",
+      "monument": "Сам пам'ятник представляє собою старовинну морську гармату, встановлену на високому постаменті. Її потужна і грізна зброя, яка колись захищала місто від ворогів, тепер є символом мужності і героїзму одеського народу. Гармата на Приморському бульварі стала свого роду пам'ятником морської історії та чудовою архітектурною деталлю.",
+      "defense": "Пам'ятник Гарматі був зведений на честь тих, хто мужньо захищав Одесу в складні часи. Він нагадує про подвиг та самопожертву людей, які стояли на сторожі свого міста, оберігаючи його від ворогів та захищаючи його мирне населення. Цей пам'ятник є нагадуванням про важливість захисту своєї батьківщини та патріотизму.",
+      "importance": "Крім історичного значення, Гармата на Приморському бульварі також стала популярним місцем для фотографування. Туристи тмятник обороны Одессы – Пушка на Приморском бульваре - это не просто металлическая конструкция, это символ мужества и гордоста місцеві мешканці радіють можливості запечатліти себе поруч з цим унікальним пам'ятником. Величезний вид гармати та прекрасні морські пейзажі роблять знімки особливо яскравими і запам'ятовуючимися.",
+      "popularity": "Пам'ятник оборони Одеси - Гармата на Приморському бульварі - це не просто металева конструкція, це символ мужності і гордості Одеси, її історичної значущості та настійливості протистояти випробуванням часу. Швидкорозвиваючийся місто зберегло цей пам'ятник як частину своєї культурної та національної спадщини, якою пишається кожен його мешканець і гість.",
+      "symbolism": "Чудовий пам'ятник Гарматі на Приморському бульварі символізує мужність та героїзм одеського народу, а також важливість захисту батьківщини та патріотизму. Він уособлює історичну значущість міста Одеси та став не лише популярним місцем для туристів та фотографування, а й гордістю місцевих мешканців."
+    },
+    "en": {
+      "title": "Defense Monument of Odessa: Cannon at Primorsky Boulevard",
+      "description": "Primorsky Boulevard in Odessa, stretching along the beautiful Black Sea coast, is one of the most remarkable places in the city. This picturesque boulevard, combining sea breeze, historical buildings, and cultural monuments, attracts both locals and tourists. Among the many interesting features of Primorsky Boulevard, there is a unique monument symbolizing the defense of Odessa - the Cannon at Primorsky Boulevard.",
+      "history": "The history of this monument dates back to the distant times of Odessa's defense. Odessa has always been famous for its important geopolitical position on the Black Sea coast, which made it a magnet for numerous hostile attacks. During the defense of the city from enemy forces, the Cannon at Primorsky Boulevard became an indispensable tool in protecting the maritime city.",
+      "monument": "The monument itself is an ancient naval cannon installed on a high pedestal. Its powerful and formidable artillery, which once defended the city from enemies, now stands as a symbol of courage and heroism of the people of Odessa. The Cannon at Primorsky Boulevard has become a kind of monument to naval history and a magnificent architectural detail.",
+      "defense": "The monument to the Cannon was erected in honor of those who bravely defended Odessa during difficult times. It reminds of the feat and self-sacrifice of the people who stood guard over their city, protecting it from enemies and safeguarding its peaceful population. This monument serves as a reminder of the importance of defending one's homeland and patriotism.",
+      "importance": "In addition to its historical significance, the Cannon at Primorsky Boulevard has also become a popular place for photography. Tourists and local residents enjoy the opportunity to capture themselves next to this unique monument. The imposing view of the cannon and the beautiful sea landscapes make the photos particularly vivid and memorable.",
+      "popularity": "The Defense Monument of Odessa - the Cannon at Primorsky Boulevard - is not just a metal structure, it is a symbol of courage and pride of Odessa, its historical significance, and resilience against the test of time. The rapidly developing city has preserved this monument as part of its cultural and national heritage, of which every resident and guest is proud.",
+      "symbolism": "The magnificent monument to Pushka on Primorsky Boulevard symbolizes the courage and heroism of the Odessa people, as well as the importance of protecting the motherland and patriotism. It embodies the historical significance of the city of Odessa and has become not only a popular place for tourists and photography, but also the pride of local residents."
+    }
+  },
+
 
 
   "general": {
@@ -1153,7 +1186,8 @@
       "odessaArchaeologicalMuseum": "Одесский Археологический Музей",
       "deribasovskayaСityPark": "Городской парк на улице Дерибасовской",
       "lanzheron": "Пляж Ланжерон",
-      "dumskaSquare": "Думская площадь"
+      "dumskaSquare": "Думская площадь",
+      "defenseMonument": "Памятник обороны"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -1180,8 +1214,8 @@
       "odessaArchaeologicalMuseum": "Одеський Археологічний Музей",
       "deribasovskayaСityPark": "Міський парк на вулиці Дерібасівській",
       "lanzheron": "Пляж Ланжерон",
-      "dumskaSquare": "Думська площа"
-  
+      "dumskaSquare": "Думська площа",
+      "defenseMonument": "Пам'ятник обороні"
     },
     "en": {
       "readTextButton": "Read article",
@@ -1208,7 +1242,8 @@
       "odessaArchaeologicalMuseum": "Odessa Archaeological Museum",
       "deribasovskayaСityPark": "City Park on Deribasovskaya Street",
       "lanzheron": "Lanzheron Beach",
-      "dumskaSquare": "Dumska Square"
+      "dumskaSquare": "Dumska Square",
+      "defenseMonument": "Defense Monument"
     }
   }
 }
