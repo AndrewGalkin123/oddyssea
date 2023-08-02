@@ -34,6 +34,7 @@ import SeasideBoulevard from './pages/SeasideBoulevardPage/SeasideBoulevard';
 import ArchaeologicalMuseum from './pages/ArchaeologicalMuseumPage/ArchaeologicalMuseum';
 import CityPark from './pages/CityParkPage/CityPark';
 import Lanzheron from './pages/LanzheronPage/Lanzheron';
+import DumskaSquare from './pages/DumskaSquarePage/DumskaSquare';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -75,6 +76,7 @@ function App() {
             <Route path='/archaeological-museum' element={<ArchaeologicalMuseum/>} />
             <Route path='/city-park' element={<CityPark/>} />
             <Route path='/lanzheron' element={<Lanzheron/>} />
+            <Route path='/dumska-square' element={<DumskaSquare/>} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

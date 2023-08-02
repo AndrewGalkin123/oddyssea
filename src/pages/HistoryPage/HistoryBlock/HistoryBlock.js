@@ -21,6 +21,7 @@ import seasideBoulevard from "../../../assets/historyImages/ab747d0b-7ba6-4f14-a
 import archaeologicalMuseum from "../../../assets/historyImages/0ac18c1a-0211-45be-a5a7-0ba878302f3e.jpeg";
 import cityPark from "../../../assets/historyImages/4085e7ab-0b49-4bf2-bc2e-88ada4b4d628.jpeg"
 import lanzheron from "../../../assets/historyImages/8d51b4a0-110c-446f-9130-1879e9ce792c.jpeg";
+import dumskaSquare from  "../../../assets/historyImages/02ccb430-bbcd-4747-9d45-f9447898ca5a.jpeg"
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -207,10 +208,10 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["lanzheron"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/dumska-square">
+              <img className="picture" src={dumskaSquare} alt="dumskaSquare" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["dumskaSquare"]}</span>
             </a>
               <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
