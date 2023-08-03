@@ -36,6 +36,8 @@ import CityPark from './pages/CityParkPage/CityPark';
 import Lanzheron from './pages/LanzheronPage/Lanzheron';
 import DumskaSquare from './pages/DumskaSquarePage/DumskaSquare';
 import DefenseMonument from './pages/DefenseMonumentPage/DefenseMonument';
+import ArtMuseum from './pages/ArtMuseumPage/ArtMuseum';
+import SpasoPreobrazhenskyCathedral from './pages/SpasoPreobrazhenskyCathedral/SpasoPreobrazhenskyCathedral';
 import { LanguageProvider } from "./contexts/LanguageContext";
 
 
@@ -79,6 +81,8 @@ function App() {
             <Route path='/lanzheron' element={<Lanzheron/>} />
             <Route path='/dumska-square' element={<DumskaSquare/>} />
             <Route path='/defense-monument' element={<DefenseMonument/>} />
+            <Route path='/art-museum' element={<ArtMuseum/>} />
+            <Route path='/preobrazhensky-cathedral' element={<SpasoPreobrazhenskyCathedral/>} />
           </Routes>
           <Footer></Footer>
           <BackToTopButton />

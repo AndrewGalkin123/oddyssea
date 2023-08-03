@@ -1157,7 +1157,70 @@
       "symbolism": "The magnificent monument to Pushka on Primorsky Boulevard symbolizes the courage and heroism of the Odessa people, as well as the importance of protecting the motherland and patriotism. It embodies the historical significance of the city of Odessa and has become not only a popular place for tourists and photography, but also the pride of local residents."
     }
   },
-
+  "artMuseum": {
+    "ru": {
+      "title": "Одесский национальный художественный музей: Цитадель Культурного Наследия",
+      "description": "Одесский национальный художественный музей является одним из самых значимых культурных достояний Украины, удивительной сокровищницей искусства и истории. Расположенный в самом сердце живописного города Одессы, этот музей привлекает миллионы посетителей со всего мира, желающих погрузиться в многогранный мир творчества и культуры.",
+      "history": "История Одесского художественного музея уходит корнями в середину XIX века. Он был основан в 1899 году на основе частных коллекций выдающихся меценатов и местных художников. Изначально музей размещался в здании палаты Новиковых, однако позже его коллекцию перенесли в величественный и влиятельный замок Новиковых, где он находится и по сей день.",
+      "architecture": "Современное здание музея - это произведение искусства само по себе. Оно сочетает в себе ренессансные и барочные архитектурные стили, придавая музею изысканный и элегантный внешний вид. Внутреннее убранство музея также не оставляет равнодушными - золотые орнаменты, хрустальные люстры и шедевры живописи создают атмосферу роскоши и искусства.",
+      "collection": "Одесский национальный художественный музей может гордиться своей бесценной коллекцией. Она насчитывает более 10 тысяч шедевров изобразительного искусства, включая картины, скульптуры, графику, прикладное и декоративно-прикладное искусство. Коллекция охватывает разные эпохи и стили, начиная с средневековья до современности, что делает музей неотъемлемым местом для изучения и обозрения развития искусства на территории Украины и мира.",
+      "creativity": "Одесса - город, который всегда привлекал художников и креативные души. Именно поэтому Одесский художественный музей является не только наблюдательным источником искусства, но и местом встречи творческих людей. Музей проводит выставки и художественные мероприятия, где художники могут демонстрировать свои произведения и обмениваться опытом.",
+      "heritage": "Одесский национальный художественный музей - это место, где культурное наследие живет и раскрывается новому поколению. Он помогает сохранить, осмыслить и понять богатый мир искусства, что дополняет культурный образ страны и её историческое прошлое. Музей - это место, где можно найти вдохновение, воплотить творческие идеи и покориться неповторимому духу искусства. Посетив Одесский национальный художественный музей, вы получите незабываемые впечатления и обогатите свой духовный мир."
+    },
+    "en": {
+      "title": "Odessa National Art Museum: Treasury of Cultural Heritage",
+      "description": "The Odessa National Art Museum is one of Ukraine's most significant cultural assets, an astonishing treasury of art and history. Located in the heart of the picturesque city of Odessa, this museum attracts millions of visitors from all over the world who seek to immerse themselves in the multifaceted world of creativity and culture.",
+      "history": "The history of the Odessa Art Museum dates back to the mid-19th century. It was founded in 1899 based on private collections of prominent patrons and local artists. Initially, the museum was housed in the Novikovs' Palace, but later its collection was moved to the grand and influential Novikovs' Castle, where it remains to this day.",
+      "architecture": "The modern building of the museum is a work of art itself. It combines Renaissance and Baroque architectural styles, giving the museum an exquisite and elegant appearance. The interior decoration of the museum is equally captivating - golden ornaments, crystal chandeliers, and masterpieces of painting create an atmosphere of luxury and art.",
+      "collection": "The Odessa National Art Museum can be proud of its invaluable collection. It includes over 10,000 masterpieces of visual art, including paintings, sculptures, graphics, applied and decorative arts. The collection covers different eras and styles, ranging from the Middle Ages to the present day, making the museum an indispensable place for studying and contemplating the development of art in Ukraine and the world.",
+      "creativity": "Odessa is a city that has always attracted artists and creative souls. Therefore, the Odessa Art Museum is not only an observant source of art but also a meeting place for creative people. The museum hosts exhibitions and art events where artists can showcase their works and exchange experiences.",
+      "heritage": "The Odessa National Art Museum is a place where cultural heritage lives and reveals itself to a new generation. It helps to preserve, comprehend, and understand the rich world of art, complementing the cultural image of the country and its historical past. The museum is a place where one can find inspiration, embody creative ideas, and surrender to the unique spirit of art. By visiting the Odessa National Art Museum, you will gain unforgettable impressions and enrich your spiritual world."
+    },
+    "uk": {
+      "title": "Одеський національний художній музей: Скарбниця Культурної Спадщини",
+      "description": " Одеський національний художній музей є одним із найвизначніших культурних надбань України, дивовижним скарбницею мистецтва та історії. Розташований у самому серці мальовничого міста Одеси, цей музей залучає мільйони відвідувачів з усього світу, які бажають зануритися в багатогранний світ творчості та культури.",
+      "history": "Історія Одеського художнього музею сягає коріннями до середини ХІХ століття. Він був заснований у 1899 році на основі приватних колекцій видатних меценатів та місцевих художників. Початково музей розміщувався в будівлі палацу Новікових, однак згодом його колекцію перенесли до величезного та впливового замку Новікових, де він розташовується й до цього дня.",
+      "architecture": "Сучасна будівля музею - це твір мистецтва сам по собі. Вона поєднує ренесансні та барокові архітектурні стилі, надаючи музею вишуканої та елегантної зовнішності. Внутрішнє прибрання музею також не залишає байдужими - золоті орнаменти, кришталеві люстри та шедеври живопису створюють атмосферу розкоші та мистецтва.",
+      "collection": "Одеський національний художній музей може пишатися своєю безцінною колекцією. Вона налічує понад 10 тисяч шедеврів образотворчого мистецтва, включаючи картини, скульптури, графіку, прикладне мистецтво та декоративно-прикладне мистецтво. Колекція охоплює різні епохи та стилі, починаючи від середньовіччя до сучасності, що робить музей незамінним місцем для вивчення та огляду розвитку мистецтва на території України та світу.",
+      "creativity": "Одеса - місто, що завжди привертало художників та креативних душ. Саме тому Одеський художній музей є не тільки спостережним джерелом мистецтва, але й місцем зустрічі творчих людей. Музей проводить виставки та мистецькі заходи, де митці можуть демонструвати свої твори та обмінюватися досвідом.",
+      "heritage": "Одеський національний художній музей є місцем, де культурна спадщина живе та розкривається новим поколінням. Він допомагає зберегти, засвоїти та розуміти багатий світ мистецтва, що доповнює культурний образ країни та її історичне минуле. Музей - це місце, де можна знайти натхнення, втілити творчі ідеї та підкоритися неповторному духу мистецтва. Відвідавши Одеський національний художній музей, ви отримаєте незабутні враження та збагатите свій духовний світ."
+    }
+  },
+  "spasoPreobrazhenskyCathedral": {
+    "ru": {
+      "title": "Спасо-Преображенский Собор в Одессе: Величественный Храм Богатой Истории и Духовности",
+      "description": "Спасо-Преображенский Собор – это один из самых впечатляющих и значимых храмов Одессы, который вплетает в себя богатую историю и духовность. Этот величественный православный храм, окруженный атмосферой святыни, является духовным центром города и местом паломничества для множества верующих.",
+      "history": "История Спасо-Преображенского Собора уходит корнями в далекое прошлое. Возникновение собора связано с основанием Одессы и началом строительства города в начале XIX века. Первый деревянный храм был возведен в 1808 году, но уже спустя несколько десятилетий, в 1837 году, решено было заменить его каменным собором. Величественное строение, которое мы видим сегодня, было построено в архитектурном стиле русского классицизма по проекту архитектора Франца Боффо.",
+      "architecture": "Спасо-Преображенский Собор является одним из самых красивых архитектурных сооружений Одессы и всей Южной Украины. Его величественные купола, украшенные золоченой мозаикой и крестами, привлекают внимание и восхищение местных жителей и туристов. Вход в храм украшает высокая колоннада и величественная лестница, придающая собору величественный облик.",
+      "interiors": "Внутри Спасо-Преображенского Собора вас встретят великолепные интерьеры, насыщенные росписью и декоративными элементами. Художественные иконы, искусные резные иконостасы и стены, украшенные фресками, создают неповторимую атмосферу духовного вдохновения и покоя. Собор служит домом множеству икон и святынь, привлекая верующих и паломников со всего мира.",
+      "significance": "Одесский Спасо-Преображенский Собор не только архитектурное и художественное произведение, но и свидетель истории города и страны. В разные исторические периоды храм неоднократно перестраивался, реконструировался и реставрировался, каждый раз сохраняя свою уникальную красоту и значение. Во времена тотальитарного режима храм был закрыт для богослужений и использовался под различные мирские нужды, но после восстановления независимости Украины в начале 1990-х годов, Спасо-Преображенский Собор был возвращен Церкви и восстановлен во всей своей славе.",
+      "spiritualLife": "Храм играет значимую роль в духовной жизни Одессы. Ежедневно в храме совершаются богослужения, проводятся крестины, свадьбы и похороны, а также различные религиозные праздники и обряды. Спасо-Преображенский Собор служит местом молитвы и духовного сближения для множества верующих, желающих найти покой и вдохновение в традициях православия.",
+      "touristAttraction": "Спасо-Преображенский Собор стал не только символом духовности и веры для Одессы, но и привлекательным туристическим объектом для множества посетителей. Многие туристы, приезжающие в Одессу, стремятся увидеть этот величественный храм, ознакомиться с его богатой историей и прочувствовать его духовную атмосферу. Множество экскурсионных программ и паломнических маршрутов включают в себя посещение Спасо-Преображенского Собора, что делает его одной из ключевых достопримечательностей города.",
+      "spiritualExperience": "Спасо-Преображенский Собор в Одессе – это не только красивый храм, но и духовное сердце города, место, где отражаются вечные ценности и традиции. Его архитектурная красота и историческая ценность делают его важнейшим элементом культурного наследия Одессы и всей Украины. Каждый, кто вступает на порог этого величественного храма, переживает неповторимый духовный опыт, знакомится с миром духовных ценностей и веры, наполняющей душу благодатью и миром."
+    },
+    "en": {
+      "title": "Spaso-Preobrazhensky Cathedral in Odessa: Majestic Temple of Rich History and Spirituality",
+      "description": "Spaso-Preobrazhensky Cathedral is one of the most impressive and significant churches in Odessa, intertwining rich history and spirituality. This majestic Orthodox cathedral, surrounded by an atmosphere of sanctity, serves as the spiritual center of the city and a place of pilgrimage for many believers.",
+      "history": "The history of Spaso-Preobrazhensky Cathedral dates back to ancient times. The emergence of the cathedral is associated with the founding of Odessa and the beginning of the city's construction in the early 19th century. The first wooden church was built in 1808, but a few decades later, in 1837, it was decided to replace it with a stone cathedral. The magnificent structure we see today was built in the architectural style of Russian classicism, designed by architect Franz Boffo.",
+      "architecture": "Spaso-Preobrazhensky Cathedral is one of the most beautiful architectural landmarks in Odessa and the entire South of Ukraine. Its majestic domes, adorned with gilded mosaics and crosses, attract the attention and admiration of local residents and tourists. The entrance to the temple is decorated with a high colonnade and a grand staircase, giving the cathedral a majestic appearance.",
+      "interiors": "Inside Spaso-Preobrazhensky Cathedral, visitors are greeted with magnificent interiors, richly adorned with murals and decorative elements. Artistic icons, intricate iconostases, and walls adorned with frescoes create a unique atmosphere of spiritual inspiration and tranquility. The cathedral houses numerous icons and holy relics, attracting believers and pilgrims from all over the world.",
+      "significance": "Odessa's Spaso-Preobrazhensky Cathedral is not only an architectural and artistic masterpiece but also a witness to the history of the city and the country. In different historical periods, the cathedral was repeatedly rebuilt, reconstructed, and restored, each time preserving its unique beauty and significance. During the totalitarian regime, the church was closed for worship and used for various secular purposes, but after Ukraine regained its independence in the early 1990s, Spaso-Preobrazhensky Cathedral was returned to the Church and restored to its former glory.",
+      "spiritualLife": "The cathedral plays a significant role in the spiritual life of Odessa. Daily services are held here, including baptisms, weddings, and funerals, as well as various religious holidays and rituals. Spaso-Preobrazhensky Cathedral serves as a place of prayer and spiritual communion for many believers seeking peace and inspiration in the traditions of Orthodoxy.",
+      "touristAttraction": "Spaso-Preobrazhensky Cathedral has become not only a symbol of spirituality and faith for Odessa but also an attractive tourist destination for many visitors. Many tourists who come to Odessa seek to see this majestic temple, learn about its rich history, and experience its spiritual atmosphere. Numerous guided tours and pilgrimage routes include a visit to Spaso-Preobrazhensky Cathedral, making it one of the key landmarks of the city.",
+      "spiritualExperience": "Spaso-Preobrazhensky Cathedral in Odessa is not just a beautiful church but also the spiritual heart of the city, a place where eternal values and traditions thrive. Its architectural beauty and historical significance make it an essential element of Odessa's cultural heritage and that of all of Ukraine. Anyone who steps through the doors of this magnificent cathedral experiences a unique spiritual journey, acquaints themselves with the world of spiritual values and faith, and finds solace and tranquility in its grace and peace."
+    },
+    "uk": {
+      "title": "Спасо-Преображенський Собор у Одесі: Величний Храм Багатої Історії та Духовності",
+      "description": "Спасо-Преображенський Собор - це один із найвражаючіших і значущих храмів Одеси, який переплітає багату історію та духовність. Цей величний православний храм, оточений атмосферою святині, є духовним центром міста та місцем паломництва для багатьох вірян.",
+      "history": "Історія Спасо-Преображенського Собору сягає коріннями в далеке минуле. Виникнення собору пов'язане з заснуванням Одеси і початком будівництва міста на початку XIX століття. Перший дерев'яний храм був побудований у 1808 році, але вже через кілька десятиліть, у 1837 році, було вирішено замінити його кам'яним собором. Величний споруда, яку ми бачимо сьогодні, була побудована в архітектурному стилі російського класицизму за проектом архітектора Франца Боффо.",
+      "architecture": "Спасо-Преображенський Собор є одним із найкрасивіших архітектурних споруд Одеси та всієї Південної України. Його величні куполи, прикрашені золоченою мозаїкою та хрестами, привертають увагу та захоплення місцевих мешканців і туристів. Вхід до храму прикрашає висока колонада та величний сходини, що надає собору величного вигляду.",
+      "interiors": "Усередині Спасо-Преображенського Собору вас зустрінуть великолепні інтер'єри, насичені розписом та декоративними елементами. Художні ікони, високохудожні іконостаси та стіни, прикрашені фресками, створюють неповторну атмосферу духовного натхнення та спокою. Собор служить домом багатьом іконам і святинням, привертаючи вірян і паломників з усього світу.",
+      "significance": "Одеський Спасо-Преображенський Собор не тільки архітектурне та художнє діло, але й свідок історії міста та країни. У різні історичні періоди храм неодноразово перебудовувався, реконструювався і реставрувався, зберігаючи кожного разу свою унікальну красу та значення. У часи тоталітарного режиму храм був закритий для богослужінь і використовувався під різні світські потреби, але після відновлення незалежності України на початку 1990-х років, Спасо-Преображенський Собор був повернутий Церкві та відновлений в усій своїй славі.",
+      "spiritualLife": "Храм відіграє значну роль у духовному житті Одеси. Щоденно в храмі відправляються богослужіння, проводяться хрести, весілля і похорони, а також різні релігійні свята і обряди. Спасо-Преображенський Собор служить місцем молитви та духовного зближення для багатьох вірян, які бажають знайти спокій та натхнення у традиціях православ'я.",
+      "touristAttraction": "Спасо-Преображенський Собор став не лише символом духовності та віри для Одеси, а й привабливим туристичним об'єктом для багатьох відвідувачів. Багато туристів, які приїжджають в Одесу, прагнуть побачити цей величний храм, ознайомитися з його багатою історією та пережити його духовну атмосферу. Багато екскурсійних програм та паломницьких маршрутів включають відвідання Спасо-Преображенського Собору, що робить його одним із ключових визначних місць міста.",
+      "spiritualExperience": "Спасо-Преображенський Собор у Одесі - це не тільки красивий храм, але і духовне серце міста, місце, де б'ють вічні цінності та традиції. Його архітектурна краса та історична цінність роблять його особливо важливим елементом культурної спадщини Одеси та всієї України. Кожен, хто ступає на поріг цього величного храму, переживає неповторний духовний досвід, знайомиться із світом духовних цінностей і віри, що сповнює душу благодаттю і миром."
+    }
+  },
 
 
   "general": {
@@ -1187,7 +1250,9 @@
       "deribasovskayaСityPark": "Городской парк на улице Дерибасовской",
       "lanzheron": "Пляж Ланжерон",
       "dumskaSquare": "Думская площадь",
-      "defenseMonument": "Памятник обороны"
+      "defenseMonument": "Памятник обороны",
+      "artMuseum": "Одесский национальный художественный музей",
+      "spasoPreobrazhenskyCathedral": "Спасо-Преображенский Собор в Одессе"
     },
     "uk": {
       "readTextButton": "Читати статтю",
@@ -1215,7 +1280,9 @@
       "deribasovskayaСityPark": "Міський парк на вулиці Дерібасівській",
       "lanzheron": "Пляж Ланжерон",
       "dumskaSquare": "Думська площа",
-      "defenseMonument": "Пам'ятник обороні"
+      "defenseMonument": "Пам'ятник обороні",
+      "artMuseum": "Одеський національний художній музей",
+      "spasoPreobrazhenskyCathedral": "Спасо-Преображенський Собор у Одесі"
     },
     "en": {
       "readTextButton": "Read article",
@@ -1243,7 +1310,9 @@
       "deribasovskayaСityPark": "City Park on Deribasovskaya Street",
       "lanzheron": "Lanzheron Beach",
       "dumskaSquare": "Dumska Square",
-      "defenseMonument": "Defense Monument"
+      "defenseMonument": "Defense Monument",
+      "artMuseum": "Odessa National Art Museum",
+      "spasoPreobrazhenskyCathedral": "Spaso-Preobrazhensky Cathedral in Odessa"
     }
   }
 }

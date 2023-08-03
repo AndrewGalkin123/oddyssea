@@ -23,6 +23,8 @@ import cityPark from "../../../assets/historyImages/4085e7ab-0b49-4bf2-bc2e-88ad
 import lanzheron from "../../../assets/historyImages/8d51b4a0-110c-446f-9130-1879e9ce792c.jpeg";
 import dumskaSquare from  "../../../assets/historyImages/02ccb430-bbcd-4747-9d45-f9447898ca5a.jpeg"
 import defenseMonument from  "../../../assets/historyImages/efa5d37a-ddb7-4829-b89d-87cc8759d444.jpeg"
+import artMuseum from "../../../assets/historyImages/eb543f5d-204f-4e53-b5f9-dc400b063468.jpeg"
+import preobrazhenskyCathedral from "../../../assets/historyImages/0e67a32e-8405-4f3c-ae6c-2426e2120d7a.jpeg";
 import "./HistoryBlock.css";
 import squareType from "../../../assets/icons/squares.png";
 import listType from "../../../assets/icons/free-icon-checklist-876749.png";
@@ -219,15 +221,15 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["defenseMonument"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/art-museum">
+              <img className="picture" src={artMuseum} alt="artMuseum" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["artMuseum"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
+            <a className="photo_item" href="/preobrazhensky-cathedral">
+              <img className="picture" src={preobrazhenskyCathedral} alt="spasoPreobrazhenskyCathedral" />
               <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
+              <span className="photo_item_title">{general["spasoPreobrazhenskyCathedral"]}</span>
             </a>
             <a className="photo_item">
               <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
