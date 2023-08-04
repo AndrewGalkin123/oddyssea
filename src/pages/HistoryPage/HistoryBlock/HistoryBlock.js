@@ -231,30 +231,7 @@ const HistoryBlock = () => {
               <span className="photo_block-item"></span>
               <span className="photo_item_title">{general["spasoPreobrazhenskyCathedral"]}</span>
             </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
-            <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>  <a className="photo_item">
-              <img className="picture" src={viewFromOdessaFerrisWheel} alt="descent coast" />
-              <span className="photo_block-item"></span>
-              <span className="photo_item_title">Одесса, Черноморск</span>
-            </a>
+           
           </div>
         )}
         {showHistoryListType && <HistoryBlockListType />}

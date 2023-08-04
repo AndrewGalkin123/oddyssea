@@ -4,7 +4,7 @@ import CultureBlock from "./CultureBlock/CultureBlock";
 const CulturePage = () => {
     return (
         <div>
-            <CultureBlock></CultureBlock>
+         
         </div>
     )
 }
