@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import viewFromOdessaFerrisWheel from "../../../assets/cultureImages/odessa-ferris-wheel.jpg";
 import odessaFerrisWheel from "../../../assets/historyImages/picturepicture15282_22973.jpg"
 import theaterGarden from "../../../assets/historyImages/opera.jpg"
 import vorontsovskyLighthouse from "../../../assets/historyImages/lighthouse.jpg"

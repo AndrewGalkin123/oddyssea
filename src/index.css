@@ -145,6 +145,9 @@ html {
     .content {
         flex-direction: column;
     }
+    .content h1 { 
+        font-size: 26px;
+    }
 
     .otherContent {
         width: 94%;
