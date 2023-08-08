@@ -43,10 +43,11 @@ const CulturePage = () => {
                 fontSize: "20px",
                 color: "#515151",
                 marginBottom: "30px",
-                marginTop: "50px",
-                display: "flex",
+                marginTop: "50px"
+              
             }}>
                 <h1>{general["historicalheritageFull"]}</h1>
+                <p>{general["historicalheritageFull"]}</p>
             </div>
         </div>
     );
