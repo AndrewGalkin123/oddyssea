@@ -90,7 +90,32 @@ const CulturePage = () => {
                 <p>{culturePageTranslations["Conclusion"]}</p><br></br>
 
                 <h1>{general["cuisineAndGastronomyFull"]}</h1><br></br>
+                <p>{culturePageTranslations["culinaryTraditions"]}</p>
+                <p>{culturePageTranslations["uniqueFeatures"]}</p><br></br>
+                <p>{culturePageTranslations["odessaCuisine"]}</p><br></br>
+                <p>{culturePageTranslations["odessaSalad"]}</p><br></br>
+                <p>{culturePageTranslations["forshmak"]}</p><br></br>
+                <p>{culturePageTranslations["influenceOfCultures"]}</p>
+                <p>{culturePageTranslations["multinationalCharacter"]}</p><br></br>
+                <p>{culturePageTranslations["famousRestaurants"]}</p>
+                <p>{culturePageTranslations["odessaRestaurants"]}</p>
+                <p>{culturePageTranslations["restaurantKumpel"]}</p>
+                <p>{culturePageTranslations["restaurantPalata6"]}</p>
+                <p>{culturePageTranslations["cafeKotofey"]}</p>
+                <p>{culturePageTranslations["cafeVarenichnaya1"]}</p><br></br>
+                <p>{culturePageTranslations["odessaCuisineExperience"]}</p><br></br>
+
+                
                 <h1>{general["languagesAndDialectsFull"]}</h1><br></br>
+                <p>{culturePageTranslations["linguisticDiversity"]}</p><br></br>
+                <p>{culturePageTranslations["odessaDialect"]}</p>
+                <p>{culturePageTranslations["odessaDialectDescription"]}</p><br></br>
+                <p>{culturePageTranslations["russianLanguage"]}</p>
+                <p>{culturePageTranslations["multilingualSociety"]}</p><br></br>
+                <p>{culturePageTranslations["culturalHeritage"]}</p>
+                <p>{culturePageTranslations["conclusion"]}</p><br></br>
+           
+
                 <h1>{general["folkTraditionsFull"]}</h1><br></br>
                 <h1>{general["marineFull"]}</h1><br></br>
                 <h1>{general["contemporaryArtsFull"]}</h1><br></br>
