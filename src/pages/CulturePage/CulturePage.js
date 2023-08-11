@@ -117,14 +117,23 @@ const CulturePage = () => {
            
 
                 <h1>{general["folkTraditionsFull"]}</h1><br></br>
+
                 <h1>{general["marineFull"]}</h1><br></br>
+
                 <h1>{general["contemporaryArtsFull"]}</h1><br></br>
+
                 <h1>{general["localLifestylesFull"]}</h1><br></br>
+
                 <h1>{general["culturalProjectsFull"]}</h1><br></br>
+
                 <h1>{general["multinationalInfluenceFull"]}</h1><br></br>
+
                 <h1>{general["touristAttractionFull"]}</h1><br></br>
+
                 <h1>{general["theatersAndArtFull"]}</h1><br></br>
+
                 <h1>{general["museumsAndExhibitionsFull"]}</h1><br></br>
+                
             </div>
         </div>
     );
